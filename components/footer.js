@@ -65,7 +65,7 @@ export default function Footer() {
             <IconBrandInstagram className="inline" stroke={1.3} />
           </Link>
           <Link
-            href="https://github.com/petrkucerak/diecezko.cz"
+            href="https://github.com/DCM-HK/diecezko.cz"
             target="_blank"
             rel="external"
             title="Repositář projektu na Githubu"

@@ -108,7 +108,7 @@ export default function Header() {
           >
             Diecézko.cz
             <span className="text-xs relative top-[0.7rem] -left-2 text-shadow-lg text-[#f2e7c9] shadow-[#f2e7c9] font-semibold">
-              2025
+              2026
             </span>
           </Link>
         </div>
