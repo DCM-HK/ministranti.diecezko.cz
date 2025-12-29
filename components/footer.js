@@ -38,6 +38,14 @@ export default function Footer() {
           >
             Diecézko jaro 2024
           </Link>
+            {" • "}
+          <Link
+            href="https://2025.diecezko.cz/"
+            target="_blank"
+            className="cursor-pointer underline"
+          >
+            Diecézko jaro 2025
+          </Link>
         </div>
         <div className="flex flex-row items-center justify-around min-w-[150px]">
           <Link
