@@ -19,6 +19,7 @@ import Link from "next/link";
 import Nbsp from "../format/nbsp";
 import Strong from "../format/strong";
 import Infographic from "../infographic";
+import Countdown from "../countdown";
 
 export default function DiecezkoInfo({ id, className }) {
   return (
@@ -28,6 +29,7 @@ export default function DiecezkoInfo({ id, className }) {
           <span className="text-base text-center"></span>
         </div>
         <div className="flex flex-col items-center w-[90vw]">
+          <Countdown countDownDate={new Date("March 28, 2026 09:30:00")} />
           <h1 className="text-6xl md:text-7xl uppercase leading-tight tracking-wide text-center text-shadow-lg shadow-[#f2e7c9] text-[#f2e7c9] font-blushes mb-8">
             <span className="block">Diecézní</span>
             <yel className="text-[#fbf3e3] text-shadow-lg text-7xl md:text-8xl shadow-[#fbf3e3]">

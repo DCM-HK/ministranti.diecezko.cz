@@ -79,7 +79,7 @@ export default function Countdown({ countDownDate }) {
     }, 1000);
   });
   return (
-    <div className="flex flex-col items-center justify-center -mt-1 tracking-tight scale-75 md:scale-100">
+    <div className="flex flex-col items-center justify-center -mt-1 tracking-tight scale-75 md:scale-100 md:mb-4">
       {/* <p className="uppercase font-semibold -mb-2 tracking-wider">JIŽ ZA</p> */}
       <div className="flex flex-row text-xl items-center justify-center rounded-xl p-1 font-semibold">
         <div
