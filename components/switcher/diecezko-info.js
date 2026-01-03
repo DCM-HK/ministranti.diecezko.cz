@@ -24,13 +24,13 @@ import Countdown from "../countdown";
 export default function DiecezkoInfo({ id, className }) {
   return (
     <Container id={id} className={className}>
-      <div className="min-h-[75vh] flex flex-col items-center justify-around">
+      <div className="min-h-[55vh] flex flex-col items-center justify-around">
         <div className="flex flex-col items-center w-full">
           <span className="text-base text-center"></span>
         </div>
         <div className="flex flex-col items-center w-[90vw]">
           <Countdown countDownDate={new Date("March 28, 2026 09:30:00")} />
-          <h1 className="text-6xl md:text-7xl uppercase leading-tight tracking-wide text-center text-shadow-lg shadow-[#f2e7c9] text-[#f2e7c9] font-blushes mb-8">
+          <h1 className="text-6xl md:text-7xl uppercase leading-tight tracking-wide text-center text-shadow-lg shadow-[#f2e7c9] text-[#f2e7c9] font-blushes mb-4">
             <span className="block">Diecézní</span>
             <yel className="text-[#fbf3e3] text-shadow-lg text-7xl md:text-8xl shadow-[#fbf3e3]">
               setkání
