@@ -41,7 +41,7 @@ export default function DiecezkoInfo({ id, className }) {
             v Hradci Králové
           </p>
           <p className="text-2xl text-center tracking-wide text-shadow-lg shadow-white mt-1 font-blushes">
-            28. 3. 2026 • 9.30
+            28. 3. 2026 • 9:30
           </p>
         </div>
         <div className="w-[90vw] max-w-[500px] grid grid-cols-2 grid-flow-row gap-4 items-center auto-cols-max">
