@@ -81,6 +81,7 @@ export default function DiecezkoInfo({ id, className }) {
               <span className="ml-2 text-left">Galerie</span>
             </button>
           </Link>
+          {/*
           <Link
             href="https://sumar.diecezko.cz/"
             target="_blank"
@@ -95,6 +96,7 @@ export default function DiecezkoInfo({ id, className }) {
               <span className="ml-2 text-left">Hra: Sumář</span>
             </button>
           </Link>
+          */}
         </div>
       </div>
       <Infographic />
