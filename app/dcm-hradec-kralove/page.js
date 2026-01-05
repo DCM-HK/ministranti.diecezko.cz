@@ -162,7 +162,7 @@ export const dcm = [
   {
     name: "P. Jenda Pitřinec",
     description:
-      "O. Jenda je od září 2025 novým ředitelem DCŽM Vesmír a DCM Hradec Králové. Prošel skautem, VeKou, ZUŠkou (hraje na housle) a&nbsp;gymplem. Část seminárních studií prožil v&nbsp;Římě. Provozuje všechny druhy sportů od windsurfu přes tenis, fotbal až k&nbsp;lyžím a&nbsp;snowboardu. Rád poslouchá ale i&nbsp;se aktivně zapojuje do hudby či zpěvu. Miluje jídlo – především to z&nbsp;hovězího. Těší jej povídání si s&nbsp;druhými zvlášť při kafi či jiných dobrých italských pochutinách.",
+      "O. Jenda je od září 2025 novým ředitelem DCŽM Vesmír a DCM Hradec Králové. Prošel skautem, VeKou, ZUŠkou (hraje na housle) a&nbsp;gymplem. Část seminárních studií prožil v&nbsp;Římě. Provozuje všechny druhy sportů od windsurfu přes tenis, fotbal až k&nbsp;lyžím a&nbsp;snowboardu. Rád poslouchá, ale i&nbsp;se aktivně zapojuje do hudby či zpěvu. Miluje jídlo – především to z&nbsp;hovězího. Těší jej povídání si s&nbsp;druhými zvlášť při kafi či jiných dobrých italských pochutinách.",
     jpgPath: "/assets/images/dcm/pitrinec.jpg",
     webpPath: "/assets/images/dcm/pitrinec.webp",
     altText: "Profilová fotka P. Jendy Pitřince",
