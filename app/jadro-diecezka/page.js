@@ -51,9 +51,27 @@ export const ecko = [
     className: "",
   },
   {
+    name: "P. Jenda Pitřinec",
+    description:
+      "Jenda je nejen ředitelem Vesmíru a&nbsp;DCM, ale hlavně duchovní opora celého přípravného týmu. Rád se zamýšlí nad průběhem celého Diecézka a&nbsp;přichází s&nbsp;pointy k&nbsp;vylepšení.",
+    jpgPath: "/assets/images/dcm/pitrinec.jpg",
+    webpPath: "/assets/images/dcm/pitrinec.webp",
+    altText: "Profilová fotka o. Jendy Pitřince",
+    className: "",
+  },
+  {
+    name: "Mons. Prokop Brož",
+    description:
+      "Prokop má na starosti pastorační činnost v&nbsp;naší diecézi. Stará se o&nbsp;to, aby všichni táhli za jeden provaz. Řídí se heslem: Bez Ducha Svatého ani ránu!",
+    jpgPath: "/assets/images/jadro/broz.jpg",
+    webpPath: "/assets/images/jadro/broz.webp",
+    altText: "Profilová fotka Mons. Prokopa Brože",
+    className: "",
+  },  
+  {
     name: "Klárka Petrová",
     description:
-      "Klárka je vedoucí DCM. Stará se o&nbsp;všechny, kteří připravují Diecézko.",
+      "Klárka je vedoucí DCM. Koordinuje přípravu a&nbsp;průběh Diecézka. Též se stará o&nbsp;všechny, kteří setkání připravují.",
     jpgPath: "/assets/images/jadro/petrova.jpg",
     webpPath: "/assets/images/jadro/petrova.webp",
     altText: "Profilová fotka Klárky Petrové",
@@ -62,28 +80,19 @@ export const ecko = [
   {
     name: "Klárka Kopecká",
     description:
-      "Manažerka Klárka komunikuje s&nbsp;hosty. Domlouvá s&nbsp;nimi detaily jejich přednášek.",
-    jpgPath: "/assets/images/jadro/klarka.jpg",
-    webpPath: "/assets/images/jadro/klarka.webp",
+      "Manažerka Klárka komunikuje s&nbsp;hosty. Domlouvá s&nbsp;nimi detaily jejich přednášek a&nbsp;stará se o&nbsp;ně v&nbsp;průběhu Diecézka.",
+    jpgPath: "/assets/images/jadro/kopecka.jpg",
+    webpPath: "/assets/images/jadro/kopecka.webp",
     altText: "Profilová fotka Klárky Kopecké",
     className: "",
   },
   {
-    name: "Verča Pavlišová",
+    name: "Josi Pazderová",
     description:
-      "Verča pečuje o&nbsp;pohodlí našich žaludků. Dále se stará o&nbsp;to, aby vše dobře vypadalo.",
-    jpgPath: "/assets/images/jadro/pavlisova.jpg",
-    webpPath: "/assets/images/jadro/pavlisova.webp",
-    altText: "Profilová fotka Verči Pavlišové",
-    className: "",
-  },
-  {
-    name: "Joska Pazderová",
-    description:
-      "Joska je vrchní velitelka úklidové čety. Kromě každého odpadku vyhozeného do správného koše ocení i&nbsp;ochotnou pomocnou ruku. Také se stará o&nbsp;to, aby Diecézko vypadalo dobře na&nbsp;sociálních sítích.",
-    jpgPath: "/assets/images/jadro/joska.jpg",
-    webpPath: "/assets/images/jadro/joska.webp",
-    altText: "Profilová fotka Josky Pazderové",
+      "Josi vás se svým týmem označí náramkem při vstupu do Filharmonie. Také se stará o&nbsp;to, aby Diecézko vypadalo dobře na&nbsp;sociálních sítích.",
+    jpgPath: "/assets/images/jadro/pazderova.jpg",
+    webpPath: "/assets/images/jadro/pazderova.webp",
+    altText: "Profilová fotka Josi Pazderové",
     className: "",
   },
   {
@@ -96,61 +105,60 @@ export const ecko = [
     className: "",
   },
   {
-    name: "prof. Ondra Mařík",
+    name: "Terezka Škarydová",
     description:
-      "Ondra je spolu s&nbsp;Klárkou K. generálem BiGy. Stará se o&nbsp;zázemí nejen pro hosty, ale i&nbsp;pro všechny, kteří budou na BiGy.",
-    jpgPath: "/assets/images/jadro/marik.jpg",
-    webpPath: "/assets/images/jadro/marik.webp",
-    altText: "Profilová fotka Ondry Maříka",
+      "Terezka společně s&nbsp;Aničkou&nbsp;K. pečují o&nbsp;pohodlí našich žaludků po celý den.",
+    jpgPath: "/assets/images/jadro/skarydova.jpg",
+    webpPath: "/assets/images/jadro/skarydova.webp",
+    altText: "Profilová fotka Terezky Škarydové",
+    className: "",
+  },  
+  {
+    name: "Anička Koubková",
+    description:
+      "Anička společně s&nbsp;Terezkou pečují o&nbsp;pohodlí našich žaludků po celý den.",
+    jpgPath: "/assets/images/jadro/koubkova.jpg",
+    webpPath: "/assets/images/jadro/koubkova.webp",
+    altText: "Profilová fotka Aničky Koubkové",
+    className: "",
+  },
+  {
+    name: "Dan Blažek",
+    description:
+      "Dan a&nbsp;jeho tým v&nbsp;oranžových vestičkách vám zajistí bezpečný doprovod až na přednášku.",
+    jpgPath: "/assets/images/dcm/blazek.jpg",
+    webpPath: "/assets/images/dcm/blazek.webp",
+    altText: "Profilová fotka Dana Blažka",
     className: "",
   },
   {
     name: "Matyáš Mesi Meisner",
     description:
-      "Mesi a&nbsp;jeho tým v&nbsp;oranžových vestičkách vám zajistí bezpečný doprovod až na přednášku.",
-
-    altText: "Profilová fotka Matyáše Messiho Majsnera",
-    jpgPath: "/assets/images/jadro/majsner.jpg",
-    webpPath: "/assets/images/jadro/majsner.webp",
+      "Mesi připravuje slavnostní slavení společné mše svaté na závěr Diecézka. Též přispívá svými praktickými poznámkami k&nbsp;průběhu setkání.",
+    jpgPath: "/assets/images/jadro/meisner.jpg",
+    webpPath: "/assets/images/jadro/meisner.webp",
+    altText: "Profilová fotka Matyáše Meisnera",
     className: "",
-  },
+  },       
   {
     name: "Jindra Řezníček",
     description:
-      "Jindra se stará o&nbsp;kaplany pro mládež a&nbsp;jejich zástupce, pomáhá sytit web obsahem a&nbsp;při vstupu do Filharmonie vás se svým týmem označí náramkem.",
+      "Jindra se stará o&nbsp;kaplany pro mládež a&nbsp;jejich zástupce, pomáhá sytit web obsahem a&nbsp;na BiGy se svým týmem připravuje zázemí pro všechny na Diecézku.",
     jpgPath: "/assets/images/jadro/reznicek.jpg",
     webpPath: "/assets/images/jadro/reznicek.webp",
     altText: "Profilová fotka Jindry Řezníčka",
     className: "",
   },
-  {
-    name: "P. Tomáš Hoffmann",
-    description:
-      "Tomáš je nejen ředitelem Vesmíru a&nbsp;DCM, ale hlavně duchovní opora celého přípravného týmu.",
-    altText: "Profilová fotka o. Tomáš Hoffmann",
-    jpgPath: "/assets/images/jadro/hoffmann.jpg",
-    webpPath: "/assets/images/jadro/hoffmann.webp",
-    className: "",
-  },
-  {
-    name: "Mons. Prokop Brož",
-    description:
-      "Prokop má na starosti pastorační činnost v&nbsp;naší diecézi. Stará se o&nbsp;to, aby všichni táhli za jeden provaz. Řídí se heslem: Bez Ducha Svatého ani ránu!",
-    altText: "Profilová fotka Mons. Prokopa Brože",
-    jpgPath: "/assets/images/jadro/broz.jpg",
-    webpPath: "/assets/images/jadro/broz.webp",
-    className: "",
-  },
-  {
+  /* {
     name: "Vojta Vlach",
     description:
       "Vojta je ostřílený kapelník Vesmírné kapely, která doprovodí dopolední program ve Filharmonii. Dále pomáhá s&nbsp;webem diecézko.cz.",
-    altText: "Profilová fotka Vojta Vlach",
-    jpgPath: "/assets/images/jadro/pan-vlach.jpg",
-    webpPath: "/assets/images/jadro/pan-vlach.webp",
+    jpgPath: "/assets/images/jadro/vlach.jpg",
+    webpPath: "/assets/images/jadro/vlach.webp",
+    altText: "Profilová fotka Vojty Vlacha",
     className: "",
-  },
-  {
+  }, */
+  /* {
     name: "Pavel Vocl",
     description:
       "Pavel má na starosti technickou stránku režijního programu ve Filharmonii.",
@@ -158,14 +166,14 @@ export const ecko = [
     jpgPath: "/assets/images/jadro/vocl.jpg",
     webpPath: "/assets/images/jadro/vocl.webp",
     className: "",
-  },
+  }, */
   {
-    name: "Petr Kučera",
+    name: "Vojta Vlach",
     description:
-      "Petr se stará o&nbsp;web diecézko.cz a&nbsp;pomáhá s&nbsp;technickým zabezpečením celé akce.",
-    jpgPath: "/assets/images/jadro/kucera.jpg",
-    webpPath: "/assets/images/jadro/kucera.webp",
-    altText: "Profilová fotka Petr Kučery",
+      "Vojta vytváří web diecézko.cz a&nbsp;pomáhá s&nbsp;technickým zabezpečením celé akce.",
+    jpgPath: "/assets/images/jadro/vlach.jpg",
+    webpPath: "/assets/images/jadro/vlach.webp",
+    altText: "Profilová fotka Vojty Vlacha",
     className: "",
   },
 ];
