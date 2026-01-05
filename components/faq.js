@@ -139,10 +139,10 @@ export default function FAQ() {
         &nbsp;a&nbsp;budeme s&nbsp;Tebou počítat. Na Diecézko se přihlas do
         31.&nbsp;3.&nbsp;2025, abychom Ti stihli zajistit bagetu a&nbsp;pitíčko
         k&nbsp;obědu. <br />
-        <strong>Nestihl/a ses přihlásit v daném termínu?</strong> Nevadí,
+        {/* <strong>Nestihl/a ses přihlásit v daném termínu?</strong> Nevadí,
         i&nbsp;tak s&nbsp;tebou <strong>počítáme</strong>. Objednali jsme bagety
         navíc. Prosíme, i&nbsp;nadále vyplň přihlášku, ať víme, že dorazíš.
-        Děkujeme 😊{" "}
+        Děkujeme 😊{" "} */}
       </FaqBox>
       <FaqBox question={`Jak se přihlásit na odpolední program?`} icon={`old`}>
         <strong>
