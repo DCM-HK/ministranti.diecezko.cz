@@ -89,7 +89,7 @@ export const ecko = [
   {
     name: "Josi Pazderová",
     description:
-      "Josi vás se svým týmem označí náramkem při vstupu do Filharmonie. Také se stará o&nbsp;to, aby Diecézko vypadalo dobře na&nbsp;sociálních sítích.",
+      "Josi vás se svým týmem označí náramkem při vstupu do Filharmonie. Také se stará o&nbsp;to, aby po Diecézku bylo všude uklizeno.",
     jpgPath: "/assets/images/jadro/pazderova.jpg",
     webpPath: "/assets/images/jadro/pazderova.webp",
     altText: "Profilová fotka Josi Pazderové",
