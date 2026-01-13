@@ -4,7 +4,7 @@ import Link from "next/link";
 import Button from "../layouts/button";
 import IconCustomVeka from "../images/veka";
 import ContainerH2 from "../layouts/container-h2";
-import { IconArrowBarToDown, IconChessBishop, IconMap, IconSailboat2, IconTower } from "@tabler/icons";
+import { IconArrowBarToDown, IconChessBishop, IconMap, IconSailboat2, IconTower, IconCloud } from "@tabler/icons";
 import IconCustomDCM from "../images/dcm-hk";
 import IconCustomVesmir from "../images/vesmir";
 import IconCustomSalas from "../images/salas";
@@ -44,14 +44,14 @@ export default function SpolecenstviInfo({ id, className }) {
           </Button>
         </Link>
         <Link
-          href="https://www.svetovednymladeze.cz/"
+          href="https://celostatnisetkanimladeze.cz/"
           rel="external"
           target="_blank"
           className=""
         >
           <Button>
-            <IconSailboat2 className={`inline h-6 mr-2`} />
-            Jubileum mládeže
+            <IconCloud className={`inline h-6 mr-2`} />
+            CSM Ostrava
           </Button>
         </Link>
       </CardFeed>
