@@ -72,7 +72,7 @@ export default async function Vikariaty() {
 const gallery = [
   {
     path: "/assets/images/vikariaty-skupinove/vikariaty_skupinove_02.jpg",
-    alt: "Skupinová fotka vikariátu Kutná Hora-Poděbrady",
+    alt: "Skupinová fotka vikariátu Kutná Hora",
   },
   {
     path: "/assets/images/vikariaty-skupinove/vikariaty_skupinove_01.jpg",
