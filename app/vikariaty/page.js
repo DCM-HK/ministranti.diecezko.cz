@@ -270,7 +270,7 @@ export const vikariaty = [
     },
   },
   {
-    name: "Kutná Hora - Poděbrady",
+    name: "Kutná Hora",
     // description:
     //   "Virům silnými hornina snad geologickou kladení souvisela úhlem. Varování pasivitou míst o amerických padesátiminutový jako tito zaslechl neobvyklé virů či přichytávacích mamutů víceméně rozdělit fakticky obrovským.",
     priest: {
