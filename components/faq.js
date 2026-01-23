@@ -137,7 +137,7 @@ export default function FAQ() {
           </Link>
         </strong>
         &nbsp;a&nbsp;budeme s&nbsp;Tebou počítat. Na Diecézko se přihlas do
-        31.&nbsp;3.&nbsp;2025, abychom Ti stihli zajistit bagetu a&nbsp;pitíčko
+        22.&nbsp;3.&nbsp;2026, abychom Ti stihli zajistit bagetu a&nbsp;pitíčko
         k&nbsp;obědu. <br />
         {/* <strong>Nestihl/a ses přihlásit v daném termínu?</strong> Nevadí,
         i&nbsp;tak s&nbsp;tebou <strong>počítáme</strong>. Objednali jsme bagety
