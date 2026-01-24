@@ -20,6 +20,7 @@ import Nbsp from "../format/nbsp";
 import Strong from "../format/strong";
 import Infographic from "../infographic";
 import Countdown from "../countdown";
+import Image from "next/image";
 
 export default function DiecezkoInfo({ id, className }) {
   return (
@@ -35,7 +36,13 @@ export default function DiecezkoInfo({ id, className }) {
             <yel className="text-[#fbf3e3] text-7xl md:text-8xl">
               setkání
             </yel>
-            <span className="block">mládeže</span>
+            <Image
+              src="/assets/images/youth_label.svg"
+              alt="Youth label"
+              width={220}
+              height={100}
+              className="mx-auto mt-2"
+            />
           </h1>
           <p className="text-2xl text-center tracking-wide mt-1 font-poppins">
             28. 3. 2026 • 9.30
