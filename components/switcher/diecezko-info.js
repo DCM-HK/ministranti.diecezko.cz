@@ -34,9 +34,9 @@ export default function DiecezkoInfo({ id, className }) {
           <Countdown countDownDate={new Date("March 28, 2026 09:30:00")} />
           <h1 className="text-6xl md:text-7xl uppercase leading-tight tracking-wide text-center text-[#f2e7c9] font-poppins mb-4">
             <span className="block font-semibold">Diecézní</span>
-            <yel className="text-[#fbf3e3] text-7xl md:text-8xl px-20 font-semibold">
+            <span className="text-[#fbf3e3] text-7xl md:text-8xl px-20 font-semibold">
               setkání
-            </yel>
+            </span>
             <Image
               src="/assets/images/youth_label.svg"
               alt="Youth label"
