@@ -277,6 +277,15 @@
 }
 
 @font-face {
+  font-family: "Poppins";
+  src: local("Poppins Semibold"), local("Poppins-Semibold"),
+    url("../fonts/Poppins/Poppins-SemiBold.woff") format("woff"),
+    url("../fonts/Poppins/Poppins-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
   font-family: "MoonTime";
   src: url("../fonts/MoonTime-Regular.woff2") format("woff2"),
     url("../fonts/MoonTime-Regular.woff") format("woff");
