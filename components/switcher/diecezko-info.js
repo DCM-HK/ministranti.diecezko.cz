@@ -34,7 +34,7 @@ export default function DiecezkoInfo({ id, className }) {
           <Countdown countDownDate={new Date("March 28, 2026 09:30:00")} />
           <h1 className="text-6xl md:text-7xl uppercase leading-tight tracking-wide text-center text-[#f2e7c9] font-poppins mb-4">
             <span className="block font-semibold">Diecézní</span>
-            <span className="text-[#fbf3e3] text-7xl md:text-8xl px-20 font-semibold">
+            <span className="text-[#fbf3e3] text-7xl md:text-8xl px-20 font-semibold md:my-2 block">
               setkání
             </span>
             <Image
@@ -67,22 +67,20 @@ export default function DiecezkoInfo({ id, className }) {
               <span className="ml-2 text-left">Diecézní YesMan</span>
             </button>
           </Link> */}
-          {/*
           <Link
-            href={`https://feedback.diecezko.cz/`}
+            href={`https://prihlaska.diecezko.cz/`}
             target="_blank"
-            className="border border-[#3b3b3b] hover:bg-[#3b3b3b] rounded-full p-2 px-5 text-base flex flex-row items-center justify-center"
-            >
+            className="border col-span-2 border-[#3b3b3b] hover:bg-[#3b3b3b] rounded-full p-2 px-5 text-base flex flex-row items-center justify-center"
+          >
             <button
-              className="flex flex-row items-center justify-center"
-              title="Zpětná vazba"
-              >
-              <IconSpeakerphone className="inline" stroke={1.5} />{" "}
-              <span className="ml-2 text-left">Zpětná vazba</span>
+              className="flex flex-row items-center justify-center w-full"
+              title="Přihláška"
+            >
+              <IconWritingSign className="inline" stroke={1.5} />{" "}
+              <span className="ml-2 text-left">Přihláška</span>
             </button>
           </Link>
-          */}
-          <Link
+          {/*<Link
             href="/galerie"
             className="border col-span-2 border-[#3b3b3b] hover:bg-[#3b3b3b] rounded-full p-2 px-5 cursor-pointer text-base flex flex-row items-center justify-center w-full"
             >
@@ -90,7 +88,7 @@ export default function DiecezkoInfo({ id, className }) {
               <IconPhoto className="inline" stroke={1.5} />{" "}
               <span className="ml-2 text-left">Zavzpomínej na minulý ročník</span>
             </button>
-          </Link>
+          </Link>*/}
           {/*
           <Link
             href="https://sumar.diecezko.cz/"
