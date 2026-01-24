@@ -102,7 +102,7 @@ export default function Header() {
           <Link
             href="/"
             onClick={unlockScrolling}
-            className={`text-2xl uppercase ml-4 text-shadow shadow-white font-blushes`}
+            className={`text-2xl uppercase ml-4 text-shadow shadow-white font-poppins`}
             target="_self"
             title="Diecézko.cz"
           >
