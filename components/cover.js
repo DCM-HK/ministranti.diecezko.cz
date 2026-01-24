@@ -29,12 +29,6 @@ export default function Cover({ children }) {
             className="h-screen w-full -z-20 object-cover object-bottom"
           />
         </picture>
-        <div className="absolute h-[50vh] w-full items-center flex justify-center">
-          <img
-            className="mb-20 w-[40vw] max-w-[200px]"
-            src="/assets/images/on-air.svg"
-          />
-        </div>
       </div>
       <div className="flex items-center flex-col w-full">{children}</div>
     </>
