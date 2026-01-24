@@ -102,12 +102,12 @@ export default function Header() {
           <Link
             href="/"
             onClick={unlockScrolling}
-            className={`text-2xl uppercase ml-4 text-shadow shadow-white font-poppins`}
+            className={`text-2xl uppercase ml-4 font-poppins`}
             target="_self"
             title="Diecézko.cz"
           >
             Diecézko.cz
-            <span className="text-xs relative top-[0.7rem] -left-2 text-shadow-lg text-[#f2e7c9] shadow-[#f2e7c9] font-semibold">
+            <span className="text-xs relative top-[0.7rem] -left-2 text-[#f2e7c9] shadow-[#f2e7c9] font-semibold">
               2026
             </span>
           </Link>
