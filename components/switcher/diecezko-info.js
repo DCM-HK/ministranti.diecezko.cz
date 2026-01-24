@@ -41,7 +41,7 @@ export default function DiecezkoInfo({ id, className }) {
               alt="Youth label"
               width={220}
               height={100}
-              className="mx-auto mt-2"
+              className="mx-auto -mt-8 md:-mt-10 mr-10"
             />
           </h1>
           <p className="text-2xl text-center tracking-wide mt-1 font-poppins">
