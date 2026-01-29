@@ -41,7 +41,7 @@ export default function Footer() {
           </Link>
             {" • "}
           <Link
-            href="/galerie"
+            href="https://2025.diecezko.cz/"
             target="_blank"
             className="cursor-pointer underline"
           >
