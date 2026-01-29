@@ -1,8 +1,11 @@
 "use client";
-import { useLayoutEffect, useState } from "react";
+import { useContext, useLayoutEffect, useState } from "react";
+import SwitcherContext from "../lib/switcher-context";
 
 export default function Cover({ children }) {
+  const { switcher } = useContext(SwitcherContext);
   const [blur, setBlur] = useState("bg-black/50");
+  const showBuildings = switcher === 1 || switcher === 2;
 
   const handleScroll = () => {
     const scrollY = window.scrollY;
@@ -31,7 +34,11 @@ export default function Cover({ children }) {
             className="h-screen w-full object-cover object-bottom"
           />
         </picture>
-        <div className="pointer-events-none hidden lg:block">
+        <div
+          className={`pointer-events-none ${
+            showBuildings ? "hidden lg:block" : "hidden"
+          }`}
+        >
           <picture className="absolute bottom-0 left-0 w-[clamp(100px,20vw,360px)]">
             <source
               srcSet="assets/images/budova-katedrala.webp"
