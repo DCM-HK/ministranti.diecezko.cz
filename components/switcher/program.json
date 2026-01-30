@@ -4,7 +4,7 @@
       "id": 1,
       "time": "9:00",
       "duration": 30,
-      "description": "Při příjezdu na setkání prosíme navštivte registraci, kterou najdete ve vstupu do Filharmonie. Dostanete zde náramek v barvě svého vikariátu. Už tušíte, jaká to bude?",
+      "description": "Při příjezdu na setkání prosíme navštivte registraci, kterou najdete ve vstupu do Filharmonie. Dostanete zde náramek v&nbsp;barvě svého vikariátu. Už tušíte, jaká to bude?",
       "icons": [
          "registration"
       ],
@@ -22,7 +22,7 @@
       "id": 2,
       "time": "9:30",
       "duration": 150,
-      "description": "Dopolední program prožijeme společně v budově Filharmonie. Můžete se těšit na režijní scénky, svědectví, hudební doprovod v podání VeKy a mnoho dalšího.",
+      "description": "Dopolední program prožijeme společně v&nbsp;budově Filharmonie. Můžete se těšit na režijní scénky, svědectví, hudební doprovod v&nbsp;podání VeKy a&nbsp;mnoho dalšího.",
       "icons": [
          "theater",
          "music",
@@ -43,7 +43,7 @@
       "time": "11:30",
       "id": 3,
       "duration": 60,
-      "description": "Při odchodu z dopoledního programu si kromě výběru workshopu nebo přednášky nezapomeňte vyzvednout i bagetu s pitíčkem. Bagety pro nás připravilo BISTRO u dvou přátel. Dobrou chuť!",
+      "description": "Při odchodu z&nbsp;dopoledního programu si kromě výběru workshopu nebo přednášky nezapomeňte vyzvednout i&nbsp;bagetu s&nbsp;pitíčkem. Bagety pro nás připravilo BISTRO u&nbsp;dvou přátel. Dobrou chuť!",
       "link": "/bistro-u-dvou-pratel",
       "icons": [
          "food"
@@ -62,7 +62,7 @@
       "time": "12:30",
       "id": 4,
       "duration": 90,
-      "description": "Odpoledne si můžete vybrat z široké nabídky přednášek, několika workshopů nebo si jít zasportovat.",
+      "description": "Odpoledne si můžete vybrat z&nbsp;široké nabídky přednášek, několika workshopů nebo si jít zasportovat.",
       "icons": [
          "person",
          "workshop",
@@ -109,7 +109,7 @@
       "time": "15:00",
       "id": 9,
       "duration": 60,
-      "description": "Celý den zakončíme mší svatou s&nbsp;biskupy Janem a Prokopem v&nbsp;katedrále Svatého Ducha s kytarovým hudebním doprovodem.",
+      "description": "Celý den zakončíme mší svatou s&nbsp;biskupy Janem a&nbsp;Prokopem v&nbsp;katedrále Svatého Ducha s&nbsp;kytarovým hudebním doprovodem.",
       "icons": [
          "music",
          "pray"

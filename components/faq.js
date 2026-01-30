@@ -111,7 +111,7 @@ export default function FAQ() {
         Doporučený věk k&nbsp;účasti na setkání je{" "}
         <strong>od 14 do 26 let</strong> (mládež ve věku od 12 do 13 let pouze
         s&nbsp;doprovodem staršího sourozence nebo kamaráda). Pokud nesplňuješ
-        horní hranici, oceníme tvoji pomoc v přípravném týmu. Pokud máš zájem
+        horní hranici, oceníme tvoji pomoc v&nbsp;přípravném týmu. Pokud máš zájem
         pomoci, vyplň{" "}
         <Link
           className="underline"
@@ -210,10 +210,10 @@ export default function FAQ() {
           Cesta z&nbsp;vlakového nádraží k&nbsp;Filharmonii
         </ContainerH3>
         Při východu z&nbsp;budovy vlakového nádraží přejdete zastávky autobusové
-        dopravy a&nbsp;vydáte se rovně po ulici S. K. Neumanna, kterou se
-        dostanete na náměstí 28. října. Dále půjdete podél obchodních domů TESCO
+        dopravy a&nbsp;vydáte se rovně po ulici S.&nbsp;K.&nbsp;Neumanna, kterou se
+        dostanete na náměstí 28.&nbsp;října. Dále půjdete podél obchodních domů TESCO
         a&nbsp;Atrium po ulici Dukelská třída a&nbsp;pomocí podchodu se
-        dostanete na třídu Karla IV. Po ní půjdete až k řece, přejdete most
+        dostanete na třídu Karla IV. Po ní půjdete až k&nbsp;řece, přejdete most
         a&nbsp;po levé straně uvidíte sportovní halu, za kterou se nachází
         Filharmonie. Zde na vás již budou čekat pořadatelé s&nbsp;dalšími
         informacemi. <br />
@@ -229,7 +229,7 @@ export default function FAQ() {
         náměstí. Zde se na křižovatce vydáte doleva po ulici Hořická, po které
         dojdete až nakonec této ulice k&nbsp;pizzerii Casa Mia. Zde přejdete
         silnici až k&nbsp;pizzerii a&nbsp;pomocí podchodu se dostanete na třídu
-        Karla IV. Po ní půjdete až k&nbsp;řece, přejdete most a&nbsp;po levé
+        Karla&nbsp;IV. Po ní půjdete až k&nbsp;řece, přejdete most a&nbsp;po levé
         straně uvidíte sportovní halu, za kterou se nachází Filharmonie. Zde na
         vás již budou čekat pořadatelé s&nbsp;dalšími informacemi.
         <br />
