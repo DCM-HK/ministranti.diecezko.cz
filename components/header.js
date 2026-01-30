@@ -246,7 +246,7 @@ export default function Header() {
                   Vesmírná kapela
                 </li>
               </Link>
-              <Link
+              {/*<Link
                 href="/cervenokostelecka-schola"
                 onClick={unlockScrolling}
                 target="_self"
@@ -256,7 +256,7 @@ export default function Header() {
                   <IconMusic className="inline h-7 w-7 my-1 mr-2" />
                   Červenokostelecká schola
                 </li>
-              </Link>
+              </Link>*/}
             </ul>
           </li>
 

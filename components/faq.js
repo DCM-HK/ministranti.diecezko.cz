@@ -103,8 +103,7 @@ export default function FAQ() {
       </FaqBox>
       <FaqBox question={`Co si sbalit s sebou?`} icon={`luggage`}>
         Sváču, láhev s&nbsp;pitím, doporučený příspěvek (200,-Kč), peníze na
-        svoji dopravu a&nbsp;drobný peníz v&nbsp;případě zájmu zajít do nealko
-        baru na BiGy. Doporučujeme si také vzít něco teplého na sebe na
+        svoji dopravu. Doporučujeme si také vzít něco teplého na sebe na
         závěrečnou mši svatou do katedrály. Může být zima.
       </FaqBox>
       <FaqBox question={`Od kolika let můžu jet na Diecézko?`} icon={`kid`}>
