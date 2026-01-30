@@ -418,6 +418,22 @@ export const vikariaty = [
       name: "P. Jakub Brabenec",
       jpgPath: "/assets/images/vikariaty/brabenec.jpg",
     },
+    person1: {
+      name: "Jana Eliášová",
+      jpgPath: "/assets/images/vikariaty/eliasova.jpg",
+    },    
+    person2: {
+      name: "Natálie Lorencová",
+      jpgPath: "/assets/images/vikariaty/lorencova.jpg",
+    },    
+    person3: {
+      name: "Ondřej Novotný",
+      jpgPath: "/assets/images/vikariaty/novotny.jpg",
+    },
+    person4: {
+      name: "Ondřej Sýkora",
+      jpgPath: "/assets/images/vikariaty/sykora.jpg",
+    },    
     social: {
       instagram: "https://www.instagram.com/vikariat_ustinadorlici/",
       facebook: "https://www.facebook.com/profile.php?id=100087359571132",
