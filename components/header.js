@@ -102,13 +102,13 @@ export default function Header() {
           <Link
             href="/"
             onClick={unlockScrolling}
-            className={`text-2xl uppercase ml-4 text-shadow shadow-white font-blushes`}
+            className={`text-2xl uppercase ml-4 font-poppins`}
             target="_self"
             title="Diecézko.cz"
           >
             Diecézko.cz
-            <span className="text-xs relative top-[0.7rem] -left-2 text-shadow-lg text-[#f2e7c9] shadow-[#f2e7c9] font-semibold">
-              2025
+            <span className="text-xs relative top-[0.7rem] -left-2 text-[#f2e7c9] shadow-[#f2e7c9] font-semibold">
+              2026
             </span>
           </Link>
         </div>
@@ -246,7 +246,7 @@ export default function Header() {
                   Vesmírná kapela
                 </li>
               </Link>
-              <Link
+              {/*<Link
                 href="/cervenokostelecka-schola"
                 onClick={unlockScrolling}
                 target="_self"
@@ -256,7 +256,7 @@ export default function Header() {
                   <IconMusic className="inline h-7 w-7 my-1 mr-2" />
                   Červenokostelecká schola
                 </li>
-              </Link>
+              </Link>*/}
             </ul>
           </li>
 

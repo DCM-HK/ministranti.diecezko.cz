@@ -44,18 +44,20 @@ export default async function VeKa() {
           <ContainerParagraph>
             VeKa vznikla v roce 2000 a navazuje na tradici diecézních kapel. Od
             té doby kapelou prošly přes dvě stovky členů tvořících několik
-            generací, které dohromady vydaly 6 alb. Naše - v pořadí již pátá -
-            generace působí od roku 2019. Natočili jsme tři videoklipy,
-            doprovodili čtyři Diecézní setkání mládeže a nespočet mší v různých
-            farnostech.
+            generací, které dohromady vydaly 7 alb. To nejnovější
+            se&nbsp;jmenuje <strong>Buď vůle Tvá.</strong> Natočili jsme
+            tři videoklipy, doprovodili pět Diecézních setkání mládeže a nespočet
+            mší v různých farnostech. Letos se Vám představíme ve&nbsp;zbrusu
+            nové sestavě jako 6. generace VeKy.
           </ContainerParagraph>
           <iframe
             className="rounded-xl my-2"
-            src="https://open.spotify.com/embed/artist/4evTGARQ8TRDKnqbxXSvNd?utm_source=generator"
+            data-testid="embed-iframe"
+            style={{ borderRadius: "12px" }}
+            src="https://open.spotify.com/embed/album/5S0HLFdVWbFz7NWEZS28wl?utm_source=generator"
             width="100%"
             height="352"
-            frameBorder="0"
-            allowFullScreen=""
+            allowfullscreen=""
             allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
             loading="lazy"
           ></iframe>
@@ -127,8 +129,8 @@ export default async function VeKa() {
 
 const gallery = [
   {
-    path: "/assets/images/spolecenstvi/veka-atributy.jpeg",
-    alt: "Vesmírná kapela s atributy"
+    path: "/assets/images/spolecenstvi/veka_na_louce.jpeg",
+    alt: "Vesmírná kapela na louce"
   },
   {
     path: "/assets/images/spolecenstvi/veka_CSM.jpg",
@@ -157,5 +159,9 @@ const gallery = [
   {
     path: "/assets/images/spolecenstvi/veka_kur.jpg",
     alt: "Vesmírná kapela na kůru"
+  },
+  {
+    path: "/assets/images/spolecenstvi/veka_atributy.jpeg",
+    alt: "Vesmírná kapela s atributy"
   }
 ];

@@ -197,9 +197,9 @@ const places = [
     name: "BiGy (Biskupské gymnázium)",
     content: `
     <li>12:30 přednášky, workshopy</li>
-    <li>13:30 nealkoholický bar</li>
-    <li>14:10 modlitba za město</li>
     `,
+    // <li>13:30 nealkoholický bar</li>
+    // <li>14:10 modlitba za město</li>
   },
   {
     coords: {
@@ -224,7 +224,7 @@ const places = [
     <li>15:00 mše svatá</li>
     `,
   },
-  {
+  /*{
     coords: {
       x: 50.208725,
       y: 15.8323194,
@@ -233,5 +233,5 @@ const places = [
     content: `
     <li>12:30 komentovaná prohlídka - sraz u Filharmonie</li>
     `,
-  },
+  },*/
 ];

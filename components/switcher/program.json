@@ -4,7 +4,7 @@
       "id": 1,
       "time": "9:00",
       "duration": 30,
-      "description": "Při příjezdu na setkání prosím navštivte registraci, kterou najdete ve vstupu do Filharmonie. Dostanete zde náremek v barvě svého vikariátu. Už tušíte jaké to bude?",
+      "description": "Při příjezdu na setkání prosíme navštivte registraci, kterou najdete ve vstupu do Filharmonie. Dostanete zde náramek v&nbsp;barvě svého vikariátu. Už tušíte, jaká to bude?",
       "icons": [
          "registration"
       ],
@@ -22,7 +22,7 @@
       "id": 2,
       "time": "9:30",
       "duration": 150,
-      "description": "Dopolední program prožijeme společně v budově Filharmonie. Můžete se těšit na režijní scénky, svědectví, hudební doprovod v podání VeKy a mnoho dalšího.",
+      "description": "Dopolední program prožijeme společně v&nbsp;budově Filharmonie. Můžete se těšit na režijní scénky, svědectví, hudební doprovod v&nbsp;podání VeKy a&nbsp;mnoho dalšího.",
       "icons": [
          "theater",
          "music",
@@ -43,7 +43,7 @@
       "time": "11:30",
       "id": 3,
       "duration": 60,
-      "description": "Při odchodu z dopoledního programu si kromě výběru workshopu nebo přednášky nezapomeňte vyzvednout i bagetu s pitíčkem. Bagety pro nás připravilo BISTRO u dvou přátel. Dobrou chuť!",
+      "description": "Při odchodu z&nbsp;dopoledního programu si kromě výběru workshopu nebo přednášky nezapomeňte vyzvednout i&nbsp;bagetu s&nbsp;pitíčkem. Bagety pro nás připravilo BISTRO u&nbsp;dvou přátel. Dobrou chuť!",
       "link": "/bistro-u-dvou-pratel",
       "icons": [
          "food"
@@ -62,13 +62,12 @@
       "time": "12:30",
       "id": 4,
       "duration": 90,
-      "description": "Odpoledne si můžete vybrat z široké nabídky přednášek, několika workshopů nebo si jít zasportovat.",
+      "description": "Odpoledne si můžete vybrat z&nbsp;široké nabídky přednášek, několika workshopů nebo si jít zasportovat.",
       "icons": [
          "person",
          "workshop",
          "sport"
-      ],
-      "link": "/prednasky-workshopy"
+      ]
    },
    {
       "name": "Adorace, svátost smíření či duchovní rozhovor",
@@ -87,42 +86,6 @@
             "y": 15.8341294
          }
       }
-   },
-   {
-      "name": "Minutový nealko bar",
-      "time": "13:30",
-      "duration": 30,
-      "id": 6,
-      "description": "Zastav se po přednáškách, workshopech či sportu svlažit své hrdlo v&nbsp;nealkoholickém baru a&nbsp;pozdravit se s&nbsp;lidmi, které jsi dlouho neviděl. Pití si můžeš zakoupit za drobný peníz.",
-      "icons": [
-         "bar"
-      ],
-      "place": {
-         "name": "BiGy (Biskupské gymnázium)",
-         "coords": {
-            "x": "50.2062919",
-            "y": "15.8337133"
-         }
-      }
-   },
-   {
-      "name": "Modlitba za město",
-      "time": "14:10",
-      "id": 7,
-      "duration": 45,
-      "description": "V&nbsp;letošním Jubilejním roce 2025 slaví naše diecézní město Hradec Králové 800 let od své první písemné zmínky. Proto jsme se rozhodli do programu zapojit putování na hradecká místa a&nbsp;spojit jej s&nbsp;modlitbou za město, do kterého přineseme světlo naděje z&nbsp;našich vikariátů.",
-      "icons": [
-         "map",
-         "pray"
-      ],
-      "place": {
-         "name": "BiGy (Biskupské gymnázium)",
-         "coords": {
-            "x": "50.2062919",
-            "y": "15.8337133"
-         }
-      },
-      "link": "/modlitba-za-mesto"
    },
    {
       "name": "Sraz ministrantů",
@@ -146,7 +109,7 @@
       "time": "15:00",
       "id": 9,
       "duration": 60,
-      "description": "Celý den zakončíme mší svatou s&nbsp;otcem biskupem v&nbsp;katedrále Svatého Ducha. Mši svatou hudebně doprovodí schola z&nbsp;Červeného Kostelce.",
+      "description": "Celý den zakončíme mší svatou s&nbsp;biskupy Janem a&nbsp;Prokopem v&nbsp;katedrále Svatého Ducha s&nbsp;kytarovým hudebním doprovodem.",
       "icons": [
          "music",
          "pray"
@@ -158,7 +121,6 @@
             "y": "15.8310917"
          },
          "link": "https://mapy.cz/s/bezegujuje"
-      },
-      "link": "/playlist"
+      }
    }
 ]

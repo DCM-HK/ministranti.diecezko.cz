@@ -11,10 +11,10 @@ export default function FAQ() {
       <FaqBox question={`Kde seženu zdravotní pomoc?`} icon={`medical`}>
         V případě jakéhokoliv zdravotního problému se neváhej obrátit na naši{" "}
         <strong>zdravotnickou službu</strong>, kterou poznáš podle oblečení
-        a&nbsp;dostihneš ji na tel. čísle{" "}
+        {/*a&nbsp;dostihneš ji na tel. čísle{" "}
         <Link href={`tel:+420605578474`} target="_blank" className="underline">
           605 578 474
-        </Link>
+        </Link>*/}
         . V&nbsp;závažných případech neváhej a&nbsp;volej IZS tel. číslem{" "}
         <Link href={`tel:155`} target="_blank" className="underline">
           155
@@ -103,15 +103,14 @@ export default function FAQ() {
       </FaqBox>
       <FaqBox question={`Co si sbalit s sebou?`} icon={`luggage`}>
         Sváču, láhev s&nbsp;pitím, doporučený příspěvek (200,-Kč), peníze na
-        svoji dopravu a&nbsp;drobný peníz v&nbsp;případě zájmu zajít do nealko
-        baru na BiGy. Doporučujeme si také vzít něco teplého na sebe na
+        svoji dopravu. Doporučujeme si také vzít něco teplého na sebe na
         závěrečnou mši svatou do katedrály. Může být zima.
       </FaqBox>
       <FaqBox question={`Od kolika let můžu jet na Diecézko?`} icon={`kid`}>
         Doporučený věk k&nbsp;účasti na setkání je{" "}
         <strong>od 14 do 26 let</strong> (mládež ve věku od 12 do 13 let pouze
         s&nbsp;doprovodem staršího sourozence nebo kamaráda). Pokud nesplňuješ
-        horní hranici, oceníme tvoji pomoc v přípravném týmu. Pokud máš zájem
+        horní hranici, oceníme tvoji pomoc v&nbsp;přípravném týmu. Pokud máš zájem
         pomoci, vyplň{" "}
         <Link
           className="underline"
@@ -137,12 +136,12 @@ export default function FAQ() {
           </Link>
         </strong>
         &nbsp;a&nbsp;budeme s&nbsp;Tebou počítat. Na Diecézko se přihlas do
-        31.&nbsp;3.&nbsp;2025, abychom Ti stihli zajistit bagetu a&nbsp;pitíčko
+        22.&nbsp;3.&nbsp;2026, abychom Ti stihli zajistit bagetu a&nbsp;pitíčko
         k&nbsp;obědu. <br />
-        <strong>Nestihl/a ses přihlásit v daném termínu?</strong> Nevadí,
+        {/* <strong>Nestihl/a ses přihlásit v daném termínu?</strong> Nevadí,
         i&nbsp;tak s&nbsp;tebou <strong>počítáme</strong>. Objednali jsme bagety
         navíc. Prosíme, i&nbsp;nadále vyplň přihlášku, ať víme, že dorazíš.
-        Děkujeme 😊{" "}
+        Děkujeme 😊{" "} */}
       </FaqBox>
       <FaqBox question={`Jak se přihlásit na odpolední program?`} icon={`old`}>
         <strong>
@@ -174,6 +173,7 @@ export default function FAQ() {
         </Link>
         . */}
       </FaqBox>
+      {/*
       <FaqBox question={`Co je to PředDiecézko?`} icon={`users`}>
         Některé vikariáty pořádají menší setkání (tzv. vikariátko) den před
         Diecézkem a&nbsp;poté společně vyrážejí do Hradce Králové. Tomuto
@@ -201,6 +201,7 @@ export default function FAQ() {
         , který poradí, kdy a&nbsp;v&nbsp;kolik je sraz a&nbsp;jestli je nutné
         se někam hlásit.
       </FaqBox>
+      */}
       <FaqBox question={`Jak se v Hradci dopravovat?`} icon={`bus`}>
         <ContainerH3>Stručně</ContainerH3>
         Hradec Králové je malej, <strong>choďte pěšky</strong>!
@@ -208,10 +209,10 @@ export default function FAQ() {
           Cesta z&nbsp;vlakového nádraží k&nbsp;Filharmonii
         </ContainerH3>
         Při východu z&nbsp;budovy vlakového nádraží přejdete zastávky autobusové
-        dopravy a&nbsp;vydáte se rovně po ulici S. K. Neumanna, kterou se
-        dostanete na náměstí 28. října. Dále půjdete podél obchodních domů TESCO
+        dopravy a&nbsp;vydáte se rovně po ulici S.&nbsp;K.&nbsp;Neumanna, kterou se
+        dostanete na náměstí 28.&nbsp;října. Dále půjdete podél obchodních domů TESCO
         a&nbsp;Atrium po ulici Dukelská třída a&nbsp;pomocí podchodu se
-        dostanete na třídu Karla IV. Po ní půjdete až k řece, přejdete most
+        dostanete na třídu Karla IV. Po ní půjdete až k&nbsp;řece, přejdete most
         a&nbsp;po levé straně uvidíte sportovní halu, za kterou se nachází
         Filharmonie. Zde na vás již budou čekat pořadatelé s&nbsp;dalšími
         informacemi. <br />
@@ -227,7 +228,7 @@ export default function FAQ() {
         náměstí. Zde se na křižovatce vydáte doleva po ulici Hořická, po které
         dojdete až nakonec této ulice k&nbsp;pizzerii Casa Mia. Zde přejdete
         silnici až k&nbsp;pizzerii a&nbsp;pomocí podchodu se dostanete na třídu
-        Karla IV. Po ní půjdete až k&nbsp;řece, přejdete most a&nbsp;po levé
+        Karla&nbsp;IV. Po ní půjdete až k&nbsp;řece, přejdete most a&nbsp;po levé
         straně uvidíte sportovní halu, za kterou se nachází Filharmonie. Zde na
         vás již budou čekat pořadatelé s&nbsp;dalšími informacemi.
         <br />

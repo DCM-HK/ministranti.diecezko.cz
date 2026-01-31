@@ -26,15 +26,6 @@ export default function Infographic() {
           </ContainerParagraph>
         </div>
         <div className="border-[#444] border rounded-xl p-4 sm:p-6 transition h-full backdrop-blur-md hover:scale-105">
-          <IconPray size={50} className="inline w-full mt-4" />
-          <ContainerH3 className="">Modlitba za město</ContainerH3>
-          <ContainerParagraph className="">
-            Naše diecézní město Hradec Králové slaví v&nbsp;letošním jubilejním
-            roce 800&nbsp;let! Proto bude součástí programu i&nbsp;modlitba za
-            město, která bude organizovaná po vikariátech.
-          </ContainerParagraph>
-        </div>
-        <div className="border-[#444] border rounded-xl p-4 sm:p-6 transition h-full backdrop-blur-md hover:scale-105">
           <IconCross size={50} className="inline w-full mt-4" />
           <ContainerH3 className="">Mše svatá s našimi biskupy</ContainerH3>
           <ContainerParagraph className="">
@@ -55,9 +46,11 @@ export default function Infographic() {
           <IconMusic size={50} className="inline w-full mt-4" />
           <ContainerH3 className="">Skvělá hudba</ContainerH3>
           <ContainerParagraph className="">
-            Setkání bude doprovázeno ladnými tóny Vesmírné kapely a&nbsp;scholou
+            Program bude doprovázen ladnými tóny Vesmírné kapely.
+            {/*
+            a&nbsp;scholou
             z&nbsp;Červeného Kostelce. O&nbsp;hudební doprovod adorace se
-            postará Markét Dušková.
+            postará Markét Dušková. */}
           </ContainerParagraph>
         </div>
         <div className="border-[#444] border rounded-xl p-4 sm:p-6 transition h-full backdrop-blur-md hover:scale-105">

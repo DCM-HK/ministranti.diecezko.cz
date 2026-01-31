@@ -13,6 +13,7 @@ module.exports = {
         titilliumWeb: ["Titillium Web"],
         blushes: ["Blushes"],
         moonTime: ["MoonTime"],
+        poppins: ["Poppins"],
       },
       textShadow: {
         sm: "0 0 0.5rem var(--tw-shadow-color)",

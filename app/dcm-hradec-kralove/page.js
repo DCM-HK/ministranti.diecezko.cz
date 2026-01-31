@@ -160,63 +160,54 @@ export default async function DCM() {
 
 export const dcm = [
   {
+    name: "P. Jenda Pitřinec",
+    description:
+      "O. Jenda je od září 2025 novým ředitelem DCŽM Vesmír a DCM Hradec Králové. Prošel skautem, VeKou, ZUŠkou (hraje na housle) a&nbsp;gymplem. Část seminárních studií prožil v&nbsp;Římě. Provozuje všechny druhy sportů od windsurfu přes tenis, fotbal až k&nbsp;lyžím a&nbsp;snowboardu. Rád poslouchá, ale i&nbsp;se aktivně zapojuje do hudby či zpěvu. Miluje jídlo – především to z&nbsp;hovězího. Těší jej povídání si s&nbsp;druhými zvlášť při kafi či jiných dobrých italských pochutinách.",
+    jpgPath: "/assets/images/dcm/pitrinec.jpg",
+    webpPath: "/assets/images/dcm/pitrinec.webp",
+    altText: "Profilová fotka P. Jendy Pitřince",
+    className: "",
+  },
+  {
     name: "Klárka Petrová",
     description:
-      "Klárka je naše skvělá vedoucí, která má vše pod palcem. Přišla k nám z&nbsp;vesmírného týmu, kde strávila dva roky. Je naším motorem při práci a&nbsp;poradách. Krásně maluje, kreslí a&nbsp;zajímá se o&nbsp;historii. V&nbsp;minulosti vás mohla provést po interiérech opočenského zámku. Skvěle se ujala tvorby plakátů a&nbsp;celé propagace.",
-    jpgPath: "/assets/images/dcm/kp.jpg",
-    webpPath: "/assets/images/dcm/kp.webp",
-    altText: "Profilová fotka Klárky Petrové (zatím)",
-    className: "",
-  },
-  // {
-  //   name: "Lucka Zadinová",
-  //   description:
-  //     "Lucka pochází z&nbsp;Libice nad Cidlinou, ale aktuálně žije na hájence poblíž Chotěboře. Studuje na Univerzitě Hradec Králové. Její smysl pro ekologičnost se nezapře. Svým příkladem nás vede, jak se dobře starat o&nbsp;naši planetu a&nbsp;používat ekologické produkty. Nezalekne se žádné výzvy, akčnost, to je její.",
-  //   jpgPath: "/assets/images/dcm/lz.jpg",
-  //   webpPath: "/assets/images/dcm/lz.webp",
-  //   altText: "Profilová fotka Lucka Zadinová (už nafurt)",
-  //   className: "",
-  // },
-  {
-    name: "Verča Pavlišová",
-    description:
-      "Verča je u&nbsp;nás “služebně nejstarší” a&nbsp;jsme moc rádi, že ji máme. Ráda vysvětluje hry a&nbsp;je pro nás technicko-praktická podpora. Hlídá, aby naše “praštěné” nápady šly zrealizovat. Studuje učitelství pro mateřské školy a&nbsp;jednou by chtěla být paní ředitelka. Zároveň nás spojuje s&nbsp;vysokoškolskou Salaší, která je zde v&nbsp;Hradci Králové. Má moc ráda hudbu, zpěv a&nbsp;čokoládu.",
-    jpgPath: "/assets/images/dcm/vp.jpg",
-    webpPath: "/assets/images/dcm/vp.webp",
-    altText: "Profilová fotka Verča Pavlišová (zatím)",
+      "Klárka je naše vedoucí, která má vše pod palcem. Přišla k&nbsp;nám již před nějakou dobou z&nbsp;vesmírného týmu, kde strávila dva roky. Je naším motorem při práci a&nbsp;poradách. Ve volných chvílích maluje, čte a&nbsp;studuje historii a&nbsp;náboženskou výchovu na univerzitě v&nbsp;Hradci Králové.",
+    jpgPath: "/assets/images/dcm/petrova.jpg",
+    webpPath: "/assets/images/dcm/petrova.webp",
+    altText: "Profilová fotka Klárky Petrové",
     className: "",
   },
   {
-    name: "Joska Pazderová",
+    name: "Josi Pazderová",
     description:
-      "Joska je náš nejnovější a&nbsp;zároveň nejmladší člen týmu. Přišla s&nbsp;novou energií a&nbsp;zápalem pro uklízení. Má na starost naše sociální sítě. Josi je rozlítaná na všech frontách, proto ji mimo DCM můžete potkat na Katechetickém centru, v&nbsp;Sedleckých památkách v&nbsp;Kutné Hoře nebo párkrát do roka také v&nbsp;Portugalsku. V&nbsp;kostele ji nejčastěji uvidíte u&nbsp;oltáře jako ministrantku. Když přijde čas odpočinku, tak ze všeho nejvíc ocení kvalitní spánek.",
-    jpgPath: "/assets/images/jadro/joska.jpg",
-    webpPath: "/assets/images/jadro/joska.webp",
-    altText: "Profilová fotka Jsoky Pazderové (zatím)",
+      "Josi je naší nejmladší členkou týmu. Má na starosti spolupráci se Sekcí pro mládež a&nbsp;aktivně podporuje ministrantky. Ve volném čase miluje detektivky, tanec a&nbsp;pilates. Ráda si odpočine u&nbsp;uklízení a&nbsp;nedá dopustit na kvalitní spánek. Když má možnost, utíká za sluncem a&nbsp;klidem do Portugalska, kam se ráda vrací.",
+    jpgPath: "/assets/images/dcm/pazderova.jpg",
+    webpPath: "/assets/images/dcm/pazderova.webp",
+    altText: "Profilová fotka Josi Pazderové",
+    className: "",
+  },
+  {
+    name: "Dan Blažek",
+    description:
+      "Dan je náš nejnovější člen týmu. Má na starost koordinaci farních aktivit a&nbsp;rád přemýšlí, jak věci fungují, a&nbsp;ještě raději to zkouší v&nbsp;praxi. Baví ho 3D tisk a&nbsp;různé technické vychytávky. Když chytí slinu, napíše krátký příběh nebo báseň. Pochází z&nbsp;Nového Města nad Metují, vystudoval strojařinu, prošel teologickým konviktem, rokem v&nbsp;týmu na Vesmíru i&nbsp;římským seminářem.",
+    jpgPath: "/assets/images/dcm/blazek.jpg",
+    webpPath: "/assets/images/dcm/blazek.webp",
+    altText: "Profilová fotka Dana Blažka",
     className: "",
   },
   {
     name: "Jindra Řezníček",
     description:
-      "Jindra, zástupce mužské části našeho týmu a&nbsp;práce všeho druhu. Vášnivý milovník vláčků, lokomotiv, vagónů, kolejí a&nbsp;výhybek nás ve volných chvílích zahrnuje fakty a&nbsp;zajímavostmi ze světa železnice. Krom originálních nápadů a&nbsp;praktických připomínek při poradách pro vás připravuje nejčerstvější informace a&nbsp;novinky na webu.",
-    jpgPath: "/assets/images/dcm/jr.jpg",
-    webpPath: "/assets/images/dcm/jr.webp",
-    altText: "Profilová fotka Jindry Řezníčka",
-    className: "",
-  },
-  {
-    name: "P. Tomáš Hoffmann",
-    description:
-      "Tomáš Hoffmann, je ředitelem jak Vesmíru, tak DCM, na které z dálky dohlíží a v pravou chvíli se do věci vloží. V téhle roli působí od roku 2006. Volnou chvíli si rád zkrátí běžkováním, lyžováním, partičkou žolíčků nebo kafíčkem s týmáky. Z jeho úst nejčastěji uslyšíte věty jako: “Děcka...”, “Holoubku...”, “Můj ty světe.” a “To je dobrota!”.",
-    jpgPath: "/assets/images/jadro/hoffmann.jpg",
-    webpPath: "/assets/images/jadro/hoffmann.webp",
+      "Jindra má rád práci všeho druhu. Nezalekne se dřeva, cihel, elektřiny, vody či topení. Své nadšení uplatňuje při drobných opravách, které nám zpříjemňují prostředí. Ve volných chvílích se zajímá o&nbsp;psychologii a&nbsp;programování. Je velký milovník železnice a&nbsp;toulání se v&nbsp;přírodě. Má na starost technické věci, novinky na webu a&nbsp;komunikaci s&nbsp;vikariátními kaplany a&nbsp;zástupci pro mládež.",
+    jpgPath: "/assets/images/dcm/reznicek.jpg",
+    webpPath: "/assets/images/dcm/reznicek.webp",
     altText: "Profilová fotka Jindry Řezníčka",
     className: "",
   },
   {
     name: "Evžen Holub",
     description:
-      "Pan Holub k&nbsp;nám byl seslán při vanutí Ducha. Pravděpodobně holubice nebyla toho času k&nbsp;dispozici. Holuba jste si všichni moc oblíbili a&nbsp;rovnou jste jej začali oslovovat jménem Evžen. A&nbsp;tak se Evžen Holub stal maskotem královéhradecké mládeže.",
+      "Při vanutí Ducha byl k&nbsp;nám seslán pan Holub. Pravděpodobně holubice nebyla toho času k&nbsp;dispozici. Mladí si pana Holuba velmi oblíbili a&nbsp;bez dlouhého váhání jej začali oslovovat jménem Evžen. A&nbsp;tak se z&nbsp;Evžena Holuba stal maskot královéhradecké mládeže.",
     jpgPath: "/assets/images/jadro/evzen.jpg",
     webpPath: "/assets/images/jadro/evzen.webp",
     altText: "Profilová fotka Holuba Evžena",

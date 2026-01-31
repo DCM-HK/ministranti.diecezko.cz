@@ -19,27 +19,37 @@ import Link from "next/link";
 import Nbsp from "../format/nbsp";
 import Strong from "../format/strong";
 import Infographic from "../infographic";
+import Countdown from "../countdown";
+import Image from "next/image";
 
 export default function DiecezkoInfo({ id, className }) {
   return (
     <Container id={id} className={className}>
-      <div className="min-h-[75vh] flex flex-col items-center justify-around">
-        <div className="flex flex-col items-center w-full">
+      <div className="min-h-[65vh] flex flex-col items-center justify-around">
+        {/* This div can serve as a spacer to add some label before the main title 
+          <div className="flex flex-col items-center w-full">
           <span className="text-base text-center"></span>
-        </div>
+          </div> */}
         <div className="flex flex-col items-center w-[90vw]">
-          <h1 className="text-6xl md:text-7xl uppercase leading-tight tracking-wide text-center text-shadow-lg shadow-[#f2e7c9] text-[#f2e7c9] font-blushes mb-8">
-            <span className="block">Diecézní</span>
-            <yel className="text-[#fbf3e3] text-shadow-lg text-7xl md:text-8xl shadow-[#fbf3e3]">
+          <Countdown countDownDate={new Date("March 28, 2026 09:30:00")} />
+          <h1 className="text-6xl md:text-7xl uppercase leading-tight tracking-wide text-center text-[#f2e7c9] font-poppins mb-4">
+            <span className="block font-semibold">Diecézní</span>
+            <span className="text-[#fbf3e3] text-7xl md:text-8xl px-20 font-semibold md:my-2 block">
               setkání
-            </yel>
-            <span className="block">mládeže</span>
+            </span>
+            <Image
+              src="/assets/images/youth_label.svg"
+              alt="Youth label"
+              width={220}
+              height={100}
+              className="mx-auto -mt-8 md:-mt-10 mr-10 w-[180px] md:w-[220px] h-auto"
+            />
           </h1>
-          <p className="uppercase text-xl md:text-3xl tracking-wide text-shadow-lg shadow-white font-blushes">
-            v Hradci Králové
+          <p className="text-2xl text-center tracking-wide mt-1 font-poppins">
+            28. 3. 2026 • 9.30
           </p>
-          <p className="text-2xl text-center tracking-wide text-shadow-lg shadow-white mt-1 font-blushes">
-            5. 4. 2025 • 9.30
+          <p className="uppercase text-xl md:text-2xl tracking-wide font-poppins">
+            Filharmonie Hradec Králové
           </p>
         </div>
         <div className="w-[90vw] max-w-[500px] grid grid-cols-2 grid-flow-row gap-4 items-center auto-cols-max">
@@ -58,27 +68,28 @@ export default function DiecezkoInfo({ id, className }) {
             </button>
           </Link> */}
           <Link
-            href={`https://feedback.diecezko.cz/`}
+            href={`https://prihlaska.diecezko.cz/`}
             target="_blank"
-            className="border border-[#3b3b3b] hover:bg-[#3b3b3b] rounded-full p-2 px-5 text-base flex flex-row items-center justify-center"
+            className="border col-span-2 border-[#3b3b3b] hover:bg-[#3b3b3b] rounded-full p-2 px-5 text-base flex flex-row items-center justify-center"
           >
             <button
-              className="flex flex-row items-center justify-center"
-              title="Zpětná vazba"
+              className="flex flex-row items-center justify-center w-full"
+              title="Přihláška"
             >
-              <IconSpeakerphone className="inline" stroke={1.5} />{" "}
-              <span className="ml-2 text-left">Zpětná vazba</span>
+              <IconWritingSign className="inline" stroke={1.5} />{" "}
+              <span className="ml-2 text-left">Přihláška</span>
             </button>
           </Link>
-          <Link
+          {/*<Link
             href="/galerie"
-            className="border border-[#3b3b3b] hover:bg-[#3b3b3b] rounded-full p-2 px-5 cursor-pointer text-base flex flex-row items-center justify-center"
-          >
-            <button className="flex flex-row items-center justify-center">
+            className="border col-span-2 border-[#3b3b3b] hover:bg-[#3b3b3b] rounded-full p-2 px-5 cursor-pointer text-base flex flex-row items-center justify-center w-full"
+            >
+            <button className="flex flex-row items-center justify-center w-full">
               <IconPhoto className="inline" stroke={1.5} />{" "}
-              <span className="ml-2 text-left">Galerie</span>
+              <span className="ml-2 text-left">Zavzpomínej na minulý ročník</span>
             </button>
-          </Link>
+          </Link>*/}
+          {/*
           <Link
             href="https://sumar.diecezko.cz/"
             target="_blank"
@@ -93,6 +104,7 @@ export default function DiecezkoInfo({ id, className }) {
               <span className="ml-2 text-left">Hra: Sumář</span>
             </button>
           </Link>
+          */}
         </div>
       </div>
       <Infographic />

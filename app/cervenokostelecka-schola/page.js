@@ -25,9 +25,9 @@ export default async function CKSchola() {
             className="w-full my-2"
           />
           <ContainerParagraph>
-            Schola z Červeného Kostelce minulý rok doprovázela chvály v kostele
-            Panny Marie na Velkém náměstí. Letos nás hudebně provede závěrečnou
-            mší svatou v katedrále Sv. Ducha.
+            Schola z Červeného Kostelce nás minulý rok provedla závěrečnou mší 
+            v katedrále. Před dvěma lety doprovázeli chvály v kostele
+            Panny Marie na Velkém náměstí.
           </ContainerParagraph>
         </Container>
       </PageMain>
