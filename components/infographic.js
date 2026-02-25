@@ -46,7 +46,7 @@ export default function Infographic() {
           <IconMusic size={50} className="inline w-full mt-4" />
           <ContainerH3 className="">Skvělá hudba</ContainerH3>
           <ContainerParagraph className="">
-            Program bude doprovázen ladnými tóny Vesmírné kapely.
+            Program bude doprovázen ladnými tóny Vesmírné kapely a scholou PEHUMA z Dolní Čermné.
             {/*
             a&nbsp;scholou
             z&nbsp;Červeného Kostelce. O&nbsp;hudební doprovod adorace se

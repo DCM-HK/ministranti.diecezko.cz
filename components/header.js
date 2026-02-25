@@ -20,6 +20,7 @@ import IconCustomVesmir from "./images/vesmir";
 import IconCustomDCM from "./images/dcm-hk";
 import IconCustomEvzen from "./images/evzen";
 import IconCustomVeka from "./images/veka";
+import IconCustomPehuma from "./images/pehuma";
 
 export default function Header() {
   const [burgerControl, setBurgerControl] = useState("");
@@ -244,6 +245,17 @@ export default function Header() {
                 <li className="flex flex-row items-center">
                   <IconCustomVeka className="inline h-7 w-7 my-1 mr-2" />
                   Vesmírná kapela
+                </li>
+              </Link>
+              <Link
+                href="/pehuma"
+                onClick={unlockScrolling}
+                target="_self"
+                className="w-full mt-4 text-xl"
+              >
+                <li className="flex flex-row items-center">
+                  <IconCustomPehuma className="inline h-7 w-7 my-1 mr-2" />
+                  Pehuma
                 </li>
               </Link>
               {/*<Link
