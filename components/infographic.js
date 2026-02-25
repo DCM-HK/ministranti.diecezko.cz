@@ -46,11 +46,7 @@ export default function Infographic() {
           <IconMusic size={50} className="inline w-full mt-4" />
           <ContainerH3 className="">Skvělá hudba</ContainerH3>
           <ContainerParagraph className="">
-            Program bude doprovázen ladnými tóny Vesmírné kapely a kapelou Pehuma.
-            {/*
-            a&nbsp;scholou
-            z&nbsp;Červeného Kostelce. O&nbsp;hudební doprovod adorace se
-            postará Markét Dušková. */}
+            Program bude doprovázen ladnými tóny Vesmírné kapely a scholou PEHUMA z Dolní Čermné.
           </ContainerParagraph>
         </div>
         <div className="border-[#444] border rounded-xl p-4 sm:p-6 transition h-full backdrop-blur-md hover:scale-105">
