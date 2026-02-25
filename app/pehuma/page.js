@@ -24,9 +24,9 @@ export default async function Pehuma() {
       <Header />
       <PageMain>
         <Container>
-          <ContainerTitle>Pehuma</ContainerTitle>
+          <ContainerTitle>PEHUMA</ContainerTitle>
           <ContainerDescription>
-            Jsme kapela Pehuma a letos doprovodíme závěrečnou mši svatou v katedrále. Více o nás již brzy.
+            Jsme schola PEHUMA z Dolní Čermné a letos doprovodíme závěrečnou mši svatou v katedrále.
           </ContainerDescription>
           <ContainerImage
             jpgPath="/assets/images/Pehuma_vlajka_bila.svg"
@@ -34,10 +34,16 @@ export default async function Pehuma() {
             altText="Logo kapely Pehuma"
             className="w-full my-2"
           />
-          {/*<ContainerParagraph>
-            Popis kapely
+          <ContainerParagraph>
+            Jsme Dolnočermenské spolčo a schola PEHUMA a rádi spolu trávíme čas nejen zpěvem,
+            ale i sdílením duchovních zkušeností a hrami. Fungujeme už od roku 1986, takže máme
+            za&nbsp;sebou kus společné historie. Dnes se nás schází asi patnáct a setkáváme&nbsp;se
+            každých 14&nbsp;dní na&nbsp;faře. Začínáme zkouškou zpěvu na mši svatou, která je v 19:00.
+            Po&nbsp;mši pak pokračujeme naším spolčem. Vždy si někdo připraví krátké téma k zamyšlení
+            a&nbsp;někdo jiný zase hry nebo jinou&nbsp;zábavu. Máme rádi pohodu, smích a&nbsp;čas 
+            strávený spolu. Jsme moc rádi, že vám můžeme zazpívat, a těšíme se, že si to společně užijeme.
           </ContainerParagraph>
-          <SwappingGallery images={gallery} />
+          {/*<SwappingGallery images={gallery} />
           <ContainerH2>Sledujte nás na:</ContainerH2>
           <ContainerUl className={`!list-none !pl-0 mb-6`}>
             <ContainerLi className="mt-2">
