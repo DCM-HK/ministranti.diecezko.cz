@@ -43,15 +43,19 @@ export default async function GroupTransport() {
                 className="w-full my-4"
               />
             </FaqBox>
-            {/*
-            <FaqBox question={`Chrudim`} icon={``}>
-              <ContainerImage
-                jpgPath="/assets/images/doprava/doprava-chrudim.jpg"
-                webpPath="/assets/images/doprava/doprava-chrudim.webp"
-                altText="Plakátek s informacemi o společné dopravě."
-                className="w-full my-4"
-              />
+            <FaqBox question={`Chrudim a Litomyšl`} icon={``}>
+              Vikariáty Chrudim a Litomyšl organizují společnou dopravu autobusem. Přihlášení
+              a&nbsp;další informace o&nbsp;společné dopravě jsou k&nbsp;dispozici na&nbsp;
+              <Link
+                className="underline"
+                href={`https://forms.gle/zdwRfmQSCaibjYtc6`}
+                target="_blank"
+                rel="external noopener nofollow"
+              >
+                tomto odkazu
+              </Link>.
             </FaqBox>
+            {/*
             <FaqBox question={`Jičín`} icon={``}>
               Společná doprava s&nbsp;vikariátem Jičín je vlakem Os&nbsp;5503.<br />
               7:20 Libuň<br />
