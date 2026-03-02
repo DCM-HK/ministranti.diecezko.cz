@@ -255,7 +255,7 @@ export default function Header() {
               >
                 <li className="flex flex-row items-center">
                   <IconCustomPehuma className="inline h-7 w-7 my-1 mr-2" />
-                  Pehuma
+                  PEHUMA
                 </li>
               </Link>
               {/*<Link
