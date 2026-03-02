@@ -15,7 +15,9 @@ import {
 } from "@tabler/icons";
 import FaqLayout from "../../components/layouts/faq-layout";
 import FaqBox from "../../components/layouts/faq-box";
-export default async function GroupTransport() {
+import ContainerParagraph from "../../components/layouts/container-paragraph";
+
+export default function GroupTransport() {
   return (
     <main className="ease-in-out duration-300 font-titilliumWeb">
       <Header />
@@ -30,7 +32,35 @@ export default async function GroupTransport() {
               <ContainerImage
                 jpgPath="/assets/images/preddiecezka/preddiecezko-hum.jpg"
                 webpPath="/assets/images/preddiecezka/preddiecezko-hum.webp"
-                altText="Plakátek s informacemi o PředDiecézku."
+                altText="Plakátek s informacemi o PředDiecézku vikariátu Humpolec."
+                className="w-full my-4"
+              />
+            </FaqBox>
+            <FaqBox question={`Ústí nad Orlicí`} icon={``}>
+              <ContainerParagraph>
+                Přijeď už dřív a poznej lépe mládež z tvého vikariátu! Večeři si&nbsp;každý
+                zajistí sám ale snídaně bude připravena pro&nbsp;všechny, a proto
+                se&nbsp;prosím přihlaš, abychom věděli kolik nás bude! Můžeš se&nbsp;těšit
+                na&nbsp;hry, kahoot a&nbsp;večerní hradec.<br />Pro více info sleduj&nbsp;
+                <Link
+                  href="https://www.instagram.com/vikariat_uo/"
+                  target="_blank"
+                  rel="external noopener nofollow"
+                  className="underline"
+                >
+                  @vikariat_uo
+                </Link> nebo napiš na&nbsp;
+                <Link
+                  href="mailto:vikariatustinadorlici@gmail.com"
+                  className="underline"
+                >
+                  vikariatustinadorlici@gmail.com
+                </Link>
+              </ContainerParagraph>
+              <ContainerImage
+                jpgPath="/assets/images/preddiecezka/preddiecezko-usti.jpg"
+                webpPath="/assets/images/preddiecezka/preddiecezko-usti.webp"
+                altText="Plakátek s informacemi o PředDiecézku vikariátu Ústí nad Orlicí."
                 className="w-full my-4"
               />
             </FaqBox>
