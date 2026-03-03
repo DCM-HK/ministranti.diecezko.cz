@@ -31,15 +31,15 @@ export default function Infographic() {
           <ContainerH3 className="">Mše svatá s našimi biskupy</ContainerH3>
           <ContainerParagraph className="">
             Setkání zakončíme mší svatou s&nbsp;našimi biskupy Janem
-            a&nbsp;Prokopem v&nbsp;katedrále Svatého Ducha. Biskup Jan nás zve a zdraví&nbsp;
+            a&nbsp;Prokopem v&nbsp;katedrále Svatého Ducha. Biskup Jan nás zve a zdraví&nbsp;v&nbsp;
             <Link
               href="/pozvani-biskupa-jana"
               target="_self"
               className="underline"
               title="Pozání Biskupa Jana"
             >
-              v&nbsp;dopise.
-            </Link>
+              dopise
+            </Link>.
           </ContainerParagraph>
         </div>
         <div className="border-[#444] border rounded-xl p-4 sm:p-6 transition h-full backdrop-blur-md hover:scale-105">
