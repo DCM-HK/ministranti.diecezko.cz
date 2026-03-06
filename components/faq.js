@@ -238,6 +238,7 @@ export default function FAQ() {
         Zastávka D1 – 7<br />
         Zastávka D2 – 11, 13
       </FaqBox>
+      {/* 
       <FaqBox question={`Kam si odskočit na záchod?`} icon={`toilet`}>
         Nezoufej, mrkni{" "}
         <Link
@@ -250,6 +251,7 @@ export default function FAQ() {
         </Link>{" "}
         a&nbsp;najdi si nejbližší trůn, který bude vyhovovat tvým požadavkům.
       </FaqBox>
+      */}
     </FaqLayout>
   );
 }
