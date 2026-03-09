@@ -448,7 +448,7 @@ export const vikariaty = [
       jpgPath: "/assets/images/vikariaty/dvorak.jpg",
     },
     person1: {
-      name: "Majda Hejná",
+      name: "Magdalena Hejná",
       jpgPath: "/assets/images/vikariaty/hejna.jpg",
     },
     person2: {

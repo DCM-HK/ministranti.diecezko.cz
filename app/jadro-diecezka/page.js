@@ -62,7 +62,7 @@ export const ecko = [
   {
     name: "Mons. Prokop Brož",
     description:
-      "Prokop má na starosti pastorační činnost v&nbsp;naší diecézi. Stará se o&nbsp;to, aby všichni táhli za jeden provaz. Řídí se heslem: Bez Ducha Svatého ani ránu!",
+      "Biskup Prokop má na starosti pastorační činnost v&nbsp;naší diecézi. Stará se o&nbsp;to, aby všichni táhli za jeden provaz. Řídí se heslem: Bez Ducha Svatého ani ránu!",
     jpgPath: "/assets/images/jadro/broz.jpg",
     webpPath: "/assets/images/jadro/broz.webp",
     altText: "Profilová fotka Mons. Prokopa Brože",
