@@ -26,8 +26,6 @@ export default function MapPoints({ coords }) {
           ? sport
           : p.name === "Vlakové nádraží"
           ? train
-          : p.name === "Zpívající stromy"
-          ? cross
           : bus,
       alt: `${p.name}`,
     })
@@ -147,7 +145,10 @@ const places = [
       y: 15.8334453,
     },
     name: "Nové Adalbertinum",
-    content: "",
+    content: `
+      <li>DCM</li>
+      <li>Farní místnost</li>
+      `,
   },
   {
     coords: {
@@ -165,22 +166,14 @@ const places = [
     name: "Autobusové nádraží",
     content: "",
   },
-  {
-    coords: {
-      x: 50.2069553,
-      y: 15.8349681,
-    },
-    name: "Orlovna",
-    content: "<li>12:30 sportovní workshop</li>",
-  },
-  {
-    coords: {
-      x: 50.2077792,
-      y: 15.8301403,
-    },
-    name: "Zpívající stromy",
-    content: "",
-  },
+  // {
+  //   coords: {
+  //     x: 50.2069553,
+  //     y: 15.8349681,
+  //   },
+  //   name: "Orlovna",
+  //   content: "<li>12:30 sportovní workshop</li>",
+  // },
   {
     coords: {
       x: 50.2090772,
