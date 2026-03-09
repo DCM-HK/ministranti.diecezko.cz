@@ -15,7 +15,7 @@ export default async function Vikariaty() {
       <Header />
       <PageMain>
         <Container>
-          <ContainerTitle>Vikariáty</ContainerTitle>
+          <ContainerTitle>Vikariátní zástupci a kaplani pro mládež</ContainerTitle>
           <ContainerDescription>
             Vikariát je územní jednotka v&nbsp;diecézi seskupující jednotlivé 
             farnosti, které spolupracují na různých aktivitách 
@@ -26,7 +26,6 @@ export default async function Vikariaty() {
             nabízejí různé akce, jako jsou setkání, duchovní obnovy, poutě,
             sportovní turnaje nebo festivaly.
           </ContainerDescription>
-          <SwappingGallery images={gallery} />
           <ContainerH2>Mapa vikariátů</ContainerH2>
           <ContainerDescription
             className={`text-left w-full !font-light mt-0 text-sm`}
@@ -62,6 +61,7 @@ export default async function Vikariaty() {
               />
             );
           })}
+          <SwappingGallery images={gallery} />
         </Container>
       </PageMain>
       <Footer />

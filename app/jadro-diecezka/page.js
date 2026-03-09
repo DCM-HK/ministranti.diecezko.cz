@@ -13,11 +13,14 @@ export default async function Vikariaty() {
       <Header />
       <PageMain>
         <Container>
-          <ContainerTitle>Jádro Diecézka</ContainerTitle>
+          <ContainerTitle>Jádro Diecézka (Éčko)</ContainerTitle>
           <ContainerDescription>
             Diecézní setkání mládeže je možné zorganizovat díky dobrovolníkům,
-            kteří se do jeho příprav zapojili. Patří jim díky za jejich
-            obětavost a&nbsp;nasazení!
+            kteří se&nbsp;do jeho příprav zapojili. Tým, který se&nbsp;schází
+            již od&nbsp;podzima, aby pro vás Diecézko připravil, si&nbsp;říká
+            Éčko. Víte proč? Podle maskota mládeže královéhradecké diecéze
+            holuba Evžena! Se&nbsp;členy Éčka a&nbsp;jejich úkoly se&nbsp;můžete
+            seznámit níže.
           </ContainerDescription>
           <div className="flex flex-col sm:grid sm:grid-cols-2 md:grid-cols-3 grid-flow-row gap-4 items-center">
             {ecko.map((p) => {

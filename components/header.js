@@ -149,7 +149,7 @@ export default function Header() {
           >
             <li className="flex flex-row items-center">
               <IconPuzzle stroke={1.5} className="inline h-7 w-7 my-1 mr-2" />
-              Vikariáty
+              Vikariátní zástupci a kaplani
             </li>
           </Link>
           <li className="flex flex-col items-center w-full justify-between my-4">
@@ -280,7 +280,7 @@ export default function Header() {
           >
             <li className="flex flex-row items-center">
               <IconHeart stroke={1.5} className="inline h-7 w-7 my-1 mr-2" />
-              Jádro Diecézka
+              Jádro Diecézka (Éčko)
             </li>
           </Link>
           <Link

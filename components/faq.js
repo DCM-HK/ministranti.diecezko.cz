@@ -22,7 +22,7 @@ export default function FAQ() {
         .
       </FaqBox>
       <FaqBox question={`Kolik Diecézko stojí?`} icon={`money`}>
-        Doporučený příspěvek je <strong>200,-Kč na osobu</strong>. Je možné ho
+        Doporučený příspěvek je <strong>200,-Kč v hotovosti</strong>. Je možné ho
         zaplatit v hotovosti na recepci ve Filharmonii při dopoledním programu.
       </FaqBox>
       <FaqBox question={`Desatero pravidel Diecézka`} icon={`notes`}>
@@ -102,9 +102,9 @@ export default function FAQ() {
         </ContainerOl>
       </FaqBox>
       <FaqBox question={`Co si sbalit s sebou?`} icon={`luggage`}>
-        Sváču, láhev s&nbsp;pitím, doporučený příspěvek (200,-Kč), peníze na
-        svoji dopravu. Doporučujeme si také vzít něco teplého na sebe na
-        závěrečnou mši svatou do katedrály. Může být zima.
+        Sváču, láhev s&nbsp;pitím, doporučený příspěvek (200,-Kč v hotovosti),
+        peníze na svoji dopravu. Doporučujeme si také vzít něco teplého
+        na sebe na závěrečnou mši svatou do katedrály. Může být zima.
       </FaqBox>
       <FaqBox question={`Od kolika let můžu jet na Diecézko?`} icon={`kid`}>
         Doporučený věk k&nbsp;účasti na setkání je{" "}
