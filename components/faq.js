@@ -8,6 +8,13 @@ import ContainerLi from "./layouts/container-li";
 export default function FAQ() {
   return (
     <FaqLayout>
+      <FaqBox question={`Co je diecézko?`} icon={`users`}>
+        Diecézní setkání mládeže je oslavou Světového dne mládeže na diecézní úrovni.
+        Tradici Světových dnů mládeže založil papež sv. Jan Pavel II.
+        v&nbsp;roce 1985 a&nbsp;sám jako římský biskup šel příkladem,
+        když se&nbsp;pravidelně setkával s mladými lidmi. Zároveň povzbudil biskupy
+        po&nbsp;celém světě, aby podobná setkání pořádali také ve svých diecézích.
+      </FaqBox>
       <FaqBox question={`Kde seženu zdravotní pomoc?`} icon={`medical`}>
         V případě jakéhokoliv zdravotního problému se neváhej obrátit na naši{" "}
         <strong>zdravotnickou službu</strong>, kterou poznáš podle oblečení

@@ -190,6 +190,7 @@ const places = [
     name: "BiGy (Biskupské gymnázium)",
     content: `
     <li>12:30 přednášky, workshopy</li>
+    <li>14:10 začátek programu po vikariátech</li>
     `,
     // <li>13:30 nealkoholický bar</li>
     // <li>14:10 modlitba za město</li>

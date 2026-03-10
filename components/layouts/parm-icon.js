@@ -18,6 +18,7 @@ import {
   IconPencil,
   IconPray,
   IconUser,
+  IconUsers,
 } from "@tabler/icons";
 
 export default function ParmIcon({ className, iconName, size }) {
@@ -153,6 +154,14 @@ export default function ParmIcon({ className, iconName, size }) {
   else if (iconName === "excursion")
     return (
       <IconBuildingCastle
+        className={`inline ${className} mr-1`}
+        stroke={1.5}
+        size={size}
+      />
+    );
+  else if (iconName === "users")
+    return (
+      <IconUsers
         className={`inline ${className} mr-1`}
         stroke={1.5}
         size={size}
