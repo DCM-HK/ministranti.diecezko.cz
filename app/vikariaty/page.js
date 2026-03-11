@@ -9,6 +9,7 @@ import IconCustomVikariatyMap from "../../components/images/vikariaty-map";
 import ContainerH2 from "../../components/layouts/container-h2";
 import Link from "next/link";
 import SwappingGallery from "../../components/swapping-gallery";
+import ContainerParagraph from "../../components/layouts/container-paragraph";
 export default async function Vikariaty() {
   return (
     <main className="ease-in-out duration-300 font-titilliumWeb">
@@ -17,6 +18,22 @@ export default async function Vikariaty() {
         <Container>
           <ContainerTitle>Vikariátní zástupci a kaplani pro mládež</ContainerTitle>
           <ContainerDescription>
+            Vikariátní zástupce
+          </ContainerDescription>
+          <ContainerParagraph>
+            Vikariátní zástupce pro mládež pomáhá propojovat práci s mládeží mezi jednotlivými farnostmi ve vikariátu a diecézí. Spolupracuje především s kaplanem pro mládež a podporuje organizaci společných aktivit pro mladé.
+            Jeho služba zahrnuje:
+            <ul className="list-disc list-inside mt-2">
+              <li>spolupráci s kaplanem pro mládež při organizování aktivit pro mladé ve vikariátu (např. vikariátní setkání mládeže nebo večery mladých)</li>
+              <li>udržování kontaktu s mládeží v jednotlivých farnostech a spolupráci se zástupci farností</li>
+              <li>předávání informací pro mládež (např. z Diecézního centra pro mládež nebo z dění ve vikariátu)</li>
+              <li>zapojení do přípravy Diecézního setkání mládeže a dalších diecézních akcí</li>
+              <li>modlitbu za mládež</li>
+              <li>osobní duchovní růst, aby mohl být příkladem pro ostatní</li>
+            </ul>
+          </ContainerParagraph>
+          <ContainerH2>Mapa vikariátů</ContainerH2>
+          <ContainerParagraph>
             Vikariát je územní jednotka v&nbsp;diecézi seskupující jednotlivé 
             farnosti, které spolupracují na různých aktivitách 
             a&nbsp;projektech. Vytváří prostor pro setkávání a společné 
@@ -25,8 +42,7 @@ export default async function Vikariaty() {
             život, bavit se a&nbsp;prožívat víru ve společenství. Vikariáty
             nabízejí různé akce, jako jsou setkání, duchovní obnovy, poutě,
             sportovní turnaje nebo festivaly.
-          </ContainerDescription>
-          <ContainerH2>Mapa vikariátů</ContainerH2>
+          </ContainerParagraph>
           <ContainerDescription
             className={`text-left w-full !font-light mt-0 text-sm`}
           >
