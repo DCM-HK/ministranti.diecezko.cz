@@ -25,17 +25,17 @@ export default async function Pehuma() {
             setkáním mladých z celé diecéze právě při Diecézním setkání mládeže, kde se mladí
             setkávají mezi sebou i se svým biskupem.
           </ContainerDescription>
-          <ContainerDescription>
+          <ContainerH2>
             Farnost (spolča)
-          </ContainerDescription>
+          </ContainerH2>
           <ContainerParagraph>
             Základem pastorace mládeže jsou malá společenství ve farnostech – „spolča“. Právě tady
             se mladí pravidelně setkávají, modlí se, sdílejí svůj život a rostou ve víře.
             Společenství obvykle provází vedoucí nebo animátoři, kteří mladé doprovázejí.
           </ContainerParagraph>
-          <ContainerDescription>
+          <ContainerH2>
             Vikariát
-          </ContainerDescription>
+          </ContainerH2>
           <ContainerParagraph>
             Více farností v jednom regionu tvoří vikariát. Na této úrovni se mohou konat společné
             akce pro mladé z více farností, aby se mohli poznávat a vytvářet širší společenství.
@@ -44,9 +44,9 @@ export default async function Pehuma() {
               kaplani pro mládež a vikariátní zástupci
             </Link>.
           </ContainerParagraph>
-          <ContainerDescription>
+          <ContainerH2>
             Diecéze
-          </ContainerDescription>
+          </ContainerH2>
           <ContainerParagraph>
             Na úrovni celé diecéze se organizují větší setkání, například Diecézní setkání mládeže
             (Diecézko). Pastoraci mládeže zde koordinuje&nbsp;
@@ -58,17 +58,16 @@ export default async function Pehuma() {
             <Link href="/dczm-vesmir" target="_self" className="underline">
               Diecézní centra života mládeže (DCŽM)
             </Link>
-            , která
-            vytvářejí prostor pro setkávání mladých, duchovní a víkendové programy. V prostředí
-            studentských pak působí Vysokoškolská katolická hnutí (VKH), která vytváří společenství
-            pro studenty vysokých škol – v naší diecézi funguje&nbsp;
+            , která vytvářejí prostor pro setkávání mladých, duchovní a víkendové programy.
+            V prostředí studentských pak působí Vysokoškolská katolická hnutí (VKH), která vytváří
+            společenství pro studenty vysokých škol – v naší diecézi funguje&nbsp;
             <Link href="/kak-salas" target="_self" className="underline">
               KAK Salaš v Hradci Králové
             </Link>.
           </ContainerParagraph>
-          <ContainerDescription>
+          <ContainerH2>
             Česká republika
-          </ContainerDescription>
+          </ContainerH2>
           <ContainerParagraph>
             Jednotlivé diecéze jsou propojené na celostátní úrovni prostřednictvím Sekce pro mládež
             České biskupské konference. Její práci zajišťuje sekretariát Sekce pro mládež, který
