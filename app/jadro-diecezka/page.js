@@ -57,8 +57,8 @@ export const ecko = [
     name: "P. Jenda Pitřinec",
     description:
       "Jenda je nejen ředitelem Vesmíru a&nbsp;DCM, ale hlavně duchovní opora celého přípravného týmu. Rád se zamýšlí nad průběhem celého Diecézka a&nbsp;přichází s&nbsp;pointy k&nbsp;vylepšení.",
-    jpgPath: "/assets/images/dcm/pitrinec.jpg",
-    webpPath: "/assets/images/dcm/pitrinec.webp",
+    jpgPath: "/assets/images/jadro/pitrinec.jpg",
+    webpPath: "/assets/images/jadro/pitrinec.webp",
     altText: "Profilová fotka o. Jendy Pitřince",
     className: "",
   },
@@ -129,8 +129,8 @@ export const ecko = [
     name: "Dan Blažek",
     description:
       "Dan a&nbsp;jeho tým v&nbsp;oranžových vestičkách vám zajistí bezpečný doprovod až na přednášku.",
-    jpgPath: "/assets/images/dcm/blazek.jpg",
-    webpPath: "/assets/images/dcm/blazek.webp",
+    jpgPath: "/assets/images/jadro/blazek.jpg",
+    webpPath: "/assets/images/jadro/blazek.webp",
     altText: "Profilová fotka Dana Blažka",
     className: "",
   },
@@ -146,21 +146,12 @@ export const ecko = [
   {
     name: "Jindra Řezníček",
     description:
-      "Jindra se stará o&nbsp;kaplany pro mládež a&nbsp;jejich zástupce, pomáhá sytit web obsahem a&nbsp;na BiGy se svým týmem připravuje zázemí pro všechny na Diecézku.",
+      "Jindra se stará o&nbsp;kaplany pro mládež a&nbsp;jejich zástupce a pomáhá sytit web obsahem.",
     jpgPath: "/assets/images/jadro/reznicek.jpg",
     webpPath: "/assets/images/jadro/reznicek.webp",
     altText: "Profilová fotka Jindry Řezníčka",
     className: "",
   },
-  /* {
-    name: "Vojta Vlach",
-    description:
-      "Vojta je ostřílený kapelník Vesmírné kapely, která doprovodí dopolední program ve Filharmonii. Dále pomáhá s&nbsp;webem diecézko.cz.",
-    jpgPath: "/assets/images/jadro/vlach.jpg",
-    webpPath: "/assets/images/jadro/vlach.webp",
-    altText: "Profilová fotka Vojty Vlacha",
-    className: "",
-  }, */
   /* {
     name: "Pavel Vocl",
     description:
