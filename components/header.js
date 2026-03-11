@@ -11,6 +11,7 @@ import {
   IconMenu2,
   IconMusic,
   IconPuzzle,
+  IconSignRight,
   IconX,
 } from "@tabler/icons";
 import Link from "next/link";
@@ -175,6 +176,17 @@ export default function Header() {
               </div>
             </div>
             <ul className={`${pastoraceVisibility} w-full flex flex-col`}>
+              <Link
+                href="/pastorace"
+                onClick={unlockScrolling}
+                target="_self"
+                className="w-full mt-4 text-xl"
+              >
+                <li className="flex flex-row items-center">
+                  <IconSignRight className="inline h-7 w-7 my-1 mr-2" />
+                  Jak funguje pastorace mládeže
+                </li>
+              </Link>
               <Link
                 href="/dcm-hradec-kralove"
                 onClick={unlockScrolling}
