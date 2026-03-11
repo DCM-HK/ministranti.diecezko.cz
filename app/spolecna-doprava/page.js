@@ -4,7 +4,7 @@ import Footer from "../../components/footer";
 import Container from "../../components/layouts/container";
 import ContainerTitle from "../../components/layouts/container-title";
 import ContainerDescription from "../../components/layouts/container-description";
-import ContainerImage from "../../components/layouts/container-image";
+import ContainerImageBase from "../../components/layouts/container-image-base";
 import PageMain from "../../components/layouts/page-main";
 import Link from "next/link";
 import {
@@ -28,7 +28,7 @@ export default async function GroupTransport() {
           </ContainerDescription>
           <FaqLayout>
             <FaqBox question={`Havlíčkův Brod`} icon={``}>
-              <ContainerImage
+              <ContainerImageBase
                 jpgPath="/assets/images/doprava/doprava-hb.jpg"
                 webpPath="/assets/images/doprava/doprava-hb.webp"
                 altText="Plakátek s informacemi o společné dopravě."
@@ -36,7 +36,7 @@ export default async function GroupTransport() {
               />
             </FaqBox>
             <FaqBox question={`Humpolec`} icon={``}>
-              <ContainerImage
+              <ContainerImageBase
                 jpgPath="/assets/images/preddiecezka/preddiecezko-hum.jpg"
                 webpPath="/assets/images/preddiecezka/preddiecezko-hum.webp"
                 altText="Plakátek s informacemi o společné dopravě."

@@ -4,7 +4,7 @@ import Footer from "../../components/footer";
 import Container from "../../components/layouts/container";
 import ContainerTitle from "../../components/layouts/container-title";
 import ContainerDescription from "../../components/layouts/container-description";
-import ContainerImage from "../../components/layouts/container-image";
+import ContainerImageBase from "../../components/layouts/container-image-base";
 import PageMain from "../../components/layouts/page-main";
 import Link from "next/link";
 import {
@@ -29,7 +29,7 @@ export default function GroupTransport() {
           </ContainerDescription>
           <FaqLayout>
             <FaqBox question={`Humpolec`} icon={``}>
-              <ContainerImage
+              <ContainerImageBase
                 jpgPath="/assets/images/preddiecezka/preddiecezko-hum.jpg"
                 webpPath="/assets/images/preddiecezka/preddiecezko-hum.webp"
                 altText="Plakátek s informacemi o PředDiecézku vikariátu Humpolec."
@@ -57,7 +57,7 @@ export default function GroupTransport() {
                   vikariatustinadorlici@gmail.com
                 </Link>
               </ContainerParagraph>
-              <ContainerImage
+              <ContainerImageBase
                 jpgPath="/assets/images/preddiecezka/preddiecezko-usti.jpg"
                 webpPath="/assets/images/preddiecezka/preddiecezko-usti.webp"
                 altText="Plakátek s informacemi o PředDiecézku vikariátu Ústí nad Orlicí."

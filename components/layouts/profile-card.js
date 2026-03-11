@@ -1,23 +1,8 @@
-import fs from "node:fs";
-import path from "node:path";
-import ContainerImage from "./container-image";
+import ContainerImageBase from "./container-image-base";
+import { resolvePublicAssetPath } from "./resolve-public-asset-path";
 
 const PLACEHOLDER_WEBP_PATH = "/assets/images/profile-placeholder.webp";
 const PLACEHOLDER_JPG_PATH = "/assets/images/profile-placeholder.jpg";
-
-function resolveAssetPath(assetPath, fallbackPath) {
-  if (!assetPath) {
-    return fallbackPath;
-  }
-
-  if (!assetPath.startsWith("/")) {
-    return assetPath;
-  }
-
-  const publicAssetPath = path.join(process.cwd(), "public", assetPath.slice(1));
-
-  return fs.existsSync(publicAssetPath) ? assetPath : fallbackPath;
-}
 
 export default function ProfileCard({
   className,
@@ -29,20 +14,20 @@ export default function ProfileCard({
   altText,
   description,
 }) {
-  const resolvedWebpPath = resolveAssetPath(
+  const resolvedJpgPath = resolvePublicAssetPath(jpgPath, PLACEHOLDER_JPG_PATH);
+  const resolvedWebpPath = resolvePublicAssetPath(
     webpPath,
-    PLACEHOLDER_WEBP_PATH,
+    resolvedJpgPath === PLACEHOLDER_JPG_PATH ? PLACEHOLDER_WEBP_PATH : undefined,
   );
-  const resolvedJpgPath = resolveAssetPath(jpgPath, PLACEHOLDER_JPG_PATH);
   const resolvedPngPath = pngPath
-    ? resolveAssetPath(pngPath, resolvedJpgPath)
+    ? resolvePublicAssetPath(pngPath, resolvedJpgPath)
     : undefined;
 
   return (
     <div
       className={`${className} w-full my-4 md:my-0 flex flex-col items-center justify-around border-[#444] border rounded-xl p-4 sm:p-6 transition h-full hover:scale-[1.02] hover:rotate-1`}
     >
-      <ContainerImage
+      <ContainerImageBase
         pngPath={resolvedPngPath}
         jpgPath={resolvedJpgPath}
         webpPath={resolvedWebpPath}
