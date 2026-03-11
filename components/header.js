@@ -22,6 +22,7 @@ import IconCustomDCM from "./images/dcm-hk";
 import IconCustomEvzen from "./images/evzen";
 import IconCustomVeka from "./images/veka";
 import IconCustomPehuma from "./images/pehuma";
+import IconCustomSkce from "./images/sekce";
 
 export default function Header() {
   const [burgerControl, setBurgerControl] = useState("");
@@ -218,6 +219,17 @@ export default function Header() {
                 <li className="flex flex-row items-center">
                   <IconCustomSalas className="h-7 w-7 inline my-1 mr-2" />
                   KAK Salaš
+                </li>
+              </Link>
+              <Link
+                href="/sekce-pro-mladez"
+                onClick={unlockScrolling}
+                target="_self"
+                className="w-full mt-4 text-xl"
+              >
+                <li className="flex flex-row items-center">
+                  <IconCustomSkce className="h-7 w-7 inline my-1 mr-2" />
+                  Sekce pro mládež ČBK
                 </li>
               </Link>
             </ul>
