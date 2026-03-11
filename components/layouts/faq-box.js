@@ -73,7 +73,7 @@ export default function FaqBox({ className, id, children, question, icon }) {
         <IconCaretDown className={`${arrowDownClass}`} />
         <IconCaretUp className={`${arrowUpClass}`} />
       </div>
-      <p className={`${className} mt-2 ${answerClass}`} id={id}>
+      <p className={`${className} mt-2 ${answerClass} text-justify`} id={id}>
         {children}
       </p>
     </div>
