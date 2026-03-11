@@ -11,6 +11,7 @@ import {
   IconMenu2,
   IconMusic,
   IconPuzzle,
+  IconTrain,
   IconSignRight,
   IconX,
 } from "@tabler/icons";
@@ -143,17 +144,6 @@ export default function Header() {
               Mapa míst
             </li>
           </Link>
-          <Link
-            href="vikariaty"
-            onClick={unlockScrolling}
-            target="_self"
-            className="border-b-[#3b3b3b] border-b w-full my-4"
-          >
-            <li className="flex flex-row items-center">
-              <IconPuzzle stroke={1.5} className="inline h-7 w-7 my-1 mr-2" />
-              Vikariátní zástupci a kaplani
-            </li>
-          </Link>
           <li className="flex flex-col items-center w-full justify-between my-4">
             <div
               className="flex flex-row items-center w-full justify-between cursor-pointer border-b border-b-[#3b3b3b]"
@@ -186,6 +176,17 @@ export default function Header() {
                 <li className="flex flex-row items-center">
                   <IconSignRight className="inline h-7 w-7 my-1 mr-2" />
                   Jak funguje pastorace mládeže
+                </li>
+              </Link>
+              <Link
+                href="/vikariaty"
+                onClick={unlockScrolling}
+                target="_self"
+                className="w-full mt-4 text-xl"
+              >
+                <li className="flex flex-row items-center">
+                  <IconPuzzle className="inline h-7 w-7 my-1 mr-2" />
+                  Vikiátní zástupci a kaplani
                 </li>
               </Link>
               <Link
@@ -305,6 +306,20 @@ export default function Header() {
             <li className="flex flex-row items-center">
               <IconHeart stroke={1.5} className="inline h-7 w-7 my-1 mr-2" />
               Jádro Diecézka (Éčko)
+            </li>
+          </Link>
+          <Link
+            href="/spolecna-doprava"
+            onClick={unlockScrolling}
+            target="_self"
+            className="border-b-[#3b3b3b] border-b w-full my-4"
+          >
+            <li className="flex flex-row items-center">
+              <IconTrain
+                stroke={1.5}
+                className="inline h-7 w-7 my-1 mr-2"
+              />
+              Společná doprava
             </li>
           </Link>
           <Link
