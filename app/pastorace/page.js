@@ -69,14 +69,20 @@ export default async function Pehuma() {
             Česká republika
           </ContainerH2>
           <ContainerParagraph>
-            Jednotlivé diecéze jsou propojené na celostátní úrovni prostřednictvím Sekce pro mládež
-            České biskupské konference. Její práci zajišťuje sekretariát Sekce pro mládež, který
+            Jednotlivé diecéze jsou propojené na celostátní úrovni prostřednictvím&nbsp;
+            <Link href="/sekce-pro-mladez" target="_self" className="underline">
+              Sekce pro mládež České biskupské konference
+            </Link>
+            . Její práci zajišťuje sekretariát Sekce pro mládež, který
             koordinuje spolupráci mezi diecézemi a podílí se na organizaci celostátních akcí,
             například&nbsp;
             <Link href="https://celostatnisetkanimladeze.cz/" target="_blank" rel="external noopener nofollow" className="underline">
               Celostátního setkání mládeže
             </Link>
-            &nbsp;nebo přípravy Světových dnů mládeže.
+            &nbsp;nebo přípravy&nbsp;
+            <Link href="https://wydseoul.org/en" target="_blank" rel="external noopener nofollow" className="underline">
+              Světových dnů mládeže.
+            </Link>
           </ContainerParagraph>
           <ContainerImage
             pngPath="/assets/images/czechia.png"
