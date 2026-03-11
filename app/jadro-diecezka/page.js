@@ -152,6 +152,15 @@ export const ecko = [
     altText: "Profilová fotka Jindry Řezníčka",
     className: "",
   },
+  {
+    name: "Martin Rychtár",
+    description:
+      "Martin se svým týmem připravuje zázemí na BiGy pro celý přípravný tým a odpolední přednášky",
+    jpgPath: "/assets/images/jadro/rychtar.jpg",
+    webpPath: "/assets/images/jadro/rychtar.webp",
+    altText: "Profilová fotka Martina Rychtára",
+    className: "",
+  },
   /* {
     name: "Pavel Vocl",
     description:
