@@ -24,14 +24,14 @@ export default async function VeKa() {
       <Header />
       <PageMain>
         <Container>
-          <ContainerTitle>VeKa</ContainerTitle>
+          <ContainerTitle>Vesmírná kapela</ContainerTitle>
           <ContainerDescription>
             Jsme společenství mladých křesťanů pocházejících převážně z
             královéhradecké diecéze. Svou víru a radost ze života chceme
             předávat pomocí hudby. Pořádáme koncerty, doprovázíme mše svaté a
             různá setkání mládeže. Naším domovem je{" "}
             <Link href="/dczm-vesmir" className="underline">
-              Diecézní centrum života mládeže Vesmír
+              DCŽM Vesmír
             </Link>{" "}
             v Deštném v Orlických horách.
           </ContainerDescription>
@@ -50,17 +50,6 @@ export default async function VeKa() {
             mší v různých farnostech. Letos se Vám představíme ve&nbsp;zbrusu
             nové sestavě jako 6. generace VeKy.
           </ContainerParagraph>
-          <iframe
-            className="rounded-xl my-2"
-            data-testid="embed-iframe"
-            style={{ borderRadius: "12px" }}
-            src="https://open.spotify.com/embed/album/5S0HLFdVWbFz7NWEZS28wl?utm_source=generator"
-            width="100%"
-            height="352"
-            allowfullscreen=""
-            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-            loading="lazy"
-          ></iframe>
           <ContainerParagraph>
             Za náš největší úspěch považujeme hraní na loňském{" "}
             <Link
@@ -73,6 +62,19 @@ export default async function VeKa() {
             </Link>{" "}
             včetně jeho přípravného týdne. Doufáme, že si náš hudební doprovod
             užijete!
+          </ContainerParagraph>
+          <ContainerParagraph>
+          <iframe
+            className="rounded-xl my-2"
+            data-testid="embed-iframe"
+            style={{ borderRadius: "12px" }}
+            src="https://open.spotify.com/embed/album/5S0HLFdVWbFz7NWEZS28wl?utm_source=generator"
+            width="100%"
+            height="400"
+            allowfullscreen=""
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+            loading="lazy"
+            ></iframe>
           </ContainerParagraph>
           <SwappingGallery images={gallery} />
           <ContainerH2>Sledujte nás na:</ContainerH2>

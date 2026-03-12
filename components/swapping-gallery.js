@@ -11,7 +11,7 @@ import {
 } from "swiper/modules";
 
 import { Swiper, SwiperSlide } from "swiper/react";
-import ContainerImage from "./layouts/container-image";
+import ContainerImageBase from "./layouts/container-image-base";
 
 // Import Swiper styles
 import "swiper/css";
@@ -38,7 +38,7 @@ export default function SwappingGallery({ images }) {
         {images.map((img) => {
           return (
             <SwiperSlide key={img.path}>
-              <ContainerImage
+              <ContainerImageBase
                 jpgPath={img.path}
                 webpPath={img.path
                   .replace(".jpg", ".webp")

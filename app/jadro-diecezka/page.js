@@ -13,11 +13,14 @@ export default async function Vikariaty() {
       <Header />
       <PageMain>
         <Container>
-          <ContainerTitle>Jádro Diecézka</ContainerTitle>
+          <ContainerTitle>Jádro Diecézka (Éčko)</ContainerTitle>
           <ContainerDescription>
             Diecézní setkání mládeže je možné zorganizovat díky dobrovolníkům,
-            kteří se do jeho příprav zapojili. Patří jim díky za jejich
-            obětavost a&nbsp;nasazení!
+            kteří se&nbsp;do jeho příprav zapojili. Tým, který se&nbsp;schází
+            již od&nbsp;podzima, aby pro vás Diecézko připravil, si&nbsp;říká
+            Éčko. Víte proč? Podle maskota mládeže královéhradecké diecéze
+            holuba Evžena! Se&nbsp;členy Éčka a&nbsp;jejich úkoly se&nbsp;můžete
+            seznámit níže.
           </ContainerDescription>
           <div className="flex flex-col sm:grid sm:grid-cols-2 md:grid-cols-3 grid-flow-row gap-4 items-center">
             {ecko.map((p) => {
@@ -54,15 +57,15 @@ export const ecko = [
     name: "P. Jenda Pitřinec",
     description:
       "Jenda je nejen ředitelem Vesmíru a&nbsp;DCM, ale hlavně duchovní opora celého přípravného týmu. Rád se zamýšlí nad průběhem celého Diecézka a&nbsp;přichází s&nbsp;pointy k&nbsp;vylepšení.",
-    jpgPath: "/assets/images/dcm/pitrinec.jpg",
-    webpPath: "/assets/images/dcm/pitrinec.webp",
+    jpgPath: "/assets/images/jadro/pitrinec.jpg",
+    webpPath: "/assets/images/jadro/pitrinec.webp",
     altText: "Profilová fotka o. Jendy Pitřince",
     className: "",
   },
   {
     name: "Mons. Prokop Brož",
     description:
-      "Prokop má na starosti pastorační činnost v&nbsp;naší diecézi. Stará se o&nbsp;to, aby všichni táhli za jeden provaz. Řídí se heslem: Bez Ducha Svatého ani ránu!",
+      "Biskup Prokop má na starosti pastorační činnost v&nbsp;naší diecézi. Stará se o&nbsp;to, aby všichni táhli za jeden provaz. Řídí se heslem: Bez Ducha Svatého ani ránu!",
     jpgPath: "/assets/images/jadro/broz.jpg",
     webpPath: "/assets/images/jadro/broz.webp",
     altText: "Profilová fotka Mons. Prokopa Brože",
@@ -126,8 +129,8 @@ export const ecko = [
     name: "Dan Blažek",
     description:
       "Dan a&nbsp;jeho tým v&nbsp;oranžových vestičkách vám zajistí bezpečný doprovod až na přednášku.",
-    jpgPath: "/assets/images/dcm/blazek.jpg",
-    webpPath: "/assets/images/dcm/blazek.webp",
+    jpgPath: "/assets/images/jadro/blazek.jpg",
+    webpPath: "/assets/images/jadro/blazek.webp",
     altText: "Profilová fotka Dana Blažka",
     className: "",
   },
@@ -143,21 +146,21 @@ export const ecko = [
   {
     name: "Jindra Řezníček",
     description:
-      "Jindra se stará o&nbsp;kaplany pro mládež a&nbsp;jejich zástupce, pomáhá sytit web obsahem a&nbsp;na BiGy se svým týmem připravuje zázemí pro všechny na Diecézku.",
+      "Jindra se stará o&nbsp;kaplany pro mládež a&nbsp;jejich zástupce a pomáhá sytit web obsahem.",
     jpgPath: "/assets/images/jadro/reznicek.jpg",
     webpPath: "/assets/images/jadro/reznicek.webp",
     altText: "Profilová fotka Jindry Řezníčka",
     className: "",
   },
-  /* {
-    name: "Vojta Vlach",
+  {
+    name: "Martin Rychtár",
     description:
-      "Vojta je ostřílený kapelník Vesmírné kapely, která doprovodí dopolední program ve Filharmonii. Dále pomáhá s&nbsp;webem diecézko.cz.",
-    jpgPath: "/assets/images/jadro/vlach.jpg",
-    webpPath: "/assets/images/jadro/vlach.webp",
-    altText: "Profilová fotka Vojty Vlacha",
+      "Martin se svým týmem připravuje zázemí na BiGy pro celý přípravný tým a odpolední přednášky",
+    jpgPath: "/assets/images/jadro/rychtar.jpg",
+    webpPath: "/assets/images/jadro/rychtar.webp",
+    altText: "Profilová fotka Martina Rychtára",
     className: "",
-  }, */
+  },
   /* {
     name: "Pavel Vocl",
     description:

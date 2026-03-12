@@ -8,6 +8,13 @@ import ContainerLi from "./layouts/container-li";
 export default function FAQ() {
   return (
     <FaqLayout>
+      <FaqBox question={`Co je diecézko?`} icon={`users`}>
+        Diecézní setkání mládeže je oslavou Světového dne mládeže na diecézní úrovni.
+        Tradici Světových dnů mládeže založil papež sv. Jan Pavel II.
+        v&nbsp;roce 1985 a&nbsp;sám jako římský biskup šel příkladem,
+        když se&nbsp;pravidelně setkával s mladými lidmi. Zároveň povzbudil biskupy
+        po&nbsp;celém světě, aby podobná setkání pořádali také ve svých diecézích.
+      </FaqBox>
       <FaqBox question={`Kde seženu zdravotní pomoc?`} icon={`medical`}>
         V případě jakéhokoliv zdravotního problému se neváhej obrátit na naši{" "}
         <strong>zdravotnickou službu</strong>, kterou poznáš podle oblečení
@@ -22,7 +29,7 @@ export default function FAQ() {
         .
       </FaqBox>
       <FaqBox question={`Kolik Diecézko stojí?`} icon={`money`}>
-        Doporučený příspěvek je <strong>200,-Kč na osobu</strong>. Je možné ho
+        Doporučený příspěvek je <strong>200,-Kč v hotovosti</strong>. Je možné ho
         zaplatit v hotovosti na recepci ve Filharmonii při dopoledním programu.
       </FaqBox>
       <FaqBox question={`Desatero pravidel Diecézka`} icon={`notes`}>
@@ -102,9 +109,9 @@ export default function FAQ() {
         </ContainerOl>
       </FaqBox>
       <FaqBox question={`Co si sbalit s sebou?`} icon={`luggage`}>
-        Sváču, láhev s&nbsp;pitím, doporučený příspěvek (200,-Kč), peníze na
-        svoji dopravu. Doporučujeme si také vzít něco teplého na sebe na
-        závěrečnou mši svatou do katedrály. Může být zima.
+        Sváču, láhev s&nbsp;pitím, doporučený příspěvek (200,-Kč v hotovosti),
+        peníze na svoji dopravu. Doporučujeme si také vzít něco teplého
+        na sebe na závěrečnou mši svatou do katedrály. Může být zima.
       </FaqBox>
       <FaqBox question={`Od kolika let můžu jet na Diecézko?`} icon={`kid`}>
         Doporučený věk k&nbsp;účasti na setkání je{" "}

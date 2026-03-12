@@ -43,52 +43,6 @@ export default async function Pehuma() {
             a&nbsp;někdo jiný zase hry nebo jinou&nbsp;zábavu. Máme rádi pohodu, smích a&nbsp;čas 
             strávený spolu. Jsme moc rádi, že vám můžeme zazpívat, a těšíme se, že si to společně užijeme.
           </ContainerParagraph>
-          {/*<SwappingGallery images={gallery} />
-          <ContainerH2>Sledujte nás na:</ContainerH2>
-          <ContainerUl className={`!list-none !pl-0 mb-6`}>
-            <ContainerLi className="mt-2">
-              <Link
-                href={`https://open.spotify.com/artist/4evTGARQ8TRDKnqbxXSvNd?si=fkpi9RTlQRKin5zNI9sDyg`}
-                target="_blank"
-                rel="external"
-                title="Spotify"
-              >
-                <IconBrandSpotify className="inline mr-2" size={30} />
-              </Link>
-              <Link
-                href={`https://facebook.com/vesmirnakapela`}
-                target="_blank"
-                rel="external"
-                title="Facebook"
-              >
-                <IconBrandFacebook className="inline mr-2" size={30} />
-              </Link>
-              <Link
-                href={`https://www.instagram.com/vesmirna_kapela/`}
-                target="_blank"
-                rel="external"
-                title="Instagram"
-              >
-                <IconBrandInstagram className="inline mr-2" size={30} />
-              </Link>
-              <Link
-                href={`https://www.youtube.com/vesmirnakapela`}
-                target="_blank"
-                rel="external"
-                title="Youtube kanál"
-              >
-                <IconBrandYoutube className="inline mr-2" size={30} />
-              </Link>
-              <Link
-                href={`http://vesmirnakapela.jednoduse.cz/`}
-                target="_blank"
-                rel="external"
-                title="Webové stránky"
-              >
-                <IconWorld className="inline mr-2" size={30} />
-              </Link>
-            </ContainerLi>
-          </ContainerUl>*/}
         </Container>
       </PageMain>
       <Footer />

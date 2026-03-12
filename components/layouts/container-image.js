@@ -1,3 +1,6 @@
+import ContainerImageBase from "./container-image-base";
+import { resolvePublicAssetPath } from "./resolve-public-asset-path";
+
 export default function ContainerImage({
   className,
   pngPath,
@@ -5,22 +8,22 @@ export default function ContainerImage({
   webpPath,
   altText,
 }) {
+  const resolvedJpgPath = resolvePublicAssetPath(jpgPath);
+  const resolvedWebpPath = resolvePublicAssetPath(webpPath);
+  const resolvedPngPath = pngPath
+    ? resolvePublicAssetPath(
+        pngPath,
+        resolvedJpgPath !== undefined ? resolvedJpgPath : resolvedWebpPath,
+      )
+    : undefined;
+
   return (
-    <picture>
-      <source srcSet={webpPath} type="image/webp" />
-      <source srcSet={jpgPath} type="image/jpeg" />
-      <img
-        alt={altText}
-        loading="lazy"
-        src={
-          pngPath !== undefined
-            ? pngPath
-            : jpgPath !== undefined
-            ? jpgPath
-            : webpPath
-        }
-        className={`rounded-xl ${className}`}
-      />
-    </picture>
+    <ContainerImageBase
+      className={className}
+      pngPath={resolvedPngPath}
+      jpgPath={resolvedJpgPath}
+      webpPath={resolvedWebpPath}
+      altText={altText}
+    />
   );
 }

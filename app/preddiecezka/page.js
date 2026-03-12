@@ -4,7 +4,7 @@ import Footer from "../../components/footer";
 import Container from "../../components/layouts/container";
 import ContainerTitle from "../../components/layouts/container-title";
 import ContainerDescription from "../../components/layouts/container-description";
-import ContainerImage from "../../components/layouts/container-image";
+import ContainerImageBase from "../../components/layouts/container-image-base";
 import PageMain from "../../components/layouts/page-main";
 import Link from "next/link";
 import {
@@ -28,8 +28,28 @@ export default function GroupTransport() {
             Některé vikariáty pořádají menší setkání (tzv. vikariátko) den před Diecézkem a&nbsp;poté společně vyrážejí do Hradce Králové. Tomuto setkání říkáme PředDiecézko. Zde nalezneš přehled, který tě nasměruje na další informace.
           </ContainerDescription>
           <FaqLayout>
+            <FaqBox question={`Hradec Králové`} icon={``}>
+              <ContainerParagraph>
+                V pátek 27. 3. se v našem vikariátu uskuteční před-diecézní setkání mládeže jako
+                příležitost společně se naladit na blížící se diecézní setkání. Začne v 15:30 ve
+                farní místnosti v Novém Adalbertinu. Program nabídne hry, krátké témátko, modlitbu
+                i prostor pro setkání a sdílení. Na závěr se zapojíme do přípravy křížové cesty na
+                Novém Hradci Králové, kam se společně přesuneme MHD.
+              </ContainerParagraph>
+              <ContainerParagraph>
+                Více informací na instagramu:&nbsp;
+                <Link
+                  href="https://www.instagram.com/spolco_hk/"
+                  target="_blank"
+                  rel="external noopener nofollow"
+                  className="underline"
+                >
+                  @spolco_hk
+                </Link>.
+              </ContainerParagraph>
+            </FaqBox>
             <FaqBox question={`Humpolec`} icon={``}>
-              <ContainerImage
+              <ContainerImageBase
                 jpgPath="/assets/images/preddiecezka/preddiecezko-hum.jpg"
                 webpPath="/assets/images/preddiecezka/preddiecezko-hum.webp"
                 altText="Plakátek s informacemi o PředDiecézku vikariátu Humpolec."
@@ -57,12 +77,29 @@ export default function GroupTransport() {
                   vikariatustinadorlici@gmail.com
                 </Link>
               </ContainerParagraph>
-              <ContainerImage
+              <ContainerImageBase
                 jpgPath="/assets/images/preddiecezka/preddiecezko-usti.jpg"
                 webpPath="/assets/images/preddiecezka/preddiecezko-usti.webp"
                 altText="Plakátek s informacemi o PředDiecézku vikariátu Ústí nad Orlicí."
                 className="w-full my-4"
               />
+            </FaqBox>
+            <FaqBox question={`Žamberk`} icon={``}>
+              <ContainerParagraph>
+                Společný odjezd pro zájemce z žambereckého vikariátu bude v sobotu 28.3. v 7:33
+                vlakem z Letohradu. Těšíme se na vikariátním setkání nebo na Diecézku!&nbsp;
+                <Link
+                  href="https://docs.google.com/forms/d/e/1FAIpQLScsjUTi_KN9X9Z-399Ads99IY7ERx5GRcARQFWDkZGGOoA1hA/viewform?usp=send_form"
+                  target="_blank" rel="external noopener nofollow" className="underline">
+                  Přihláška na předdiecézko
+                </Link>.
+              </ContainerParagraph>
+              <ContainerImageBase
+                jpgPath="/assets/images/spolecna-doprava/zamberk.jpg"
+                webpPath="/assets/images/spolecna-doprava/zamberk.webp"
+                altText="Plakátek s informacemi o společné dopravě."
+                className="w-full my-4"
+                />
             </FaqBox>
             {/*
             <FaqBox question={`Jičín`} icon={``}>

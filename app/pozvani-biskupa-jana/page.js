@@ -73,8 +73,12 @@ export default function Invitation() {
             </span>
             biskup +Jan
           </ContainerParagraph>
-          <ContainerParagraph className={"italic text-right"}>
-          </ContainerParagraph>
+          <ContainerImage
+            webpPath="/assets/images/biskup_jan.webp"
+            jpgPath="/assets/images/biskup_jan.jpg"
+            altText="Biskup Jan"
+            className="w-full my-2"
+          />
         </Container>
       </PageMain>
       <Footer />

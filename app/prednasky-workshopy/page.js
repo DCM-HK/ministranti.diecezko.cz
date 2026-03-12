@@ -29,7 +29,8 @@ export default async function PrednaskyWorhsopy() {
           <ProgramDetail p={program[3]} className={``} />
           <ContainerDescription>
             V první části odpoledne si můžete vybrat z&nbsp;bohaté nabídky
-            přednášek, několika workshopů nebo sportu.
+            přednášek, několika workshopů nebo sportu. Další workshopy budou přibývat
+            v&nbsp;průběhu března.
           </ContainerDescription>
           <div className="flex flex-row items-center justify-center flex-wrap">
             <Link href={`#prednaska-start`}>
@@ -85,36 +86,38 @@ export default async function PrednaskyWorhsopy() {
                         className={`inline`}
                         size={18}
                       />
-
                       <span
                         dangerouslySetInnerHTML={{ __html: w.speaker.name }}
                       />
                     </span>
+                    <span className="font-semibold flex flex-row items-center justify-start">
+                      <IconMapPin
+                        className="inline mr-1"
+                        size={18}
+                        stroke={1.5}
+                      />
                     {w.place !== undefined ? (
-                      <span className="font-semibold flex flex-row items-center justify-start">
-                        <IconMapPin
-                          className="inline mr-1"
-                          size={18}
-                          stroke={1.5}
-                        />
-                        <Link
-                          href={
-                            w.place.includes("Orlovna")
-                              ? `/mapa?x=${50.2069553}&y=${15.8349681}` // Orlovna
-                              : w.place.includes("Nové Adalbertinum")
-                              ? `/mapa?x=${50.2090269}&y=${15.8334453}` // Nove Adalbertinum
-                              : w.place.includes("Biskupská rezidence")
-                              ? `/mapa?x=${50.208725}&y=${15.8323194}` // Biskupská rezidence
-                              : `/mapa?x=${50.2062919}&y=${15.8337133}` // BiGy
-                              
-                          }
-                          target="_self"
-                          className="underline"
-                        >
-                          {w.place}
-                        </Link>
+                      <Link
+                        href={
+                          w.place.includes("Orlovna")
+                            ? `/mapa?x=${50.2069553}&y=${15.8349681}` // Orlovna
+                            : w.place.includes("Nové Adalbertinum")
+                            ? `/mapa?x=${50.2090269}&y=${15.8334453}` // Nove Adalbertinum
+                            : w.place.includes("Biskupská rezidence")
+                            ? `/mapa?x=${50.208725}&y=${15.8323194}` // Biskupská rezidence
+                            : `/mapa?x=${50.2062919}&y=${15.8337133}` // BiGy
+                        }
+                        target="_self"
+                        className="underline"
+                      >
+                        {w.place}
+                      </Link>
+                    ) : (
+                      <span className="font-extralight italic flex flex-row items-center justify-start">
+                        Místo bude upřesněno.
                       </span>
-                    ) : null}
+                    )}
+                    </span>
                     {w.about !== undefined ? (
                       <p
                         className="text-lg w-full mt-2 italic"
@@ -211,174 +214,72 @@ export default async function PrednaskyWorhsopy() {
 const workshops = [
   {
     title:
-      "Od nápadu k&nbsp;hitu - Jak skládat, nahrávat a&nbsp;zveřejnit vlastní píseň",
+      "Víra pod tlakem: Jak si&nbsp;obhájit svou&nbsp;víru před&nbsp;sebou i&nbsp;před druhými",
     type: "person",
     id: "prednaska-start",
-    place: "BiGy (místnost: 208)",
-    about: `Studuju konzervatoř Jaroslava Ježka v&nbsp;Praze. Právě obor Skladba.😌 Jinak mam vystudované dva cykly ZUŠ na klavír a&nbsp;jeden na violoncello. Hudba je prostě můj život 😊`,
+    about: "P. Josef Kvapilík je kněz z generace Z, který doprovází mladé na Centru života mládeže v Rajnochovicích. Má rád hudbu, lyžování a dobré otázky. Offline i online jako Pater Pepa otevírá témata víry, vztahů a smyslu života tak, aby dávala smysl lidem dnešní generace.",
     descritpion:
-      "Máš v&nbsp;hlavě melodii nebo text a&nbsp;nevíš, jak z&nbsp;toho udělat hotovou píseň? Přijď na&nbsp;praktickou přednášku, kde se dozvíš, jak skládat hudbu, pracovat s&nbsp;nahrávacími programy, zvukově upravovat své skladby a&nbsp;nakonec je zveřejnit",
+      "Co dělat, když ve škole nebo na síti dostaneš otázku na svou víru a nevíš, co říct? A co když máš otázky sám? Na základě své zkušenosti z života, ale taky z YouTube nebo Instagramu, bych se s Tebou chtěl podělit o svou cestu hledání i praktické tipy, jak o víře přemýšlet a mluvit. Přijď načerpat odvahu, argumenty a naději.",
     speaker: {
-      name: "Lucka Pekárková",
-      jpgPath: "/assets/images/speakers/luckapekarkova.jpg",
+      name: "P. Josef Kvapilík",
+      jpgPath: "/assets/images/speakers/pater_pepa.jpg",
     },
     social: {
-      ig: "https://www.instagram.com/lucie.pekarkova",
+      ig: "https://www.instagram.com/paterpepa/",
     },
   },
   {
-    title: "Křesťané v&nbsp;dějinách z perspektivy křesťana nekatolíka",
+    title: "Dobrovolnictví, které dává&nbsp;víc, než&nbsp;bere",
     type: "person",
-    place: "BiGy (místnost: 303)",
-    about: `Vyučuji historii na Univerzitě Hradec Králové, zaměřuji se na dějiny středověku, jsem členem Církve bratrské v&nbsp;Kutné Hoře.`,
+    about: `Minulý rok jsem působila jako dobrovolnice na salesiánské škole v Albánii a díky této zkušenosti jsem se po návratu do České republiky rozhodla pracovat jako asistentka pedagoga v mateřské škole.`,
     descritpion:
-      "Velmi si vážím možnosti se v&nbsp;tomto formátu setkat s&nbsp;katolickou mládeží a&nbsp;budu velmi rád za živou diskusi. V&nbsp;přednášce se pokusím otevřít některé otázky, které mi přineslo letité studium dějin a&nbsp;přemýšlení nad Církví a&nbsp;církvemi a&nbsp;výzvami současné církve a&nbsp;světa.",
+      "Chceš zažít něco, co tě vytáhne z komfortní zóny a změní ti pohled na svět? Láká tě vyrazit do světa jako dobrovolník, nebo tě jen zajímá, jak vypadá život v Albánii a jaké výzvy a překvapení mi tento rok služby přinesl? Přijď si poslechnout příběh o mém dobrovolnictví – a třeba inspiruje i tebe.",
     speaker: {
-      name: "doc. PhDr. Zdeněk Beran, Ph.D.",
-      jpgPath: "/assets/images/speakers/beran.jpg",
-    },
-    social: {
-      web: "https://www.uhk.cz/cs/osoba/212/zdenek-beran",
+      name: "Majki Kašparová",
+      jpgPath: "/assets/images/speakers/majki_koko.jpg",
     },
   },
   {
-    title: "Povolání život (církev a&nbsp;homosexualita)",
+    title: "Jak jsme se ocitli v semináři…",
     type: "person",
-    place: "BiGy (místnost: 205)",
-    about: `P.&nbsp;Zdeněk Jančařík, salesián, kněz brněnské diecéze, v&nbsp;níž působí také jako kaplan pro LGBT+ komunitu.`,
-    descritpion: `Zmiňuje se Bible o&nbsp;homosexualitě? Byl člověk stvořen jako muž a&nbsp;žena kvůli manželství? Od kdy se v&nbsp;Evropě začíná skutečně mluvit o&nbsp;"homosexualitě"? Jak se k&nbsp;ní staví římskokatolická církev a&nbsp;proč "s&nbsp;ní má problém"? Na tyto a&nbsp;jiné otázky se pokusíme odpovědět.`,
+    about: `Kluci z různých koutů – od Krkonoš, z Polabí a od Svatého Hostýna –, leč toho času bytem v Thákurově 3 na Praze 6. Disponujeme věkovým průměrem zhruba 34 let a velmi různými zkušenostmi, ale jedno máme společné: jsme bohoslovci za královéhradeckou diecézi.`,
+    descritpion: `Asi každý z nás zná nějakého kněze, ale zeptali jsme se jich někdy, jak se kněžími stali? Jak se to vůbec stane, že jde někdo do kněžského semináře? Jestli vás to zajímá, můžete si o tom popovídat se třemi bohoslovci za naši diecézi, rádi vám povíme, co k tomu vedlo nás.`,
     speaker: {
-      name: "P. Zdeněk Jančařík (SDB)",
-      jpgPath: "/assets/images/speakers/jancarik.jpg",
-    },
-    social: {
-      web: "https://www.biskupstvi.cz/cs/pastorace-lgbt",
+      name: "Ondra Mařík, Tomáš Chlápek, Petr Hák",
+      jpgPath: "/assets/images/speakers/bohoslovci.jpg",
     },
   },
   {
-    title:
-      "Jak přemýšlíme, když vás vychováváme (aneb myšlenkové pochody rodičů)",
-    type: "person",
-    place: "BiGy (místnost: 213)",
-    about: `Zdravotní sestra a&nbsp;rodinný terapeut, společně vychováváme dva syny (23, 19 let) a&nbsp;dvě dcery (20, 14 let).`,
-    descritpion:
-      "Jak rodiče přemýšlí, o&nbsp;čem sní, čeho se bojí? Proč rodiče dělají věci, které vás tolik štvou? A&nbsp;šlo by to jinak?",
-    speaker: {
-      name: "Markéta a Milan Jiroutovi",
-      jpgPath: "/assets/images/speakers/jiroutovi.jpg",
-    },
-  },
-  {
-    title: "Začni s PROČ?",
-    type: "person",
-    place: "BiGy (místnost: 115)",
-    about: `Ahoj, jmenuji se Klára a&nbsp;letos mám výročí 10ti let práce nejen s&nbsp;mladými lidmi, napříč skupinami či týmy na různých úrovních. Pokud Tě zajímá sdílení zkušeností, tak Tě moc ráda přivítám na společném setkání.`,
-    descritpion: `Chceš založit skupinu, vést tým nebo prostě jen zorganizovat projekt, který bude dávat smysl? Přednáška "Začni s&nbsp;PROČ?" tě provede klíčovými kroky, které ti pomohou s&nbsp;nastavením vize i&nbsp;cílů. Dozvíš se, proč je důležité vědět, proč to všechno vlastně děláš, jak určit hlavní náplň, jak komunikovat s&nbsp;druhými a&nbsp;rozdělovat role a&nbsp;nastavovat pravidla. Zjistíš, co se od tebe jako od leadera očekává a&nbsp;jak vytvořit tým, který bude nejen efektivní, ale taky tě bude bavit! Přijď zjistit, jak můžeš udělat první krok k&nbsp;úspěšnému vedení!`,
-    speaker: {
-      name: "Klára Řiháková",
-      jpgPath: "/assets/images/speakers/rihakova.jpg",
-    },
-  },
-  {
-    title: "Krása českého znakového jazyka",
-    type: "person",
-    place: "BiGy (místnost: 206)",
-    about: `Vojtěch je učitel na SŠ a&nbsp;VOŠ v Hradci Králové a&nbsp;lektor českého znakového jazyka.`,
-    descritpion: `Zajímá tě znakový jazyk? Chceš nahlédnout do komunikace a&nbsp;světa Neslyšících? Zveme tě na workshop s&nbsp;rodilým mluvčím, kde budeme společně objevovat krásu českého znakového jazyka. Určitě se dnes naučíš něco nového. Tlumočení bude zajištěno.`,
-    speaker: {
-      name: "Vojtěch Pražák",
-      jpgPath: "/assets/images/speakers/prazak.jpg",
-    },
-  },
-  {
-    title: "Mary's Meals aneb jak chutná vzdělání",
-    type: "person",
-    place: "BiGy (místnost: 216)",
-    about: `V&nbsp;Mary's Meals zodpovídám za spolupráci se školami a&nbsp;duchovní oblast.`,
-    descritpion: `Žijeme v&nbsp;bohatém světě, který má dostatečný potenciál uživit všechny hladové. Přesto jsou miliony dětí, které každý den řeší otázku: "Bude pro mne zítra?" Co se s&nbsp;tím dá udělat? Přijď na setkání s&nbsp;Mary's Meals a&nbsp;přidej se k&nbsp;changemakerům 🙂.`,
-    speaker: {
-      name: "Kristína Třešková",
-      jpgPath: "/assets/images/speakers/treskova.jpg",
-    },
-    social: {
-      web: "https://www.marysmeals.cz",
-      fb: "https://www.facebook.com/marysmeals",
-      ig: "https://www.instagram.com/marysmealscz",
-    },
-  },
-  {
-    title: "Jubileum je pro každého: nejen pro ty, kdo budou putovat do Říma",
-    type: "person",
-    place: "BiGy (místnost: 207)",
-    about: `Roman Kubín, římskokatolický kněz. Věnuji se mnoho let doprovázení mladých při hledání jejich životní cesty. Snažím se pomáhat lidem vnímat a&nbsp;rozeznávat, co v&nbsp;jejich životě dělá Bůh. Raduji se z&nbsp;toho, když vidím, jak se prohlubuje nebo obnovuje vztah k&nbsp;Bohu, k&nbsp;životu. Sloužím jako ředitel Sekce pro mládež České biskupské konference.`,
-    descritpion: `Papež František píše: „Kéž je Jubilejní rok pro každého okamžikem živého a&nbsp;osobního setkání s&nbsp;Pánem Ježíšem.“ Všichni jsme zváni, abychom se stávali poutníky naděje. Jak můžeme obnovit náš vztah s&nbsp;Bohem a&nbsp;s&nbsp;druhými lidmi? Jak se připravit na pouť? Bude i&nbsp;prostor na praktické informace k&nbsp;cestě do Říma na Jubileum mládeže.`,
-    speaker: {
-      name: "P. Roman Kubín",
-      jpgPath: "/assets/images/speakers/kubin.jpg",
-    },
-    social: {
-      web: "https://svetovednymladeze.cz",
-      ig: "https://www.instagram.com/sekcepromladez",
-      fb: "https://www.facebook.com/sekcepromladez",
-    },
-  },
-  {
-    title: "Ozdob si svoji velikonoční svíčku - Paškál",
+    title: "Jak na hudbu při mši aneb od výběru písní po dirigování",
     type: "workshop",
-    place: "BiGy (místnost: 104)",
     id: "workshop-start",
-    about: `Pracuji v&nbsp;mateřské škole jako asistentka pedagoga v&nbsp;Želivě. Kreativním činnostem se věnuji ve volném čase a&nbsp;mezi ně patří zdobení svíček k&nbsp;různým příležitostem.`,
-    descritpion: `Chceš mít svoji originální svíčku na bílou sobotu? Svíčku můžeš využít k&nbsp;osobní modlitbě, v&nbsp;rodině nebo ve společenství. Udělej si radost a&nbsp;přijď využít svoji kreativitu.`,
+    about: `Jmenuji se František Novák, učím hudební výchovu a varhany, vedu sbor Squadra Risonante při BIGY v Hradci Králové a vyučuji varhany na UHK. Liturgické hudbě se věnuji také jako vedoucí nově vznikajícího Centra pro liturgickou hudbu při Biskupství královéhradeckém.`,
+    descritpion: `Workshop je určen zejména pro vedoucí schol a aktivní hudebníky ve farnostech, kteří se chtějí potkat, sdílet zkušenosti a načerpat inspiraci. Společně se zaměříme na výběr vhodných písní ke konkrétním příležitostem, vyzkoušíme si základy dirigování, dotkneme se aranžování pro nástroje a zazní i praktické tipy z praxe. Chybět nebude prostor pro dotazy a diskuzi.`,
     speaker: {
-      name: "Zdenička Daňková",
-      jpgPath: "/assets/images/speakers/dankova.jpg",
+      name: "František Novák",
+      jpgPath: "/assets/images/speakers/novak.jpg",
     },
   },
   {
-    title: "Deskovky",
-    type: "deskGame",
-    place: "BiGy (aula)",
-    about: `Jsme křesťanský akademický klub Salaš – společenství mladých vysokoškolských studentů, které je otevřené pro všechny studenty. Každou středu v&nbsp;akademickém roce slavíme mši svatou, po které následuje různorodý program.`,
-    descritpion:
-      "Přijďte si k&nbsp;nám v&nbsp;tomto nabitém dni odpočinout a&nbsp;zahrát si nějakou z&nbsp;mnoha deskových her, které nabízíme. Nemusíte se bát, všechny hry vysvětlíme a&nbsp;naučíme. Je to ideální příležitost seznámit se s&nbsp;novými lidmi, nebo strávit čas se svojí partou. Zároveň se můžete dozvědět něco více o&nbsp;nás.",
+    title: "Pubquiz",
+    type: "workshop",
+    about: `Salaš je živý studentský spolek v Hradci Králové, který propojuje víru, přátelství a akademický život. Nabízí prostor pro setkávání, debaty i zábavu – otevřeně a bez póz.`,
+    descritpion: `Troufneš si na výzvu? Přijď ukázat, co máš v hlavě, a staň se hvězdou našeho kvízu!`,
     speaker: {
-      name: "Salaš",
-      jpgPath: "/assets/images/speakers/salas.jpg",
-    },
-    social: {
-      fb: "https://www.facebook.com/salas.hradec",
-      ig: "https://www.instagram.com/salas_kak",
-      web: "/kak-salas",
+      name: "KAK Salaš",
+      jpgPath: "/assets/images/speakers/pub_quiz.png",
     },
   },
-  {
-    title: "Pojďte dál … do biskupské rezidence a biskupské knihovny",
-    type: "excursion",
-    place: "Biskupská rezidence",
-    descritpion: `Zvu vás do více než 300 let starých <strong>prostor biskupského úřadu</strong>, kam se „běžný člověk“ jen tak nepodívá. S&nbsp;rezidencí v&nbsp;Hradci Králové jsou však spojena i&nbsp;další místa v&nbsp;naší diecézi…
-    <br/>
-    <strong>Biskupská knihovna</strong> je nejstarší trvale fungující knihovnou v&nbsp;Hradci Králové, se kterou jsou spjaty některé významné historické osobnosti, jejichž stopy si ukážeme. Také Vám představíme několik středověkých rukopisů nebo prvotisků.
-    <br/>
-    <em><strong>Na komentovanou prohlídku se bude odcházet společně od filharmonie.</strong></em>
-    `,
-    about: `Jsem <strong>sestra Zuzana</strong> a&nbsp;patřím do kongregace Milosrdných sester sv.&nbsp;Kříže, působím přímo na biskupství, kde spolu s&nbsp;dalšími sestrami vytváříme zázemí kněžím, k&nbsp;tomu patří domácí práce, administrativní služby, zajištění různých akcí… ale hlavně život v&nbsp;srdci diecéze.
-      <br/>
-      Jmenuji se <strong>Zdeněk Zahradník</strong>, téměř 30 let jsem působil v&nbsp;Muzeu východních Čech v&nbsp;HK, v&nbsp;posledních cca 20 letech jsem též vyučoval na FF UHK a&nbsp;v&nbsp;současnosti jsem vedoucím Biskupské knihovny.`,
-    speaker: {
-      name: `sr. Zuzana Mgr. Petra Macečková (bisk.) <br/> Zdeněk Zahradník (bis. knihovna)`,
-      jpgPath: "/assets/images/speakers/zuzana.jpg",
-    },
-  },
-  {
-    title: "Sportovní workshop",
-    type: "sport",
-    id: "sport-start",
-    place: "Orlovna",
-    about: `Jmenuji se Ferry Kolba a&nbsp;jsem týmákem na DCŽM Vesmír. Mám v&nbsp;oblibě pohyb a&nbsp;věřím, že ty taky!`,
-    descritpion: `Nechceš trávit odpoledne sezením a&nbsp;máš chuť se hýbat? Máš možnost přijít na workshop různých sportů. Pokud nejsi profi sportovec, tak nevadí! Přijít může každý, kdo má zájem, jen pamatuj na oblečení, ve kterém se ti bude dobře pohybovat a přezuvky do tělocvičny.`,
-    speaker: {
-      name: "František Kolba",
-      jpgPath: "/assets/images/speakers/kolba.jpg",
-    },
-  },
+  // {
+  //   title: "Sportovní workshop",
+  //   type: "sport",
+  //   id: "sport-start",
+  //   place: "Orlovna",
+  //   about: `Jmenuji se Ferry Kolba a&nbsp;jsem týmákem na DCŽM Vesmír. Mám v&nbsp;oblibě pohyb a&nbsp;věřím, že ty taky!`,
+  //   descritpion: `Nechceš trávit odpoledne sezením a&nbsp;máš chuť se hýbat? Máš možnost přijít na workshop různých sportů. Pokud nejsi profi sportovec, tak nevadí! Přijít může každý, kdo má zájem, jen pamatuj na oblečení, ve kterém se ti bude dobře pohybovat a přezuvky do tělocvičny.`,
+  //   speaker: {
+  //     name: "František Kolba",
+  //     jpgPath: "/assets/images/speakers/kolba.jpg",
+  //   },
+  // },
 ];

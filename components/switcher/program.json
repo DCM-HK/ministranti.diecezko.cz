@@ -4,7 +4,7 @@
       "id": 1,
       "time": "9:00",
       "duration": 30,
-      "description": "Při příjezdu na setkání prosíme navštivte registraci, kterou najdete ve vstupu do Filharmonie. Dostanete zde náramek v&nbsp;barvě svého vikariátu. Už tušíte, jaká to bude?",
+      "description": "Při příjezdu na setkání prosíme navštivte registraci, kterou najdete ve vstupu do Filharmonie. Dostanete zde náramek v&nbsp;barvě svého <a href=\"/vikariaty\" target=\"_self\" class=\"underline\">vikariátu</a>. Už tušíte, jaká to bude?",
       "icons": [
          "registration"
       ],
@@ -63,6 +63,7 @@
       "id": 4,
       "duration": 90,
       "description": "Odpoledne si můžete vybrat z&nbsp;široké nabídky přednášek, několika workshopů nebo si jít zasportovat.",
+      "link": "/prednasky-workshopy",
       "icons": [
          "person",
          "workshop",
@@ -74,7 +75,7 @@
       "time": "13:30",
       "id": 5,
       "duration": 60,
-      "description": "Zastav se v&nbsp;kostele Panny Marie na Velkém náměstí, zajdi ke zpovědi či k&nbsp;duchovnímu rozhovoru nebo jen buď nějaký čas s&nbsp;Ježíšem. Jako podkres bude hrát živá hudba.",
+      "description": "Zastav se v&nbsp;kostele Panny Marie na Velkém náměstí, zajdi ke zpovědi či k&nbsp;duchovnímu rozhovoru nebo jen buď nějaký čas s&nbsp;Ježíšem. Prostor kostela naplní hudebním doprovodem Markét Dušková.",
       "icons": [
          "pray",
          "music"
@@ -84,6 +85,23 @@
          "coords": {
             "x": 50.2090772,
             "y": 15.8341294
+         }
+      }
+   },
+   {
+      "name": "Program po vikariátech",
+      "time": "14:10",
+      "id": 6,
+      "duration": 45,
+      "description": "Po společném srazu se rozjede program po vikariátech v režii <a href=\"/vikariaty\" target=\"_self\" class=\"underline\">vikariátních zástupců</a>.",
+      "icons": [
+         "users"
+      ],
+      "place": {
+         "name": "Nádvoří Biskupského gymnázia",
+         "coords": {
+            "x": 50.2062919,
+            "y": 15.8337133
          }
       }
    },
