@@ -236,7 +236,7 @@ const workshops = [
       "Chceš zažít něco, co tě vytáhne z komfortní zóny a změní ti pohled na svět? Láká tě vyrazit do světa jako dobrovolník, nebo tě jen zajímá, jak vypadá život v Albánii a jaké výzvy a překvapení mi tento rok služby přinesl? Přijď si poslechnout příběh o mém dobrovolnictví – a třeba inspiruje i tebe.",
     speaker: {
       name: "Majki Kašparová",
-      jpgPath: "/assets/images/speakers/majki_kolo.jpg",
+      jpgPath: "/assets/images/speakers/majki_koko.jpg",
     },
   },
   {
@@ -266,8 +266,8 @@ const workshops = [
     about: `Salaš je živý studentský spolek v Hradci Králové, který propojuje víru, přátelství a akademický život. Nabízí prostor pro setkávání, debaty i zábavu – otevřeně a bez póz.`,
     descritpion: `Troufneš si na výzvu? Přijď ukázat, co máš v hlavě, a staň se hvězdou našeho kvízu!`,
     speaker: {
-      name: "František Novák",
-      jpgPath: "/assets/images/speakers/novak.jpg",
+      name: "KAK Salaš",
+      jpgPath: "/assets/images/speakers/pub_quiz.png",
     },
   },
   // {
