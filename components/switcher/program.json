@@ -63,6 +63,7 @@
       "id": 4,
       "duration": 90,
       "description": "Odpoledne si můžete vybrat z&nbsp;široké nabídky přednášek, několika workshopů nebo si jít zasportovat.",
+      "link": "/prednasky-workshopy",
       "icons": [
          "person",
          "workshop",
@@ -74,7 +75,7 @@
       "time": "13:30",
       "id": 5,
       "duration": 60,
-      "description": "Zastav se v&nbsp;kostele Panny Marie na Velkém náměstí, zajdi ke zpovědi či k&nbsp;duchovnímu rozhovoru nebo jen buď nějaký čas s&nbsp;Ježíšem. Jako podkres bude hrát živá hudba.",
+      "description": "Zastav se v&nbsp;kostele Panny Marie na Velkém náměstí, zajdi ke zpovědi či k&nbsp;duchovnímu rozhovoru nebo jen buď nějaký čas s&nbsp;Ježíšem. Prostor kostela naplní hudebním doprovodem Markét Dušková.",
       "icons": [
          "pray",
          "music"
