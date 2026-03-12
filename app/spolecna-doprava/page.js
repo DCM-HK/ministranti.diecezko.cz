@@ -80,7 +80,7 @@ export default function GroupTransport() {
             </FaqBox>
             <FaqBox question={`Kutná Hora`} icon={``}>
               <ContainerParagraph>
-                Přihlašte se na&nbsp;
+                Přihlaš se na&nbsp;
                 <Link href="https://prihlaska.diecezko.cz/" target="_blank" rel="external noopener nofollow" className="underline">             
                   prihlaska.diecezko.cz
                 </Link>.
