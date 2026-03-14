@@ -1,8 +1,4 @@
-import ContainerImageBase from "./container-image-base";
-import { resolvePublicAssetPath } from "./resolve-public-asset-path";
-
-const PLACEHOLDER_WEBP_PATH = "/assets/images/profile-placeholder.webp";
-const PLACEHOLDER_JPG_PATH = "/assets/images/profile-placeholder.jpg";
+import AvatarImage from "./avatar-image";
 
 export default function ProfileCard({
   className,
@@ -14,23 +10,14 @@ export default function ProfileCard({
   altText,
   description,
 }) {
-  const resolvedJpgPath = resolvePublicAssetPath(jpgPath, PLACEHOLDER_JPG_PATH);
-  const resolvedWebpPath = resolvePublicAssetPath(
-    webpPath,
-    resolvedJpgPath === PLACEHOLDER_JPG_PATH ? PLACEHOLDER_WEBP_PATH : undefined,
-  );
-  const resolvedPngPath = pngPath
-    ? resolvePublicAssetPath(pngPath, resolvedJpgPath)
-    : undefined;
-
   return (
     <div
       className={`${className} w-full my-4 md:my-0 flex flex-col items-center justify-around border-[#444] border rounded-xl p-4 sm:p-6 transition h-full hover:scale-[1.02] hover:rotate-1`}
     >
-      <ContainerImageBase
-        pngPath={resolvedPngPath}
-        jpgPath={resolvedJpgPath}
-        webpPath={resolvedWebpPath}
+      <AvatarImage
+        jpgPath={jpgPath}
+        pngPath={pngPath}
+        webpPath={webpPath}
         altText={altText}
         className={`!rounded-full h-32 w-32 md:h-36 md:w-36 border-2 border-[#444] bg-[#444]`}
       />

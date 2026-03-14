@@ -179,25 +179,14 @@ export default function Header() {
                 </li>
               </Link>
               <Link
-                href="/vikariaty"
+                href="/sekce-pro-mladez"
                 onClick={unlockScrolling}
                 target="_self"
                 className="w-full mt-4 text-xl"
               >
                 <li className="flex flex-row items-center">
-                  <IconPuzzle className="inline h-7 w-7 my-1 mr-2" />
-                  Vikiátní zástupci a kaplani
-                </li>
-              </Link>
-              <Link
-                href="/dcm-hradec-kralove"
-                onClick={unlockScrolling}
-                target="_self"
-                className="w-full mt-4 text-xl"
-              >
-                <li className="flex flex-row items-center">
-                  <IconCustomDCM className="inline h-7 w-7 my-1 mr-2" />
-                  DCM Hradec Králové
+                  <IconCustomSkce className="h-7 w-7 inline my-1 mr-2" />
+                  Sekce pro mládež ČBK
                 </li>
               </Link>
               <Link
@@ -207,6 +196,7 @@ export default function Header() {
                 className="w-full mt-4 text-xl"
               >
                 <li className="flex flex-row items-center">
+                  &nbsp;&nbsp;&nbsp;&nbsp;
                   <IconCustomVesmir className="inline h-7 w-7 my-1 mr-2" />
                   DCŽM Vesmír
                 </li>
@@ -218,19 +208,33 @@ export default function Header() {
                 className="w-full mt-4 text-xl"
               >
                 <li className="flex flex-row items-center">
+                  &nbsp;&nbsp;&nbsp;&nbsp;
                   <IconCustomSalas className="h-7 w-7 inline my-1 mr-2" />
                   KAK Salaš
                 </li>
               </Link>
               <Link
-                href="/sekce-pro-mladez"
+                href="/dcm-hradec-kralove"
                 onClick={unlockScrolling}
                 target="_self"
                 className="w-full mt-4 text-xl"
               >
                 <li className="flex flex-row items-center">
-                  <IconCustomSkce className="h-7 w-7 inline my-1 mr-2" />
-                  Sekce pro mládež ČBK
+                  &nbsp;&nbsp;&nbsp;&nbsp;
+                  <IconCustomDCM className="inline h-7 w-7 my-1 mr-2" />
+                  DCM Hradec Králové
+                </li>
+              </Link>
+              <Link
+                href="/vikariaty"
+                onClick={unlockScrolling}
+                target="_self"
+                className="w-full mt-4 text-xl"
+              >
+                <li className="flex flex-row items-center">
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  <IconPuzzle className="inline h-7 w-7 my-1 mr-2" />
+                  Vikiátní zástupci a kaplani
                 </li>
               </Link>
             </ul>

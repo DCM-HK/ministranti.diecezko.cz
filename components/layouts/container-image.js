@@ -8,14 +8,14 @@ export default function ContainerImage({
   webpPath,
   altText,
 }) {
-  const resolvedJpgPath = resolvePublicAssetPath(jpgPath);
   const resolvedWebpPath = resolvePublicAssetPath(webpPath);
-  const resolvedPngPath = pngPath
-    ? resolvePublicAssetPath(
-        pngPath,
-        resolvedJpgPath !== undefined ? resolvedJpgPath : resolvedWebpPath,
-      )
-    : undefined;
+  const resolvedJpgPath = resolvedWebpPath
+    ? undefined
+    : resolvePublicAssetPath(jpgPath);
+  const resolvedPngPath =
+    resolvedWebpPath || !pngPath
+      ? undefined
+      : resolvePublicAssetPath(pngPath, resolvedJpgPath);
 
   return (
     <ContainerImageBase

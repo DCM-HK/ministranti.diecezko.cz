@@ -6,7 +6,7 @@ import ContainerDescription from "../../components/layouts/container-description
 import PageMain from "../../components/layouts/page-main";
 import ProgramDetail from "../../components/layouts/program-detail";
 import program from "../../components/switcher/program.json";
-import ContainerImage from "../../components/layouts/container-image";
+import AvatarImage from "../../components/layouts/avatar-image";
 import Link from "next/link";
 import {
   IconBrandFacebook,
@@ -58,19 +58,21 @@ export default async function PrednaskyWorhsopy() {
                   className="flex flex-col items-center md:flex-row border-[#444] border rounded-xl p-6 sm:p-6 transition h-full hover:scale-[1.02] hover:rotate-1 mt-8"
                 >
                   <div className="flex items-center justify-center md:flex-col">
-                    {w.speaker.jpgPath !== undefined ? (
-                      <ContainerImage
-                        altText={`Fotka hosta ${w.speaker.name} k přednášce ${w.title}.`}
-                        jpgPath={w.speaker.jpgPath}
-                        webpPath={w.speaker.jpgPath.replace(".jpg", ".webp")}
-                        className="!rounded-full h-32 w-32 md:h-36 md:w-36 border-2 border-[#444] bg-[#444] mb-4 md:mb-0 md:mr-8 mx-1 md:my-1"
-                      />
-                    ) : null}
-                    {w.speaker.jpgPath2 !== undefined ? (
-                      <ContainerImage
-                        altText={`Fotka hosta ${w.speaker.name} k přednášce ${w.title}.`}
+                    <AvatarImage
+                      altText={`Avatar hosta ${w.speaker.name} k přednášce ${w.title}.`}
+                      jpgPath={w.speaker.jpgPath}
+                      pngPath={w.speaker.pngPath}
+                      webpPath={w.speaker.webpPath}
+                      className="!rounded-full h-32 w-32 md:h-36 md:w-36 border-2 border-[#444] bg-[#444] mb-4 md:mb-0 md:mr-8 mx-1 md:my-1"
+                    />
+                    {w.speaker.jpgPath2 !== undefined ||
+                    w.speaker.pngPath2 !== undefined ||
+                    w.speaker.webpPath2 !== undefined ? (
+                      <AvatarImage
+                        altText={`Avatar hosta ${w.speaker.name} k přednášce ${w.title}.`}
                         jpgPath={w.speaker.jpgPath2}
-                        webpPath={w.speaker.jpgPath2.replace(".jpg", ".webp")}
+                        pngPath={w.speaker.pngPath2}
+                        webpPath={w.speaker.webpPath2}
                         className="!rounded-full h-32 w-32 md:h-36 md:w-36 border-2 border-[#444] bg-[#444] mb-4 md:mb-0 md:mr-8 mx-1 md:my-1"
                       />
                     ) : null}
@@ -267,19 +269,38 @@ const workshops = [
     descritpion: `Troufneš si na výzvu? Přijď ukázat, co máš v hlavě, a staň se hvězdou našeho kvízu!`,
     speaker: {
       name: "KAK Salaš",
-      jpgPath: "/assets/images/speakers/pub_quiz.png",
+      pngPath: "/assets/images/speakers/pub_quiz.png",
     },
   },
-  // {
-  //   title: "Sportovní workshop",
-  //   type: "sport",
-  //   id: "sport-start",
-  //   place: "Orlovna",
-  //   about: `Jmenuji se Ferry Kolba a&nbsp;jsem týmákem na DCŽM Vesmír. Mám v&nbsp;oblibě pohyb a&nbsp;věřím, že ty taky!`,
-  //   descritpion: `Nechceš trávit odpoledne sezením a&nbsp;máš chuť se hýbat? Máš možnost přijít na workshop různých sportů. Pokud nejsi profi sportovec, tak nevadí! Přijít může každý, kdo má zájem, jen pamatuj na oblečení, ve kterém se ti bude dobře pohybovat a přezuvky do tělocvičny.`,
-  //   speaker: {
-  //     name: "František Kolba",
-  //     jpgPath: "/assets/images/speakers/kolba.jpg",
-  //   },
-  // },
+  {
+    title: "Otčenáš jinak než slovy",
+    type: "workshop",
+    about: `Jsem lektorka osobnostně vzdělávácích programů a učitelka dramatického oboru na ZUŠ Střezina v Hradci Králové. Zároveň pracuji na Katechetickém a pedagogickém centru Biskupství královehradeckého.`,
+    descritpion: `V tomto workshopu si zažijeme Modlitbu Páně skrze divadelní metody a prvky dramatické výchovy, které otevírají prostor pro osobní prožitek, emoce a představivost. Metody mohou inspirovat k vlastní hlubší modlitbě i nabídnout konkrétní nástroje pro vedení skupin.`,
+    speaker: {
+      name: "Markéta Rumpíková",
+      pngPath: "/assets/images/speakers/rumpikova.jpg",
+    },
+  },
+  {
+    title: "Knižní ilustrace a jak na ní?",
+    type: "workshop",
+    about: `Mgr. Patricie Koubská (nar. 1973) se věnuje dětské ilustraci od r. 1997, kdy vyšla první knížka s jejími obrázky. Od té doby ilustrovala více než 60 knížek, několik jich také sama napsala. Mnoho let se také podílela na časopise Informatorium, pro který vytvořila řadu pracovních listů.`,
+    descritpion: `Co je to knižní ilustrace? Jaká jsou její specifika? Čím se odlišuje od jiných výtvarných disciplín? S prací ilustrátora se můžete seznámit na besedě s Patricií Koubskou, která se této činnosti věnuje již témeř 30 let. (Možná si to budete moci i vyzkoušet, zbyde-li trochu času)`,
+    speaker: {
+      name: "Patricie Koubská",
+      pngPath: "/assets/images/speakers/koubska.jpg",
+    },
+  },
+  {
+    title: "Sportovní workshop",
+    type: "sport",
+    id: "sport-start",
+    about: ``,
+    descritpion: `Sporty pro Vás připravujeme i letos. Více info již brzy tady.`, //Nechceš trávit odpoledne sezením a&nbsp;máš chuť se hýbat? Máš možnost přijít na workshop různých sportů. Pokud nejsi profi sportovec, tak nevadí! Přijít může každý, kdo má zájem, jen pamatuj na oblečení, ve kterém se ti bude dobře pohybovat a přezuvky do tělocvičny.`,
+    speaker: {
+      name: "Organizátor bude upřesněn;",
+      // jpgPath: "/assets/images/speakers/TODO.jpg",
+    },
+  },
 ];

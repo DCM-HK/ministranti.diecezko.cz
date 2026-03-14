@@ -47,6 +47,12 @@ export default function GroupTransport() {
                   @spolco_hk
                 </Link>.
               </ContainerParagraph>
+              <ContainerImageBase
+                jpgPath="/assets/images/preddiecezka/preddiecezko-hk.jpg"
+                webpPath="/assets/images/preddiecezka/preddiecezko-hk.webp"
+                altText="Plakátek s informacemi o PředDiecézku vikariátu Hradec Králové."
+                className="w-full my-4"
+              />
             </FaqBox>
             <FaqBox question={`Humpolec`} icon={``}>
               <ContainerImageBase

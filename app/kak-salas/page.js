@@ -27,24 +27,28 @@ export default async function DCZM() {
             <strong className="font-bold">
               Křesťanský akademický klub Salaš
             </strong>{" "}
-            je společenství nejen věřících vysokoškolských studentů
-            z&nbsp;Hradce Králové. Salaš je členem VKH, tedy Vysokoškolského
-            katolického hnutí, a&nbsp;úzce spolupracujeme s&nbsp;Akademickou
-            duchovní službou při Královehradecké diecézi. Rádi mezi sebou
-            uvítáme všechny, které zaujme náš program nebo si jen chtějí
-            popovídat. Pořádáme pravidelné týdenní aktivity, na které můžete
-            zajít a&nbsp;seznámit se s&nbsp;ostatními studenty.
+            je společenství nejen věřících vysokoškolských studentů z Hradce Králové. Salaš
+            je členem&nbsp;
+            <Link href="https://www.vkhcr.cz/" target="_blank" rel="external" className="underline">
+              VKH
+            </Link>
+            , tedy Vysokoškolského katolického hnutí, a úzce spolupracuje
+            s Akademickou duchovní službou při Královehradecké diecézi. Jsme parta vysokoškolských
+            studentů, kteří mezi sebou rádi uvítají všechny, které zaujme náš program nebo si jen
+            chtějí popovídat. Můžete nás potkat pravidelně každou středu od 19:00 na mši nebo
+            po ní na různorodých aktivitách, které jsou pořádané námi pro jiné studenty.
           </ContainerDescription>
           <ContainerImage
-            jpgPath="/assets/images/spolecenstvi/salas-cover.jpg"
-            webpPath="/assets/images/spolecenstvi/salas-cover.webp"
-            altText="Mladí z KAK saloš"
+            jpgPath="/assets/images/spolecenstvi/salas/kostel.jpg"
+            webpPath="/assets/images/spolecenstvi/salas/kostel.webp"
+            altText="KAK Salaš v kostele"
             className="w-full my-2"
           />
-          <ContainerH2>Pravidelné aktivity</ContainerH2>
+          <ContainerH2>Pravidelný středeční program</ContainerH2>
           <ContainerUl>
-            <ContainerLi>Po 20.15 Modlitba na Kotli</ContainerLi>
-            <ContainerLi>St 19.00 Mše svaté a&nbsp;program po nich</ContainerLi>
+            <ContainerLi>18:00 Nácvik hudby se scholou</ContainerLi>
+            <ContainerLi>19:00 Mše svatá v kostele Nanebevzetí Panny Marie na Velkém náměstí</ContainerLi>
+            <ContainerLi>20:00 Následující program</ContainerLi>
           </ContainerUl>
           <ContainerH2>Program po mši svaté</ContainerH2>
           <ContainerParagraph>
@@ -53,42 +57,34 @@ export default async function DCZM() {
             sednout na pivo.
           </ContainerParagraph>
           <ContainerImage
-            jpgPath="/assets/images/spolecenstvi/salas-sheep.jpg"
-            webpPath="/assets/images/spolecenstvi/salas-sheep.webp"
-            altText="Sheep ples"
+            jpgPath="/assets/images/spolecenstvi/salas/laser-game.jpg"
+            webpPath="/assets/images/spolecenstvi/salas/laser-game.webp"
+            altText="KAK Salaš v katakombách"
             className="w-full my-2"
           />
           <ContainerH2>Sheeep Ples</ContainerH2>
           <ContainerParagraph>
-            Největší akcí, na kterou se všichni už teď těšíme, je SheepPles. Ten
-            letošní již proběhl a&nbsp;fotky si můžete prohlédnout na našem{" "}
-            <Link
-              href={`https://www.facebook.com/salas.hradec`}
-              target="_blank"
-              rel="external"
-              title="Facebook"
-              className="underline"
-            >
-              facebooku
+            Ten letošní se koná 10. dubna od 19:00 na Budově A Univerzity Hradec Králové a lístky
+            jsou v prodeji online na:&nbsp;
+            <Link href="https://www.salas.hk/ples/" target="_blank" rel="external" className="underline">
+              www.salas.hk/ples
             </Link>
-            .
           </ContainerParagraph>
-          {/* <ContainerImage
-            jpgPath="/assets/images/spolecenstvi/salas-ples.jpg"
-            webpPath="/assets/images/spolecenstvi/salas-ples.webp"
+          <ContainerImage
+            jpgPath="/assets/images/spolecenstvi/salas/ples.jpg"
+            webpPath="/assets/images/spolecenstvi/salas/ples.webp"
             altText="Sheep ples"
             className="w-full my-2"
-          /> */}
+          />
           <ContainerH2>Deskovky</ContainerH2>
           <ContainerParagraph>
             Pokud Tě baví deskové hry, určitě přijď na deskové hry na FIMku
-            každé poslední úterý v&nbsp;měsíci. Termíny deskovek jsou: 25.3.,
-            29.4., 27.5. a&nbsp;24.6.
+            každé poslední úterý v&nbsp;měsíci. Termíny deskovek jsou: 31. 3, 28. 4 a&nbsp;26. 5. 
           </ContainerParagraph>
           <ContainerImage
-            jpgPath="/assets/images/spolecenstvi/salas-deskovky.jpg"
-            webpPath="/assets/images/spolecenstvi/salas-deskovky.webp"
-            altText="Deskovky"
+            jpgPath="/assets/images/spolecenstvi/salas/katakomby.jpg"
+            webpPath="/assets/images/spolecenstvi/salas/katakomby.webp"
+            altText="KAK Salaš v katakombách"
             className="w-full my-2"
           />
           <ContainerParagraph>
@@ -98,6 +94,12 @@ export default async function DCZM() {
             i&nbsp;všem hledajícím a&nbsp;zájemcům o&nbsp;duchovní život
             a&nbsp;činnost, které studentský klub organizuje.
           </ContainerParagraph>
+          <ContainerImage
+            jpgPath="/assets/images/spolecenstvi/salas/prskavky.jpg"
+            webpPath="/assets/images/spolecenstvi/salas/prskavky.webp"
+            altText="KAK Salaš v noci s prskavkami"
+            className="w-full my-2"
+          />
           <ContainerParagraph>Těšíme se na vás!</ContainerParagraph>
           <ContainerH2>Sledujte na nás na:</ContainerH2>
           <ContainerUl className={`!list-none !pl-0 mb-6`}>
