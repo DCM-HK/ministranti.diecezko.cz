@@ -64,11 +64,11 @@ export default async function DCZM() {
           />
           <ContainerH2>Sheeep Ples</ContainerH2>
           <ContainerParagraph>
-            Největší akcí, na kterou se všichni už teď těšíme, je&nbsp;
+            Ten letošní se koná 10. dubna od 19:00 na Budově A Univerzity Hradec Králové a lístky
+            jsou v prodeji online na:&nbsp;
             <Link href="https://www.salas.hk/ples/" target="_blank" rel="external" className="underline">
-              SheepPles
+              www.salas.hk/ples
             </Link>
-            . Čeká nás už 10. dubna.            
           </ContainerParagraph>
           <ContainerImage
             jpgPath="/assets/images/spolecenstvi/salas/ples.jpg"
