@@ -156,8 +156,8 @@ export const ecko = [
     name: "Martin Rychtár",
     description:
       "Martin se svým týmem připravuje zázemí na BiGy pro celý přípravný tým a odpolední přednášky",
-    jpgPath: "/assets/images/jadro/rychtar.jpg",
-    webpPath: "/assets/images/jadro/rychtar.webp",
+    jpgPath: "/assets/images/vikariaty/rychtar.jpg",
+    webpPath: "/assets/images/vikariaty/rychtar.webp",
     altText: "Profilová fotka Martina Rychtára",
     className: "",
   },
