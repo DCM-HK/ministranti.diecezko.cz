@@ -57,6 +57,12 @@ export default function GroupTransport() {
               >
                 tomto odkazu
               </Link>.
+              <ContainerImageBase
+                pngPath="/assets/images/spolecna-doprava/chrudim-litomysl.png"
+                webpPath="/assets/images/spolecna-doprava/chrudim-litomysl.webp"
+                altText="Plakátek s informacemi o společné dopravě."
+                className="w-full my-4"
+              />
             </FaqBox>
             <FaqBox question={`Jičín`} icon={``}>
               <ContainerParagraph>
