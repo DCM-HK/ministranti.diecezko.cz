@@ -273,6 +273,26 @@ const workshops = [
     },
   },
   {
+    title: "Otčenáš jinak než slovy",
+    type: "workshop",
+    about: `Jsem lektorka osobnostně vzdělávácích programů a učitelka dramatického oboru na ZUŠ Střezina v Hradci Králové. Zároveň pracuji na Katechetickém a pedagogickém centru Biskupství královehradeckého.`,
+    descritpion: `V tomto workshopu si zažijeme Modlitbu Páně skrze divadelní metody a prvky dramatické výchovy, které otevírají prostor pro osobní prožitek, emoce a představivost. Metody mohou inspirovat k vlastní hlubší modlitbě i nabídnout konkrétní nástroje pro vedení skupin.`,
+    speaker: {
+      name: "Markéta Rumpíková",
+      pngPath: "/assets/images/speakers/rumpikova.jpg",
+    },
+  },
+  {
+    title: "Knižní ilustrace a jak na ní?",
+    type: "workshop",
+    about: `Mgr. Patricie Koubská (nar. 1973) se věnuje dětské ilustraci od r. 1997, kdy vyšla první knížka s jejími obrázky. Od té doby ilustrovala více než 60 knížek, několik jich také sama napsala. Mnoho let se také podílela na časopise Informatorium, pro který vytvořila řadu pracovních listů.`,
+    descritpion: `Co je to knižní ilustrace? Jaká jsou její specifika? Čím se odlišuje od jiných výtvarných disciplín? S prací ilustrátora se můžete seznámit na besedě s Patricií Koubskou, která se této činnosti věnuje již témeř 30 let. (Možná si to budete moci i vyzkoušet, zbyde-li trochu času)`,
+    speaker: {
+      name: "Patricie Koubská",
+      pngPath: "/assets/images/speakers/koubska.jpg",
+    },
+  },
+  {
     title: "Sportovní workshop",
     type: "sport",
     id: "sport-start",
