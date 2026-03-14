@@ -58,6 +58,17 @@
       }
    },
    {
+      "name": "Naslouchající uši",
+      "time": "11:30",
+      "id": 4,
+      "duration": 240,
+      "description": "Během Diecézního setkání mládeže budou přítomny také tzv. naslouchající uši. Jsou to lidé, kteří jsou během dne k dispozici pro osobní rozhovor s účastníky. Naslouchající uši poznáte podle označení – nebojte se je oslovit. Jsou tu právě pro vás.",
+      "link": "/naslouchajici-usi",
+      "icons": [
+         "ear"
+      ]
+   },
+   {
       "name": "Přednášky, workshopy",
       "time": "12:30",
       "id": 4,
