@@ -27,7 +27,7 @@ export default async function Pehuma() {
             <Link href="https://cbk.cirkev.cz" target="_blank" rel="external noopener nofollow" className="underline">
               České biskupské konference
             </Link>
-            &nbp;koordinuje pastoraci mládeže v celé České republice. Vznikla v roce 1990,
+            &nbsp;koordinuje pastoraci mládeže v celé České republice. Vznikla v roce 1990,
             aby propojovala práci s mladými lidmi v jednotlivých diecézích a od začátku podporuje
             jejich zapojení do života církve. 
           </ContainerDescription>
