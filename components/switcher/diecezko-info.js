@@ -31,25 +31,20 @@ export default function DiecezkoInfo({ id, className }) {
           <span className="text-base text-center"></span>
           </div> */}
         <div className="flex flex-col items-center w-[90vw]">
-          <Countdown countDownDate={new Date("March 28, 2026 09:30:00")} />
+          <Countdown countDownDate={new Date("May 23, 2026 10:00:00")} />
+          <span className="text-3xl md:text-4xl">
+            <span className="block font-semibold">Diecézní setkání ministranů</span>
+          </span>
           <h1 className="text-6xl md:text-7xl uppercase leading-tight tracking-wide text-center text-[#f2e7c9] font-poppins mb-4">
-            <span className="block font-semibold">Diecézní</span>
             <span className="text-[#fbf3e3] text-7xl md:text-8xl px-20 font-semibold md:my-2 block">
-              setkání
+              mini STARS
             </span>
-            <Image
-              src="/assets/images/youth_label.svg"
-              alt="Youth label"
-              width={220}
-              height={100}
-              className="mx-auto -mt-8 md:-mt-10 mr-10 w-[180px] md:w-[220px] h-auto"
-            />
           </h1>
           <p className="text-2xl text-center tracking-wide mt-1 font-poppins">
-            28. 3. 2026 • 9.30
+            23. 5. 2026 • 10.00
           </p>
           <p className="uppercase text-xl md:text-2xl tracking-wide font-poppins">
-            Filharmonie Hradec Králové
+            Kostel Nanebevzetí Panny Marie v hradci králové
           </p>
         </div>
         <div className="w-[90vw] max-w-[500px] grid grid-cols-2 grid-flow-row gap-4 items-center auto-cols-max">
@@ -68,7 +63,7 @@ export default function DiecezkoInfo({ id, className }) {
             </button>
           </Link> */}
           <Link
-            href={`https://prihlaska.diecezko.cz/`}
+            href={`https://forms.office.com/e/KpxkZsYqEw`}
             target="_blank"
             className="border col-span-2 border-[#3b3b3b] hover:bg-[#3b3b3b] rounded-full p-2 px-5 text-base flex flex-row items-center justify-center"
           >
