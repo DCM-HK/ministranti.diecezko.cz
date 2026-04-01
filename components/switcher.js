@@ -60,10 +60,10 @@ export default function Switcher() {
     <div className="flex flex-col items-center">
       <div className="w-[90vw] max-w-[500px] flex items-center flex-row justify-between md:text-lg bg-black/60 rounded-full font-semibold my-4">
         <div
-          className={`cursor-pointer rounded-full md:p-3 md:pt-4 md:px-8 p-2 px-4 duration-300 ${DiecezkoButton}`}
+          className={`cursor-pointer rounded-full md:p-3 md:pt-4 md:px-8 p-2 px-4 duration-300 justify-center ${DiecezkoButton}`}
           onClick={openDiecezko}
         >
-          Diecézko
+          Setkání<br />ministrantů
         </div>
         <div
           className={`cursor-pointer rounded-full md:p-3 md:pt-4 md:px-8 p-2 px-4 duration-300 ${programButton}`}

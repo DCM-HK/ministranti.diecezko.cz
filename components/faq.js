@@ -8,133 +8,39 @@ import ContainerLi from "./layouts/container-li";
 export default function FAQ() {
   return (
     <FaqLayout>
-      <FaqBox question={`Co je diecézko?`} icon={`users`}>
-        Diecézní setkání mládeže je oslavou Světového dne mládeže na diecézní úrovni.
-        Tradici Světových dnů mládeže založil papež sv. Jan Pavel II.
-        v&nbsp;roce 1985 a&nbsp;sám jako římský biskup šel příkladem,
-        když se&nbsp;pravidelně setkával s mladými lidmi. Zároveň povzbudil biskupy
-        po&nbsp;celém světě, aby podobná setkání pořádali také ve svých diecézích.
+      <FaqBox question={`Co je setkání ministrantů?`} icon={`users`}>
+        Setkání ministantů se v naší diecézi organizuje jednou za pár let.
+        Poslední bylo v roce TODO. Je to možnost načerpat novou energii
+        do služby u oltáře, získat nové znalosti a poznat lidi,
+        kteří to mají podobně.
+      </FaqBox>
+      <FaqBox question={`Kolik setkání ministranů stojí?`} icon={`money`}>
+        Doporučený příspěvek je <strong>100,-Kč v hotovosti</strong>. Je možné ho
+        zaplatit v hotovosti na recepci při dopoledním programu.
+      </FaqBox>
+      <FaqBox question={`Co si sbalit s sebou?`} icon={`luggage`}>
+        Sváču, láhev s&nbsp;pitím, doporučený příspěvek (100,-Kč v hotovosti),
+        peníze na svoji dopravu a hlavně <strong>ministrantské oblečení</strong>
+        na závěrečnou mši svatou.
       </FaqBox>
       <FaqBox question={`Kde seženu zdravotní pomoc?`} icon={`medical`}>
-        V případě jakéhokoliv zdravotního problému se neváhej obrátit na naši{" "}
-        <strong>zdravotnickou službu</strong>, kterou poznáš podle oblečení
-        {/*a&nbsp;dostihneš ji na tel. čísle{" "}
-        <Link href={`tel:+420605578474`} target="_blank" className="underline">
-          605 578 474
-        </Link>*/}
-        . V&nbsp;závažných případech neváhej a&nbsp;volej IZS tel. číslem{" "}
+        V případě jakéhokoliv zdravotního problému se neváhej obrátit na 
+        kohokoliv z organizátorů. V&nbsp;závažných případech neváhej
+        a&nbsp;volej IZS tel. číslem{" "}
         <Link href={`tel:155`} target="_blank" className="underline">
           155
         </Link>
         .
       </FaqBox>
-      <FaqBox question={`Kolik Diecézko stojí?`} icon={`money`}>
-        Doporučený příspěvek je <strong>200,-Kč v hotovosti</strong>. Je možné ho
-        zaplatit v hotovosti na recepci ve Filharmonii při dopoledním programu.
-      </FaqBox>
-      <FaqBox question={`Desatero pravidel Diecézka`} icon={`notes`}>
-        <ContainerOl>
-          <ContainerLi className={`my-4`}>
-            <strong>Dodržuj pokyny organizátorů</strong>
-            <br />
-            Respektuj pravidla a&nbsp;program setkání. Nevstupuj do prostor, do
-            kterých není povolen vstup.
-          </ContainerLi>
-          <ContainerLi className={`my-4`}>
-            <strong>Chovej se ohleduplně</strong>
-            <br />
-            Ber ohled na ostatní účastníky a&nbsp;okolní prostředí. Udržuj 
-            pořádek. Buď trpělivý/á a&nbsp;pozorný/á. Vnímej snahu přednášejících
-            předat ti to nejlepší. 
-          </ContainerLi>
-          <ContainerLi className={`my-4`}>
-            <strong>Dbej na své zdraví</strong>
-            <br />
-            Pij dostatek vody, jez pravidelně a&nbsp;obleč se dle počasí.
-            Dodržuj pravidla silničního provozu. Nezapomeň si vzít své léky.
-          </ContainerLi>
-          <ContainerLi className={`my-4`}>
-            <strong>Měj u&nbsp;sebe kontakt na odpovědnou osobu</strong>
-            <br />
-            Vždy věz, koho kontaktovat v&nbsp;případě nouze.
-          </ContainerLi>
-          <ContainerLi className={`my-4`}>
-            <strong>
-              V&nbsp;případě problému si neváhej říct o&nbsp;pomoc
-            </strong>
-            <br />
-            Organizátor, zdravotník či odpovědná osoba jsou připraveni pomoci.
-            Neváhej je oslovit. V&nbsp;případě neakutních potíží volej
-            zdravotníka na telefonním čísle uvedeném na webu{" "}
-            <Link
-              href={"https://diecezko.cz"}
-              target="_blank"
-              className="underline"
-            >
-              diecezko.cz
-            </Link>
-            .
-          </ContainerLi>
-          <ContainerLi className={`my-4`}>
-            <strong>
-              Měj u&nbsp;sebe doklady a&nbsp;kartičku zdravotní pojišťovny
-            </strong>
-            <br />
-            Dále si případ nouze ulož číslo 155 na Zdravotnickou záchrannou
-            službu. Též měj staženou a&nbsp;aktivovanou aplikaci Záchranka.
-          </ContainerLi>
-          <ContainerLi className={`my-4`}>
-            <strong>Drž se skupiny</strong>
-            <br />
-            Neodcházej sám/sama bez domluvy s&nbsp;vedoucím tvé skupiny.
-          </ContainerLi>
-          <ContainerLi className={`my-4`}>
-            <strong>Omezuj používání mobilu</strong>
-            <br />
-            Buď přítomný/á a&nbsp;vnímej atmosféru setkání. Neváhej aktivně
-            oslovit účastníky okolo sebe.
-          </ContainerLi>
-          <ContainerLi className={`my-4`}>
-            <strong>Žádný alkohol, cigarety ani jiné omamné látky</strong>
-            <br />
-            Takové věci by tě zbytečně rušily od duchovního prožitku
-            a&nbsp;společenství.
-          </ContainerLi>
-          <ContainerLi className={`my-4`}>
-            <strong>Dej prostor Duchu Svatému a&nbsp;užívej setkání!</strong>
-            <br />
-            Buď pozitivní a&nbsp;otevřený/á novým impulzům setkání. Načerpej
-            povzbuzení a&nbsp;posilu do dalších dní.
-          </ContainerLi>
-        </ContainerOl>
-      </FaqBox>
-      <FaqBox question={`Co si sbalit s sebou?`} icon={`luggage`}>
-        Sváču, láhev s&nbsp;pitím, doporučený příspěvek (200,-Kč v hotovosti),
-        peníze na svoji dopravu. Doporučujeme si také vzít něco teplého
-        na sebe na závěrečnou mši svatou do katedrály. Může být zima.
-      </FaqBox>
-      <FaqBox question={`Od kolika let můžu jet na Diecézko?`} icon={`kid`}>
-        Doporučený věk k&nbsp;účasti na setkání je{" "}
-        <strong>od 14 do 26 let</strong> (mládež ve věku od 12 do 13 let pouze
-        s&nbsp;doprovodem staršího sourozence nebo kamaráda). Pokud nesplňuješ
-        horní hranici, oceníme tvoji pomoc v&nbsp;přípravném týmu. Pokud máš zájem
-        pomoci, vyplň{" "}
-        <Link
-          className="underline"
-          href={`https://prihlaska.diecezko.cz/`}
-          target="_blank"
-          rel="external noopener nofollow"
-        >
-          přihlášku
-        </Link>
-        .
+      <FaqBox question={`Od kolika let můžu jet na setkání ministrantů?`} icon={`kid`}>
+        TODO
       </FaqBox>
       <FaqBox question={`Jak se přihlásím?`} icon={`pencil`}>
         Jednoduše,{" "}
         <strong>
           vyplň{" "}
           <Link
-            href="https://prihlaska.diecezko.cz/"
+            href="https://forms.office.com/e/KpxkZsYqEw"
             rel="external noopener nofollow"
             target="_blank"
             className="underline"
@@ -142,74 +48,24 @@ export default function FAQ() {
             přihlášku
           </Link>
         </strong>
-        &nbsp;a&nbsp;budeme s&nbsp;Tebou počítat. Na Diecézko se přihlas do
-        22.&nbsp;3.&nbsp;2026, abychom Ti stihli zajistit bagetu a&nbsp;pitíčko
-        k&nbsp;obědu. <br />
-        {/* <strong>Nestihl/a ses přihlásit v daném termínu?</strong> Nevadí,
-        i&nbsp;tak s&nbsp;tebou <strong>počítáme</strong>. Objednali jsme bagety
-        navíc. Prosíme, i&nbsp;nadále vyplň přihlášku, ať víme, že dorazíš.
-        Děkujeme 😊{" "} */}
+        &nbsp;a&nbsp;budeme s&nbsp;Tebou počítat.
       </FaqBox>
       <FaqBox question={`Jak se přihlásit na odpolední program?`} icon={`old`}>
-        <strong>
-          Při východu z{" "}
-          <Link href={`/mapa?x=50.2138117&y=15.8291964`} className="underline">
-            Filharmonie
-          </Link>
-        </strong>{" "}
-        si kromě bagety a&nbsp;pitíčka budeš moci vybrat odpolední program.
-        Ideálně si téma promysli dopředu, ať se nemusíš rozmýšlet na poslední
-        chvíli. Na místo programu se půjde společně. Neboj, nezabloudíš. 😉
+        TODO
       </FaqBox>
       <FaqBox question={`Jak bude zajištěno stravování?`} icon={`chef`}>
         Doporučujeme si s&nbsp;sebou přivézt svačinku. Pro všechny, kteří se
         včas přihlásili, <strong>bude k&nbsp;obědu bageta</strong>. Pokud máte
         dietu, napište nám do{" "}
         <Link
-          href="https://prihlaska.diecezko.cz/"
+          href="https://forms.office.com/e/KpxkZsYqEw"
           rel="external noopener nofollow"
           target="_blank"
           className="underline"
         >
           přihlášky
-        </Link>
-        .
-        {/* Pokud by vás odpoledne přepadla mlsná, je možné zajít i&nbsp;do naší{" "}
-        <Link href={`/mapa?x=50.2062919&y=15.8337133`} className="underline">
-          kavárny
-        </Link>
-        . */}
+        </Link>.
       </FaqBox>
-      
-      <FaqBox question={`Co je to PředDiecézko?`} icon={`users`}>
-        Některé vikariáty pořádají menší setkání (tzv. vikariátko) den před
-        Diecézkem a&nbsp;poté společně vyrážejí do Hradce Králové. Tomuto
-        setkání říkáme PředDiecézko. Chceš zjistit, zda něco podobného
-        organizuje i&nbsp;tvůj vikariát? Pro více informací se podívej na{" "}
-        <Link
-          href={`/preddiecezka`}
-          target="_Self"
-          className="underline font-semibold"
-        >
-          přehled PředDiecézek
-        </Link>
-        .
-      </FaqBox>
-      
-      <FaqBox question={`Je organizována společná doprava?`} icon={`train`}>
-        Některé vikariáty společnou dopravu organizují. Pro jasný přehled jsme
-        pro Vás připravili{" "}
-        <Link
-          href={`/spolecna-doprava`}
-          target="_Self"
-          className="underline font-semibold"
-        >
-          rozcestník
-        </Link>
-        , který poradí, kdy a&nbsp;v&nbsp;kolik je sraz a&nbsp;jestli je nutné
-        se někam hlásit.
-      </FaqBox>
-      
       <FaqBox question={`Jak se v Hradci dopravovat?`} icon={`bus`}>
         <ContainerH3>Stručně</ContainerH3>
         Hradec Králové je malej, <strong>choďte pěšky</strong>!
@@ -244,6 +100,74 @@ export default function FAQ() {
         <br />
         Zastávka D1 – 7<br />
         Zastávka D2 – 11, 13
+      </FaqBox>
+      <FaqBox question={`Desatero pravidel setkání ministrantů`} icon={`notes`}>
+        <ContainerOl>
+          <ContainerLi className={`my-4`}>
+            <strong>Dodržuj pokyny organizátorů</strong>
+            <br />
+            Respektuj pravidla a&nbsp;program setkání. Nevstupuj do prostor, do
+            kterých není povolen vstup.
+          </ContainerLi>
+          <ContainerLi className={`my-4`}>
+            <strong>Chovej se ohleduplně</strong>
+            <br />
+            Ber ohled na ostatní účastníky a&nbsp;okolní prostředí. Udržuj 
+            pořádek. Buď trpělivý/á a&nbsp;pozorný/á. Vnímej snahu přednášejících
+            předat ti to nejlepší. 
+          </ContainerLi>
+          <ContainerLi className={`my-4`}>
+            <strong>Dbej na své zdraví</strong>
+            <br />
+            Pij dostatek vody, jez pravidelně a&nbsp;obleč se dle počasí.
+            Dodržuj pravidla silničního provozu. Nezapomeň si vzít své léky.
+          </ContainerLi>
+          <ContainerLi className={`my-4`}>
+            <strong>Měj u&nbsp;sebe kontakt na odpovědnou osobu</strong>
+            <br />
+            Vždy věz, koho kontaktovat v&nbsp;případě nouze.
+          </ContainerLi>
+          <ContainerLi className={`my-4`}>
+            <strong>
+              V&nbsp;případě problému si neváhej říct o&nbsp;pomoc
+            </strong>
+            <br />
+            Organizátor, zdravotník či odpovědná osoba jsou připraveni pomoci.
+            Neváhej je oslovit. V&nbsp;případě neakutních potíží požádej o pomoc
+            někoho z organizátorů.
+          </ContainerLi>
+          <ContainerLi className={`my-4`}>
+            <strong>
+              Měj u&nbsp;sebe doklady a&nbsp;kartičku zdravotní pojišťovny
+            </strong>
+            <br />
+            Dále si případ nouze ulož číslo 155 na Zdravotnickou záchrannou
+            službu. Též měj staženou a&nbsp;aktivovanou aplikaci Záchranka.
+          </ContainerLi>
+          <ContainerLi className={`my-4`}>
+            <strong>Drž se skupiny</strong>
+            <br />
+            Neodcházej sám/sama bez domluvy s&nbsp;vedoucím tvé skupiny.
+          </ContainerLi>
+          <ContainerLi className={`my-4`}>
+            <strong>Omezuj používání mobilu</strong>
+            <br />
+            Buď přítomný/á a&nbsp;vnímej atmosféru setkání. Neváhej aktivně
+            oslovit účastníky okolo sebe.
+          </ContainerLi>
+          <ContainerLi className={`my-4`}>
+            <strong>Žádný alkohol, cigarety ani jiné omamné látky</strong>
+            <br />
+            Takové věci by tě zbytečně rušily od duchovního prožitku
+            a&nbsp;společenství.
+          </ContainerLi>
+          <ContainerLi className={`my-4`}>
+            <strong>Dej prostor Duchu Svatému a&nbsp;užívej setkání!</strong>
+            <br />
+            Buď pozitivní a&nbsp;otevřený/á novým impulzům setkání. Načerpej
+            povzbuzení a&nbsp;posilu do dalších dní.
+          </ContainerLi>
+        </ContainerOl>
       </FaqBox>
       {/* 
       <FaqBox question={`Kam si odskočit na záchod?`} icon={`toilet`}>

@@ -14,6 +14,9 @@ import {
   IconPhoto,
   IconSpeakerphone,
   IconWritingSign,
+  IconArrowBarToDown,
+  IconChessBishop,
+  IconCloud,
 } from "@tabler/icons";
 import Link from "next/link";
 import Nbsp from "../format/nbsp";
@@ -21,6 +24,9 @@ import Strong from "../format/strong";
 import Infographic from "../infographic";
 import Countdown from "../countdown";
 import Image from "next/image";
+import IconCustomAdventniCesta from "../images/adventni-cesta";
+import CardFeed from "../layouts/card-feed";
+import Button from "../layouts/button";
 
 export default function DiecezkoInfo({ id, className }) {
   return (
@@ -32,19 +38,22 @@ export default function DiecezkoInfo({ id, className }) {
           </div> */}
         <div className="flex flex-col items-center w-[90vw]">
           <Countdown countDownDate={new Date("May 23, 2026 10:00:00")} />
-          <span className="text-3xl md:text-4xl">
-            <span className="block font-semibold">Diecézní setkání ministranů</span>
+          <span className="text-2xl md:text-3xl">
+            <span className="block font-semibold uppercase">Diecézní setkání ministranů</span>
           </span>
           <h1 className="text-6xl md:text-7xl uppercase leading-tight tracking-wide text-center text-[#f2e7c9] font-poppins mb-4">
-            <span className="text-[#fbf3e3] text-7xl md:text-8xl px-20 font-semibold md:my-2 block">
-              mini STARS
+            <span className="text-[#fbf3e3] text-5xl md:text-6xl font-semibold md:my-2">
+              mini{" "}
+            </span>
+            <span className="text-[#fbf3e3] text-7xl md:text-8xl font-semibold md:my-2">
+              STARS
+            </span>
+            <span className="text-[#fbf3e3] text-4xl md:text-5xl font-semibold md:my-2 block">
+              23. 5. 2026
             </span>
           </h1>
-          <p className="text-2xl text-center tracking-wide mt-1 font-poppins">
-            23. 5. 2026 • 10.00
-          </p>
-          <p className="uppercase text-xl md:text-2xl tracking-wide font-poppins">
-            Kostel Nanebevzetí Panny Marie v hradci králové
+          <p className="uppercase text-xl md:text-2xl tracking-wide font-semibold font-poppins">
+            V hradci králové
           </p>
         </div>
         <div className="w-[90vw] max-w-[500px] grid grid-cols-2 grid-flow-row gap-4 items-center auto-cols-max">
@@ -103,6 +112,58 @@ export default function DiecezkoInfo({ id, className }) {
         </div>
       </div>
       <Infographic />
+      <ContainerH2 className={`w-full text-center`}>Propagace</ContainerH2>
+      <CardFeed>
+        <Link
+          href="/assets/files/plakat.pdf"
+          rel=""
+          target="_blank"
+          className=""
+        >
+          <Button>
+            <IconArrowBarToDown className={`inline h-6 mr-2`} stroke={1.8} />
+            Plakátek
+          </Button>
+        </Link>
+      </CardFeed>
+      <ContainerH2 className={`w-full text-center`}>
+        Tipy na další obsah
+      </ContainerH2>
+      <CardFeed>
+        <Link
+          href="https://cestapustem.cz/"
+          rel="external"
+          target="_blank"
+          className=""
+        >
+          <Button>
+            <IconCustomAdventniCesta className={`inline h-6 mr-2`} />
+            Cesta půstem
+          </Button>
+        </Link>
+        <Link
+          href="https://www.bihk.cz/"
+          rel="external"
+          target="_blank"
+          className=""
+        >
+          <Button>
+            <IconChessBishop className={`inline h-6 mr-2`} />
+            Biskupství královéhradecké
+          </Button>
+        </Link>
+        <Link
+          href="https://celostatnisetkanimladeze.cz/"
+          rel="external"
+          target="_blank"
+          className=""
+        >
+          <Button>
+            <IconCloud className={`inline h-6 mr-2`} />
+            CSM Ostrava
+          </Button>
+        </Link>
+      </CardFeed>
     </Container>
   );
 }

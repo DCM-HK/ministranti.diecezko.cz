@@ -17,58 +17,6 @@ export default function SpolecenstviInfo({ id, className }) {
   return (
     <Container className={className} id={id}>
       <FAQ />
-      <ContainerH2 className={`w-full text-center`}>
-        Tipy na další obsah
-      </ContainerH2>
-      <CardFeed>
-        <Link
-          href="https://cestapustem.cz/"
-          rel="external"
-          target="_blank"
-          className=""
-        >
-          <Button>
-            <IconCustomAdventniCesta className={`inline h-6 mr-2`} />
-            Cesta půstem
-          </Button>
-        </Link>
-        <Link
-          href="https://www.bihk.cz/"
-          rel="external"
-          target="_blank"
-          className=""
-        >
-          <Button>
-            <IconChessBishop className={`inline h-6 mr-2`} />
-            Biskupství královéhradecké
-          </Button>
-        </Link>
-        <Link
-          href="https://celostatnisetkanimladeze.cz/"
-          rel="external"
-          target="_blank"
-          className=""
-        >
-          <Button>
-            <IconCloud className={`inline h-6 mr-2`} />
-            CSM Ostrava
-          </Button>
-        </Link>
-      </CardFeed>
-      <ContainerH2 className={`w-full text-center`}>Propagace</ContainerH2>
-      <CardFeed>
-        <Link
-          href="/assets/files/DSM26-plakát.pdf"
-          rel=""
-          target="_blank"
-          className=""
-        >
-          <Button>
-            <IconArrowBarToDown className={`inline h-6 mr-2`} stroke={1.8} />
-            Plakátek
-          </Button>
-        </Link>
-      </CardFeed>
     </Container>
   );
 }
