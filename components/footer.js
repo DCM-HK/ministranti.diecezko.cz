@@ -22,6 +22,7 @@ export default function Footer() {
             DCM Hradec Králové
           </Link>
         </span>
+        {/*
         <div className="my-4 text-xs uppercase">
           <p className="text-center">Zavzpomínej na minulé ročníky:</p>
           <Link
@@ -48,6 +49,7 @@ export default function Footer() {
             Jaro 2025
           </Link>
         </div>
+        */}
         <div className="flex flex-row items-center justify-around min-w-[150px]">
           <Link
             href="https://www.facebook.com/DCM.HradecKralove"
@@ -66,7 +68,7 @@ export default function Footer() {
             <IconBrandInstagram className="inline" stroke={1.3} />
           </Link>
           <Link
-            href="https://github.com/DCM-HK/diecezko.cz"
+            href="https://github.com/DCM-HK/ministranti.diecezko.cz"
             target="_blank"
             rel="external"
             title="Repositář projektu na Githubu"

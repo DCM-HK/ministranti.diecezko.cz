@@ -108,14 +108,15 @@ export default function Header() {
             onClick={unlockScrolling}
             className={`text-2xl uppercase ml-4 font-poppins`}
             target="_self"
-            title="Diecézko.cz"
+            title="ministranti.diecezko.cz"
           >
-            Diecézko.cz
+            ministranti.Diecézko.cz
             <span className="text-xs relative top-[0.7rem] -left-2 text-[#f2e7c9] shadow-[#f2e7c9] font-semibold">
               2026
             </span>
           </Link>
         </div>
+        {/* 
         <div>
           <IconMenu2
             className={`mr-4 cursor-pointer ${burgerControl}`}
@@ -126,13 +127,16 @@ export default function Header() {
             onClick={closeMenu}
           />
         </div>
+        */}
       </header>
+      {/*
       <nav
         className={`top-16 fixed w-full backdrop-blur-md bg-black/70 ${burgerMenu} burger-menu-height flex flex-col items-center z-50`}
       >
         <ul
           className={`text-2xl flex flex-col items-start justify-around w-[90vw] max-w-[400px]`}
         >
+          {/*
           <Link
             href="/mapa"
             onClick={unlockScrolling}
@@ -144,6 +148,7 @@ export default function Header() {
               Mapa míst
             </li>
           </Link>
+          /}
           <li className="flex flex-col items-center w-full justify-between my-4">
             <div
               className="flex flex-row items-center w-full justify-between cursor-pointer border-b border-b-[#3b3b3b]"
@@ -239,6 +244,8 @@ export default function Header() {
               </Link>
             </ul>
           </li>
+          {/*
+          
           <li className="flex flex-col items-center w-full justify-between my-4">
             <div
               className="flex flex-row items-center w-full justify-between cursor-pointer border-b border-b-[#3b3b3b]"
@@ -248,7 +255,7 @@ export default function Header() {
                 <IconHeadphones
                   stroke={1.3}
                   className="inline h-7 w-7 my-1 mr-2"
-                />
+                  />
                 Kapely
               </div>{" "}
               <div>
@@ -287,7 +294,8 @@ export default function Header() {
                   PEHUMA
                 </li>
               </Link>
-              {/*<Link
+              {/*
+              <Link
                 href="/cervenokostelecka-schola"
                 onClick={unlockScrolling}
                 target="_self"
@@ -297,9 +305,10 @@ export default function Header() {
                   <IconMusic className="inline h-7 w-7 my-1 mr-2" />
                   Červenokostelecká schola
                 </li>
-              </Link>*/}
+              </Link>
             </ul>
           </li>
+          /}
 
           <Link
             href="/jadro-diecezka"
@@ -356,6 +365,7 @@ export default function Header() {
           </Link>
         </ul>
       </nav>
+      */}
     </>
   );
 }

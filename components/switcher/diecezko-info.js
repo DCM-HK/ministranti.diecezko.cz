@@ -14,6 +14,9 @@ import {
   IconPhoto,
   IconSpeakerphone,
   IconWritingSign,
+  IconArrowBarToDown,
+  IconChessBishop,
+  IconCloud,
 } from "@tabler/icons";
 import Link from "next/link";
 import Nbsp from "../format/nbsp";
@@ -21,6 +24,9 @@ import Strong from "../format/strong";
 import Infographic from "../infographic";
 import Countdown from "../countdown";
 import Image from "next/image";
+import IconCustomAdventniCesta from "../images/adventni-cesta";
+import CardFeed from "../layouts/card-feed";
+import Button from "../layouts/button";
 
 export default function DiecezkoInfo({ id, className }) {
   return (
@@ -31,25 +37,23 @@ export default function DiecezkoInfo({ id, className }) {
           <span className="text-base text-center"></span>
           </div> */}
         <div className="flex flex-col items-center w-[90vw]">
-          <Countdown countDownDate={new Date("March 28, 2026 09:30:00")} />
+          <Countdown countDownDate={new Date("May 23, 2026 10:00:00")} />
+          <span className="text-2xl md:text-3xl">
+            <span className="block font-semibold uppercase">Diecézní setkání ministranů</span>
+          </span>
           <h1 className="text-6xl md:text-7xl uppercase leading-tight tracking-wide text-center text-[#f2e7c9] font-poppins mb-4">
-            <span className="block font-semibold">Diecézní</span>
-            <span className="text-[#fbf3e3] text-7xl md:text-8xl px-20 font-semibold md:my-2 block">
-              setkání
+            <span className="text-[#fbf3e3] text-5xl md:text-6xl font-semibold md:my-2">
+              mini{" "}
             </span>
-            <Image
-              src="/assets/images/youth_label.svg"
-              alt="Youth label"
-              width={220}
-              height={100}
-              className="mx-auto -mt-8 md:-mt-10 mr-10 w-[180px] md:w-[220px] h-auto"
-            />
+            <span className="text-[#fbf3e3] text-7xl md:text-8xl font-semibold md:my-2">
+              STARS
+            </span>
+            <span className="text-[#fbf3e3] text-4xl md:text-5xl font-semibold md:my-2 block">
+              23. 5. 2026
+            </span>
           </h1>
-          <p className="text-2xl text-center tracking-wide mt-1 font-poppins">
-            28. 3. 2026 • 9.30
-          </p>
-          <p className="uppercase text-xl md:text-2xl tracking-wide font-poppins">
-            Filharmonie Hradec Králové
+          <p className="uppercase text-xl md:text-2xl tracking-wide font-semibold font-poppins">
+            V hradci králové
           </p>
         </div>
         <div className="w-[90vw] max-w-[500px] grid grid-cols-2 grid-flow-row gap-4 items-center auto-cols-max">
@@ -68,7 +72,7 @@ export default function DiecezkoInfo({ id, className }) {
             </button>
           </Link> */}
           <Link
-            href={`https://prihlaska.diecezko.cz/`}
+            href={`https://forms.office.com/e/KpxkZsYqEw`}
             target="_blank"
             className="border col-span-2 border-[#3b3b3b] hover:bg-[#3b3b3b] rounded-full p-2 px-5 text-base flex flex-row items-center justify-center"
           >
@@ -108,6 +112,58 @@ export default function DiecezkoInfo({ id, className }) {
         </div>
       </div>
       <Infographic />
+      <ContainerH2 className={`w-full text-center`}>Propagace</ContainerH2>
+      <CardFeed>
+        <Link
+          href="/assets/files/plakat.pdf"
+          rel=""
+          target="_blank"
+          className=""
+        >
+          <Button>
+            <IconArrowBarToDown className={`inline h-6 mr-2`} stroke={1.8} />
+            Plakátek
+          </Button>
+        </Link>
+      </CardFeed>
+      <ContainerH2 className={`w-full text-center`}>
+        Tipy na další obsah
+      </ContainerH2>
+      <CardFeed>
+        <Link
+          href="https://cestapustem.cz/"
+          rel="external"
+          target="_blank"
+          className=""
+        >
+          <Button>
+            <IconCustomAdventniCesta className={`inline h-6 mr-2`} />
+            Cesta půstem
+          </Button>
+        </Link>
+        <Link
+          href="https://www.bihk.cz/"
+          rel="external"
+          target="_blank"
+          className=""
+        >
+          <Button>
+            <IconChessBishop className={`inline h-6 mr-2`} />
+            Biskupství královéhradecké
+          </Button>
+        </Link>
+        <Link
+          href="https://celostatnisetkanimladeze.cz/"
+          rel="external"
+          target="_blank"
+          className=""
+        >
+          <Button>
+            <IconCloud className={`inline h-6 mr-2`} />
+            CSM Ostrava
+          </Button>
+        </Link>
+      </CardFeed>
     </Container>
   );
 }

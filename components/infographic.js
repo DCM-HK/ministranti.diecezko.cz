@@ -23,7 +23,7 @@ export default function Infographic() {
           <ContainerH3 className="">Společenství</ContainerH3>
           <ContainerParagraph className="">
             To nejdůležitější, co na setkání společně zažijeme, je společenství
-            věřících vrstevníků. Úžasný a&nbsp;rozhodně nezapomenutelný zážitek!
+            věřících vrstevníků ministrantů. Úžasný a&nbsp;rozhodně nezapomenutelný zážitek!
           </ContainerParagraph>
         </div>
         <div className="border-[#444] border rounded-xl p-4 sm:p-6 transition h-full backdrop-blur-md hover:scale-105">
@@ -31,41 +31,17 @@ export default function Infographic() {
           <ContainerH3 className="">Mše svatá s našimi biskupy</ContainerH3>
           <ContainerParagraph className="">
             Setkání zakončíme mší svatou s&nbsp;našimi biskupy Janem
-            a&nbsp;Prokopem v&nbsp;katedrále Svatého Ducha. Biskup Jan nás zve a zdraví&nbsp;v&nbsp;
-            <Link
-              href="/pozvani-biskupa-jana"
-              target="_self"
-              className="underline"
-              title="Pozání Biskupa Jana"
-            >
-              dopise
-            </Link>.
+            a&nbsp;Prokopem v&nbsp;katedrále Svatého Ducha.
           </ContainerParagraph>
         </div>
         <div className="border-[#444] border rounded-xl p-4 sm:p-6 transition h-full backdrop-blur-md hover:scale-105">
           <IconQuestionMark size={50} className="inline w-full mt-4" />
           <ContainerH3 className="">Na co se můžeš těšit?</ContainerH3>
           <ContainerParagraph className="">
-            Chystáme pro vás zábavný program ve Filharmonii, zveme zajímavé
-            hosty na odpolední přednášky a&nbsp;workshopy a&nbsp;připravujeme
-            duchovní zážitek ze mše svaté.
-          </ContainerParagraph>
-        </div>
-        <div className="border-[#444] border rounded-xl p-4 sm:p-6 transition h-full backdrop-blur-md hover:scale-105">
-          <IconMusic size={50} className="inline w-full mt-4" />
-          <ContainerH3 className="">Skvělá hudba</ContainerH3>
-          <ContainerParagraph className="">
-            Program bude doprovázen ladnými tóny Vesmírné kapely a scholou PEHUMA
-            z Dolní Čermné. O&nbsp;hudební doprovod adorace se&nbsp;postará
-            Markét Dušková.
-          </ContainerParagraph>
-        </div>
-        <div className="border-[#444] border rounded-xl p-4 sm:p-6 transition h-full backdrop-blur-md hover:scale-105">
-          <IconHeart size={50} className="inline w-full mt-4" />
-          <ContainerH3 className="">Světový den mládeže</ContainerH3>
-          <ContainerParagraph className="">
-            Na přání papeže sv. Jana Pavla II. a&nbsp;jeho nástupců se mají
-            biskupové scházet každý rok s&nbsp;mládeží své diecéze.
+            Chystáme pro vás program, zveme zajímavé
+            hosty na odpolední workshopy a&nbsp;připravujeme
+            duchovní zážitek ze mše svaté, kterou odstartujeme
+            společným průvodem a všichni se mše zúčastníme v ministrantském oblečení.
           </ContainerParagraph>
         </div>
       </div>
