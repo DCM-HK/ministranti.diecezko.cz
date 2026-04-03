@@ -146,7 +146,7 @@ const places = [
     },
     name: "Nové Adalbertinum",
     content: `
-      <li>DCM</li>
+      <li>9:00 Otevření prostorů a registrace</li>
       <li>Farní místnost</li>
       `,
   },
@@ -180,33 +180,35 @@ const places = [
       y: 15.8341294,
     },
     name: "Kostel Nanebevzetí Panny Marie",
-    content: "<li>13:30 adorace, svátost smíření či duchovní rozhovor</li>",
-  },
-  {
-    coords: {
-      x: 50.2062919,
-      y: 15.8337133,
-    },
-    name: "BiGy (Biskupské gymnázium)",
     content: `
-    <li>12:30 přednášky, workshopy</li>
-    <li>14:10 začátek programu po vikariátech</li>
-    `,
-    // <li>13:30 nealkoholický bar</li>
-    // <li>14:10 modlitba za město</li>
-  },
-  {
-    coords: {
-      x: 50.2138117,
-      y: 15.8291964,
-    },
-    name: "Filharmonie Hradec Králové",
-    content: `
-    <li>9:00 registrace</li>
-    <li>9:30 dopolední program</li>
-    <li>11:30 obědová pauza</li>
+    <li>10:00 dopolední program</li>
+    <li>12:00 oběd</li>
     `,
   },
+  // {
+  //   coords: {
+  //     x: 50.2062919,
+  //     y: 15.8337133,
+  //   },
+  //   name: "BiGy (Biskupské gymnázium)",
+  //   content: ``,
+      // <li>12:30 přednášky, workshopy</li>
+      // <li>14:10 začátek programu po vikariátech</li>
+      // <li>13:30 nealkoholický bar</li>
+      // <li>14:10 modlitba za město</li>
+  // },
+  // {
+  //   coords: {
+  //     x: 50.2138117,
+  //     y: 15.8291964,
+  //   },
+  //   name: "Filharmonie Hradec Králové",
+  //   content: `
+  //   <li>9:00 registrace</li>
+  //   <li>9:30 dopolední program</li>
+  //   <li>11:30 obědová pauza</li>
+  //   `,
+  // },
   {
     coords: {
       x: 50.2087878,
@@ -214,7 +216,6 @@ const places = [
     },
     name: "Katedrála Svatého Ducha",
     content: `
-    <li>14:15 sraz ministrantů</li>
     <li>15:00 mše svatá</li>
     `,
   },

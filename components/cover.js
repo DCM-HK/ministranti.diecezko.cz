@@ -5,7 +5,6 @@ import SwitcherContext from "../lib/switcher-context";
 export default function Cover({ children }) {
   const { switcher } = useContext(SwitcherContext);
   const [blur, setBlur] = useState("bg-black/50");
-  const showBuildings = switcher === 1 || switcher === 2;
 
   const handleScroll = () => {
     const scrollY = window.scrollY;
@@ -34,44 +33,6 @@ export default function Cover({ children }) {
             className="h-screen w-full object-cover object-bottom"
           />
         </picture>
-        <div
-          className={`pointer-events-none ${
-            showBuildings ? "hidden lg:block" : "hidden"
-          }`}
-        >
-          <picture className="absolute bottom-0 left-0 w-[clamp(100px,20vw,360px)]">
-            <source
-              srcSet="assets/images/budova-katedrala.webp"
-              type="image/webp"
-            />
-            <source
-              srcSet="assets/images/budova-katedrala.png"
-              type="image/png"
-            />
-            <img
-              alt="Katedrála"
-              loading="lazy"
-              src="assets/images/budova-katedrala.png"
-              className="w-full h-auto object-contain"
-            />
-          </picture>
-          <picture className="absolute bottom-0 right-0 w-[clamp(100px,20vw,360px)]">
-            <source
-              srcSet="assets/images/budova-bila-vez.webp"
-              type="image/webp"
-            />
-            <source
-              srcSet="assets/images/budova-bila-vez.png"
-              type="image/png"
-            />
-            <img
-              alt="Bílá věž"
-              loading="lazy"
-              src="assets/images/budova-bila-vez.png"
-              className="w-full h-auto object-contain"
-            />
-          </picture>
-        </div>
       </div>
       <div className="flex items-center flex-col w-full">{children}</div>
     </>

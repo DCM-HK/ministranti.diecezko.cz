@@ -31,7 +31,7 @@ export default function Infographic() {
           <ContainerH3 className="">Mše svatá s našimi biskupy</ContainerH3>
           <ContainerParagraph className="">
             Setkání zakončíme mší svatou s&nbsp;našimi biskupy Janem
-            a&nbsp;Prokopem v&nbsp;katedrále Svatého Ducha. TODO - update this
+            a&nbsp;Prokopem v&nbsp;katedrále Svatého Ducha.
           </ContainerParagraph>
         </div>
         <div className="border-[#444] border rounded-xl p-4 sm:p-6 transition h-full backdrop-blur-md hover:scale-105">
@@ -40,7 +40,8 @@ export default function Infographic() {
           <ContainerParagraph className="">
             Chystáme pro vás program, zveme zajímavé
             hosty na odpolední workshopy a&nbsp;připravujeme
-            duchovní zážitek ze mše svaté.
+            duchovní zážitek ze mše svaté, kterou odstartujeme
+            společným průvodem a všichni se mše zúčastníme v ministrantském oblečení.
           </ContainerParagraph>
         </div>
       </div>

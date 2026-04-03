@@ -4,34 +4,34 @@
       "id": 1,
       "time": "9:00",
       "duration": 60,
-      "description": "TODO - přijeďte na ...",
+      "description": "Regsitrace bude v novém adalbertinu. Zde se dozvíte aktuální informace.",
       "icons": [
          "registration"
       ],
       "place": {
-         "name": "TODO, kde je sraz???",
+         "name": "Nové Adalbertinum",
          "coords": {
-            "x": "50.2138117",
-            "y": "15.8291964"
+            "x": "50.2090269",
+            "y": "15.8334453"
          }
       }
    },
    {
-      "name": "Začátek programu",
+      "name": "Dopolední program",
       "id": 2,
       "time": "10:00",
       "duration": 120,
-      "description": "TODO - čeká nás program...",
+      "description": "Dopoledne bude společný program s povídáním a aktivitkami.",
       "icons": [
          "theater",
          "pray",
          "person"
       ],
       "place": {
-         "name": "TODO, kde je sraz???",
+         "name": "Kostel Nanebevzetí Panny Marie",
          "coords": {
-            "x": "50.2138117",
-            "y": "15.8291964"
+            "x": "50.2090772",
+            "y": "15.8341294"
          },
          "link": "https://mapy.cz/s/dedasenuge"
       }
@@ -47,10 +47,10 @@
          "food"
       ],
       "place": {
-         "name": "TODO, tam kde je program??",
+         "name": "Kostel Nanebevzetí Panny Marie",
          "coords": {
-            "x": "50.2138117",
-            "y": "15.8291964"
+            "x": "50.2090772",
+            "y": "15.8341294"
          }
       }
    },
@@ -76,7 +76,7 @@
          "pray"
       ],
       "place": {
-         "name": "Katedrála Svatého Ducha - TODO ???",
+         "name": "Katedrála Svatého Ducha",
          "coords": {
             "x": "50.2087878",
             "y": "15.8310917"

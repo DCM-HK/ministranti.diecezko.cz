@@ -8,19 +8,19 @@ import ContainerLi from "./layouts/container-li";
 export default function FAQ() {
   return (
     <FaqLayout>
-      <FaqBox question={`Co je setkání ministrantů?`} icon={`users`}>
+      {/*<FaqBox question={`Co je setkání ministrantů?`} icon={`users`}>
         Setkání ministantů se v naší diecézi organizuje jednou za pár let.
         Poslední bylo v roce TODO. Je to možnost načerpat novou energii
         do služby u oltáře, získat nové znalosti a poznat lidi,
         kteří to mají podobně.
-      </FaqBox>
+      </FaqBox>*/}
       <FaqBox question={`Kolik setkání ministranů stojí?`} icon={`money`}>
         Doporučený příspěvek je <strong>100,-Kč v hotovosti</strong>. Je možné ho
         zaplatit v hotovosti na recepci při dopoledním programu.
       </FaqBox>
       <FaqBox question={`Co si sbalit s sebou?`} icon={`luggage`}>
         Sváču, láhev s&nbsp;pitím, doporučený příspěvek (100,-Kč v hotovosti),
-        peníze na svoji dopravu a hlavně <strong>ministrantské oblečení</strong>
+        peníze na svoji dopravu a hlavně <strong>ministrantské oblečení </strong>
         na závěrečnou mši svatou.
       </FaqBox>
       <FaqBox question={`Kde seženu zdravotní pomoc?`} icon={`medical`}>
@@ -31,9 +31,6 @@ export default function FAQ() {
           155
         </Link>
         .
-      </FaqBox>
-      <FaqBox question={`Od kolika let můžu jet na setkání ministrantů?`} icon={`kid`}>
-        TODO
       </FaqBox>
       <FaqBox question={`Jak se přihlásím?`} icon={`pencil`}>
         Jednoduše,{" "}
@@ -50,8 +47,9 @@ export default function FAQ() {
         </strong>
         &nbsp;a&nbsp;budeme s&nbsp;Tebou počítat.
       </FaqBox>
-      <FaqBox question={`Jak se přihlásit na odpolední program?`} icon={`old`}>
-        TODO
+      <FaqBox question={`Jak se přihlásit na odpolední workshopy?`} icon={`old`}>
+        Odpoledne bude možnost si vybrat z nabídky workshopů, přihlašování na
+        jednotlivé bloky bude probíhat na místě.
       </FaqBox>
       <FaqBox question={`Jak bude zajištěno stravování?`} icon={`chef`}>
         Doporučujeme si s&nbsp;sebou přivézt svačinku. Pro všechny, kteří se
@@ -68,7 +66,10 @@ export default function FAQ() {
       </FaqBox>
       <FaqBox question={`Jak se v Hradci dopravovat?`} icon={`bus`}>
         <ContainerH3>Stručně</ContainerH3>
-        Hradec Králové je malej, <strong>choďte pěšky</strong>!
+        Hradec Králové je malej, <strong>choďte pěšky</strong>! Využijte například naši{" "}
+        <Link href="/mapa" className="underline font-semibold" target="_blank">
+          mapu
+        </Link>
         <ContainerH3>
           Cesta z&nbsp;vlakového nádraží k&nbsp;Filharmonii
         </ContainerH3>
