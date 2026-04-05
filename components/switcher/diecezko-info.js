@@ -31,28 +31,28 @@ import Button from "../layouts/button";
 export default function DiecezkoInfo({ id, className }) {
   return (
     <Container id={id} className={className}>
-      <div className="min-h-[65vh] flex flex-col items-center justify-around">
+      <div className="min-h-[55vh] flex flex-col items-center justify-around">
         {/* This div can serve as a spacer to add some label before the main title 
           <div className="flex flex-col items-center w-full">
           <span className="text-base text-center"></span>
           </div> */}
         <div className="flex flex-col items-center w-[90vw]">
           <Countdown countDownDate={new Date("May 23, 2026 10:00:00")} />
-          <span className="text-2xl md:text-3xl">
-            <span className="block font-semibold uppercase">Diecézní setkání ministranů</span>
+          <span className="text-xl md:text-2xl md:mt-4 md:mb-2">
+            <span className="block font-semibold uppercase">Diecézní setkání ministrantů</span>
           </span>
-          <h1 className="text-6xl md:text-7xl uppercase leading-tight tracking-wide text-center text-[#f2e7c9] font-poppins mb-4">
-            <span className="text-[#fbf3e3] text-5xl md:text-6xl font-semibold md:my-2">
+          <h1 className="text-5xl md:text-7xl uppercase leading-tight tracking-wide text-center text-[#f2e7c9] font-poppins mb-4">
+            <span className="text-[#fbf3e3] text-4xl md:text-6xl font-semibold md:my-5">
               mini{" "}
             </span>
-            <span className="text-[#fbf3e3] text-7xl md:text-8xl font-semibold md:my-2">
+            <span className="text-[#fbf3e3] text-6xl md:text-8xl font-semibold md:my-5">
               STARS
             </span>
-            <span className="text-[#fbf3e3] text-4xl md:text-5xl font-semibold md:my-2 block">
+            <span className="text-[#fbf3e3] text-4xl md:text-6xl font-semibold md:mt-5 md:mb-1 block">
               23. 5. 2026
             </span>
           </h1>
-          <p className="uppercase text-xl md:text-2xl tracking-wide font-semibold font-poppins">
+          <p className="uppercase text-xl md:text-xl tracking-wide font-semibold font-poppins">
             V hradci králové
           </p>
         </div>
