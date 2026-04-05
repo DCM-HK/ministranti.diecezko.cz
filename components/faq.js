@@ -4,6 +4,7 @@ import Link from "next/link";
 import ContainerH3 from "./layouts/container-h3";
 import ContainerOl from "./layouts/container-ol";
 import ContainerLi from "./layouts/container-li";
+import ContainerUl from "./layouts/container-ul";
 
 export default function FAQ() {
   return (
@@ -71,36 +72,78 @@ export default function FAQ() {
           mapu
         </Link>
         <ContainerH3>
-          Cesta z&nbsp;vlakového nádraží k&nbsp;Filharmonii
+          Cesta z&nbsp;vlakového nádraží ke&nbsp;kostelu Nanebevzetí Panny Marie
         </ContainerH3>
         Při východu z&nbsp;budovy vlakového nádraží přejdete zastávky autobusové
         dopravy a&nbsp;vydáte se rovně po ulici S.&nbsp;K.&nbsp;Neumanna, kterou se
         dostanete na náměstí 28.&nbsp;října. Dále půjdete podél obchodních domů TESCO
         a&nbsp;Atrium po ulici Dukelská třída a&nbsp;pomocí podchodu se
         dostanete na třídu Karla IV. Po ní půjdete až k&nbsp;řece, přejdete most
-        a&nbsp;po levé straně uvidíte sportovní halu, za kterou se nachází
-        Filharmonie. Zde na vás již budou čekat pořadatelé s&nbsp;dalšími
-        informacemi. <br />
-        Autobusy Hlavní nádraží – Muzeum
+        a&nbsp;dáte se doprava podél řeky. Následně odbočíte doleva do ulice Palackého,
+        na jejíž konci přejdete přes přechod a budete pokračovat cestou do kopce.
+        Tak se dostanete na Velké náměstí a kostel Nanebevzetí Panny Marie již
+        budete mít na dohled na pravé straně náměstí.
         <br />
-        Zastávka A – 3, 16 <br />
-        Zastávka D – 7, 11, 13
+        <strong>Autobusy Hlavní nádraží – Adalbertinum </strong>
+        <span className="font-extralight italic">(odsud nahoru do&nbsp;kopce a přes náměstí)</span>
+        <br />
+        <ContainerUl>
+          <ContainerLi>
+            Zastávka A – 16 <br />
+          </ContainerLi>
+          <ContainerLi>
+            Zastávka C – 2, 6, 15, 17 <br />
+          </ContainerLi>
+        </ContainerUl>
+        <strong>Autobusy Hlavní nádraží – Zimní stadion </strong>
+        <span className="font-extralight italic">(odsud přejít kolem kruhového objezdu
+        a&nbsp;nahoru po schodech <i>bono publico</i>. Kostel bude po pravé straně.)</span>
+        <br />
+        <ContainerUl>
+          <ContainerLi>
+            Zastávka A – 16 <br />
+          </ContainerLi>
+          <ContainerLi>
+            Zastávka C – 2 <br />
+          </ContainerLi>
+        </ContainerUl>
         <ContainerH3>
-          Cesta z&nbsp;autobusového nádraží k Filharmonii
+          Cesta z&nbsp;autobusového nádraží ke&nbsp;kostelu Nanebevzetí Panny Marie
         </ContainerH3>
         Stojíte na autobusovém nádraží zády k obchodu LIDL, vydáte se doleva po
         ulici Nádražní a&nbsp;na křižovatce se dáte doprava na Blažíčkovo
         náměstí. Zde se na křižovatce vydáte doleva po ulici Hořická, po které
         dojdete až nakonec této ulice k&nbsp;pizzerii Casa Mia. Zde přejdete
         silnici až k&nbsp;pizzerii a&nbsp;pomocí podchodu se dostanete na třídu
-        Karla&nbsp;IV. Po ní půjdete až k&nbsp;řece, přejdete most a&nbsp;po levé
-        straně uvidíte sportovní halu, za kterou se nachází Filharmonie. Zde na
-        vás již budou čekat pořadatelé s&nbsp;dalšími informacemi.
+        Karla&nbsp;IV. Po ní půjdete až k&nbsp;řece, přejdete most 
+        a&nbsp;dáte se doprava podél řeky. Následně odbočíte doleva do ulice Palackého,
+        na jejíž konci přejdete přes přechod a budete pokračovat cestou do kopce.
+        Tak se dostanete na Velké náměstí a kostel Nanebevzetí Panny Marie již
+        budete mít na dohled na pravé straně náměstí.
         <br />
-        Autobusy Terminál HD – Muzeum
+        <strong>Autobusy Terminál HD – Adalbertinum </strong>
+        <span className="font-extralight italic">(odsud nahoru do&nbsp;kopce a přes náměstí)</span>
         <br />
-        Zastávka D1 – 7<br />
-        Zastávka D2 – 11, 13
+        <ContainerUl>
+          <ContainerLi>
+        Zastávka C1 – 2, 6<br />
+          </ContainerLi>
+          <ContainerLi>
+        Zastávka C2 – 15, 17<br />
+          </ContainerLi>
+          <ContainerLi>
+        Zastávka D2 – 11<br />
+          </ContainerLi>
+        </ContainerUl>
+        <strong>Autobusy Terminál HD – Zimní stadion </strong>
+        <span className="font-extralight italic">(odsud přejít kolem kruhového objezdu
+        a&nbsp;nahoru po schodech <i>bono publico</i>. Kostel bude po pravé straně.)</span>
+        <br />
+        <ContainerUl>
+          <ContainerLi>
+        Zastávka C1 – 2<br />
+          </ContainerLi>
+        </ContainerUl>
       </FaqBox>
       <FaqBox question={`Desatero pravidel setkání ministrantů`} icon={`notes`}>
         <ContainerOl>
