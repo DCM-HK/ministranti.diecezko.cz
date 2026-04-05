@@ -8,13 +8,13 @@ import ContainerLi from "./layouts/container-li";
 export default function FAQ() {
   return (
     <FaqLayout>
-      {/*<FaqBox question={`Co je setkání ministrantů?`} icon={`users`}>
-        Setkání ministantů se v naší diecézi organizuje jednou za pár let.
-        Poslední bylo v roce TODO. Je to možnost načerpat novou energii
-        do služby u oltáře, získat nové znalosti a poznat lidi,
-        kteří to mají podobně.
-      </FaqBox>*/}
-      <FaqBox question={`Kolik setkání ministranů stojí?`} icon={`money`}>
+      <FaqBox question={`Co je setkání ministrantů?`} icon={`users`}>
+        Je to příležitost se setkat s dalšími <i>kolegy od oltáře</i>,
+        načerpat nové znalosti a&nbsp;novou energii do ministrantské služby.
+        Setkání ministrantů navazuje na dřívější tradici akcí pro ministranty v&nbsp;naší diecézi
+        a má za cíl začít novou éru těchto každoročních setkání.
+      </FaqBox>
+      <FaqBox question={`Kolik setkání ministrantů stojí?`} icon={`money`}>
         Doporučený příspěvek je <strong>100,-Kč v hotovosti</strong>. Je možné ho
         zaplatit v hotovosti na recepci při dopoledním programu.
       </FaqBox>

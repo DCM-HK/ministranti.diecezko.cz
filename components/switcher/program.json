@@ -1,10 +1,10 @@
 [
    {
-      "name": "Otevření prostorů a možnost přijetí",
+      "name": "Otevření prostorů a registrace",
       "id": 1,
       "time": "9:00",
       "duration": 60,
-      "description": "Regsitrace bude v novém adalbertinu. Zde se dozvíte aktuální informace.",
+      "description": "Registrace bude v novém adalbertinu. Zde se dozvíte aktuální informace.",
       "icons": [
          "registration"
       ],
