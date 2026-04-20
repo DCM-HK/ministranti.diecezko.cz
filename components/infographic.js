@@ -9,6 +9,7 @@ import {
   IconCross,
   IconMusic,
   IconQuestionMark,
+  IconZoomCheck,
 } from "@tabler/icons";
 
 export default function Infographic() {
@@ -42,6 +43,20 @@ export default function Infographic() {
             hosty na odpolední workshopy a&nbsp;připravujeme
             duchovní zážitek ze mše svaté, kterou odstartujeme
             společným průvodem a všichni se mše zúčastníme v ministrantském oblečení.
+          </ContainerParagraph>
+        </div>
+        <div className="border-[#444] border rounded-xl p-4 sm:p-6 transition h-full backdrop-blur-md hover:scale-105">
+          <IconZoomCheck size={50} className="inline w-full mt-4" />
+          <ContainerH3 className="">Hledáme formátory</ContainerH3>
+          <ContainerParagraph className="">
+            Každá zákristie, má kromě ministrantského oblečení a spousty dalších pokladů také
+            řadu zajímavých a sympatických lidí. A mezi nimi možná právě nyní vyrůstá, dozrává
+            nebo už dávno funguje generace formátorů. Rádi bychom je objevili, oslovili a spolu
+            s nimi pracovali na dalším rozvíjení ministrantské služby v našich farnostech.
+            Kdo je to{" "}
+            <Link href="/formator" className="text-blue-500 hover:underline">
+              formátor
+            </Link>?
           </ContainerParagraph>
         </div>
       </div>
