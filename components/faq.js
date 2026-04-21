@@ -10,7 +10,7 @@ export default function FAQ() {
   return (
     <FaqLayout>
       <FaqBox question={`Co je setkání ministrantů?`} icon={`users`}>
-        Je to příležitost se setkat s dalšími <i>kolegy od oltáře</i>,
+        Je to příležitost se setkat s dalšími <i>kolegy a kolegyněmi od oltáře</i>,
         načerpat nové znalosti a&nbsp;novou energii do ministrantské služby.
         Setkání ministrantů navazuje na dřívější tradici akcí pro ministranty v&nbsp;naší diecézi
         a má za cíl začít novou éru těchto každoročních setkání.
