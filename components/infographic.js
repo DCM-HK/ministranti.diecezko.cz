@@ -24,7 +24,7 @@ export default function Infographic() {
           <ContainerH3 className="">Společenství</ContainerH3>
           <ContainerParagraph className="">
             To nejdůležitější, co na setkání společně zažijeme, je společenství
-            věřících vrstevníků ministrantů. Úžasný a&nbsp;rozhodně nezapomenutelný zážitek!
+            věřících vrstevníků ministrantů kluků i holek. Úžasný a&nbsp;rozhodně nezapomenutelný zážitek!
           </ContainerParagraph>
         </div>
         <div className="border-[#444] border rounded-xl p-4 sm:p-6 transition h-full backdrop-blur-md hover:scale-105">
