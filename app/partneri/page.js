@@ -32,19 +32,6 @@ export default function Partneri() {
               />
             </Link>
             <Link
-              target="_blank"
-              rel="external"
-              href={`https://www.fhk.cz/`}
-              className="w-full flex items-center justify-center"
-              title="Filharmonie Hradec Králové"
-            >
-              <img
-                src="/assets/images/sponsors/fhk.svg"
-                className="w-[25vw] max-w-[100px] rounded-2xl saturate-0 invert cursor-pointer duration-300 hover:scale-105"
-                alt="Logo Filharmonie Hradec Králové"
-              />
-            </Link>
-            <Link
               target="_self"
               href={`/bistro-u-dvou-pratel`}
               className="w-full flex items-center justify-center"
