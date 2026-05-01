@@ -15,7 +15,22 @@ export default async function Vikariaty() {
         <Container>
           <ContainerTitle>Jádro setkání ministrantů</ContainerTitle>
           <ContainerDescription>
-            TODO - nějakej textík tady?? Jak se sešel takovýhle tým? Triumvirát lore?? <br />
+            Přípravný tým diecézního setkání ministrantů tvoří společenství lidí, které spojuje
+            služba církvi, zkušenost s liturgií i živý vztah k mladým. Společně usilují o to,
+            aby diecézní setkání ministrantů nebylo jen organizační událostí, ale především
+            prostorem pro setkání s Bohem, prohloubení služby u oltáře a budování společenství
+            napříč diecézí.
+          </ContainerDescription>
+          <ContainerParagraph>
+            V čele stojí pomocný biskup jako garant duchovního rozměru celého setkání. Spolu s ním
+            se na přípravě podílí koordinátor ministrantů a ceremonář, kteří přinášejí praktickou
+            zkušenost s organizací i liturgickým vedením. Tým dále doplňují tři mladí a aktivní
+            kněží, kteří svou energií, blízkostí k mladé generaci a pastorační praxí přispívají
+            k tomu, aby setkání bylo nejen dobře připravené, ale také živé, srozumitelné a
+            inspirativní pro všechny účastníky.
+          </ContainerParagraph>
+          <ContainerDescription>
+            
           </ContainerDescription>
           <div className="flex flex-col sm:grid sm:grid-cols-2 md:grid-cols-3 grid-flow-row gap-4 items-center">
             {jadro.map((p) => {
