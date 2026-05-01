@@ -8,6 +8,7 @@ import ProgramDetail from "../../components/layouts/program-detail";
 import program from "../../components/switcher/program.json";
 import AvatarImage from "../../components/layouts/avatar-image";
 import Link from "next/link";
+import Image from "next/image";
 import {
   IconBrandFacebook,
   IconBrandInstagram,
@@ -84,7 +85,7 @@ export default async function PrednaskyWorhsopy() {
                       dangerouslySetInnerHTML={{ __html: w.title }}
                       className="text-xl font-semibold w-full"
                     />
-                    <span className="tracking-widest mt-1 font-light flex flex-row items-center justify-start">
+                    <span className="tracking-widest mt-1 font-semibold flex flex-row items-center justify-start">
                       <ParmIcon
                         iconName={w.type}
                         className={`inline`}
@@ -109,6 +110,8 @@ export default async function PrednaskyWorhsopy() {
                             ? `/mapa?x=${50.2090269}&y=${15.8334453}` // Nove Adalbertinum
                             : w.place.includes("Biskupská rezidence")
                             ? `/mapa?x=${50.208725}&y=${15.8323194}` // Biskupská rezidence
+                            : w.place.includes("Katedrála")
+                            ? `/mapa?x=${50.2087878}&y=${15.8310917}` // Katedrála
                             : `/mapa?x=${50.2062919}&y=${15.8337133}` // BiGy
                         }
                         target="_self"
@@ -122,6 +125,12 @@ export default async function PrednaskyWorhsopy() {
                       </span>
                     )}
                     </span>
+                    {w.capacity !== undefined ? (
+                      <span className="font-semibold">
+                        <Image src={"/assets/images/icon_user_group.svg"} alt="Ikona skupiny lidí" width={18} height={18} className="inline mr-1" />
+                        Kapacita {w.capacity} míst
+                      </span>
+                    ) : null}
                     {w.about !== undefined ? (
                       <p
                         className="text-lg w-full mt-2 italic"
