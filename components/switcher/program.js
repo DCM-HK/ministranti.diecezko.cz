@@ -55,9 +55,9 @@ export default function Program({ id, className }) {
                   </button>
                 </Link> */}
                 {p.link !== undefined ? (
-                  <Link href={p.link}>
+                  <Link href={p.link.href} target="_self">
                     <button className="border border-[#3b3b3b] hover:bg-[#3b3b3b] rounded-full p-2 px-3 cursor-pointer text-base flex flex-row items-center justify-center mb-2 mr-2">
-                      Více informací{" "}
+                      {p.link.text !== undefined ? p.link.text : "Více informací"}{" "}
                       <IconArrowRight className="inline ml-1 " stroke={1.5} />
                     </button>
                   </Link>
