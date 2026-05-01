@@ -244,6 +244,17 @@ export default function Header() {
               </Link>
             </ul>
           </li>
+          <Link
+            href="/jadro"
+            onClick={unlockScrolling}
+            target="_self"
+            className="border-b-[#3b3b3b] border-b w-full my-4"
+          >
+            <li className="flex flex-row items-center">
+              <IconHeart stroke={1.5} className="inline h-7 w-7 my-1 mr-2" />
+              Jádro setkání ministrantů
+            </li>
+          </Link>
           {/*
           
           <li className="flex flex-col items-center w-full justify-between my-4">

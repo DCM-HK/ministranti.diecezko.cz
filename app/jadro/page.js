@@ -62,7 +62,7 @@ export const jadro = [
     name: "P. Jenda Pitřinec",
     description:
       "Knězem je stejně dlouho jako Petr S. a Vojtěch N., tedy od května 2017. Působil ve farnostech Litomyšl a Ústí nad Orlicí a nyní má na starosti Vesmír - centrum pro mládež v Deštném v Orlických horách. Jako malý zlobil v kostele tak, že ho uklidnila jen služba u oltáře. Má rád sport v jakékoli podobě a spoustu dalších věcí.",
-    jpgPath: "/assets/images/jadro/pitrinec.jpg",
+    jpgPath: "/assets/images/jadro/pitrinec.png",
     webpPath: "/assets/images/jadro/pitrinec.webp",
     altText: "Profilová fotka P. Jendy Pitřince",
     className: "",
@@ -80,7 +80,7 @@ export const jadro = [
     name: "Matyáš Mesi Meisner",
     description:
       "Ceremonář pomocného biskupa a koordinátor ministrantů v diecézi. Služba u oltáře je mu blízká už dlouho, a proto má radost, že se může podílet na setkání, které spojuje ministranty z celé diecéze. Zároveň aktivně hraje basketbal.",
-    jpgPath: "/assets/images/jadro/meisner.jpg",
+    jpgPath: "/assets/images/jadro/meisner.png",
     webpPath: "/assets/images/jadro/meisner.webp",
     altText: "Profilová fotka Matyáše Meisnera",
     className: "",
