@@ -42,7 +42,10 @@
       "id": 3,
       "duration": 60,
       "description": "Při odchodu z&nbsp;dopoledního programu si kromě výběru workshopu nebo přednášky nezapomeňte vyzvednout i&nbsp;bagetu s&nbsp;pitíčkem. Bagety pro nás připravilo BISTRO u&nbsp;dvou přátel. Dobrou chuť!",
-      "link": "/bistro-u-dvou-pratel",
+      "link": {
+         "text": "BISTRO u dvou přátel",
+         "href": "/bistro-u-dvou-pratel"
+      },
       "icons": [
          "food"
       ],
