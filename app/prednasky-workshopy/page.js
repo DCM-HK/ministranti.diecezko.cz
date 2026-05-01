@@ -26,12 +26,13 @@ export default async function PrednaskyWorhsopy() {
       <PageMain>
         <Container>
           <ContainerTitle>Přednášky a workshopy</ContainerTitle>
-          <ProgramDetail p={program[4]} className={``} />
+          <ProgramDetail p={program[3]} className={``} />
           <ContainerDescription>
             V první části odpoledne si můžete vybrat z&nbsp;bohaté nabídky
             přednášek, několika workshopů nebo sportu. Další workshopy budou přibývat
-            v&nbsp;průběhu března.
+            postupně.
           </ContainerDescription>
+          {/* 
           <div className="flex flex-row items-center justify-center flex-wrap">
             <Link href={`#prednaska-start`}>
               <Button className={``}>
@@ -49,6 +50,7 @@ export default async function PrednaskyWorhsopy() {
               </Button>
             </Link>
           </div>
+          */}
           <div>
             {workshops.map((w) => {
               return (
@@ -214,93 +216,43 @@ export default async function PrednaskyWorhsopy() {
 }
 
 const workshops = [
+  // {
+  //   title:
+  //     "Víra pod tlakem: Jak si&nbsp;obhájit svou&nbsp;víru před&nbsp;sebou i&nbsp;před druhými",
+  //   type: "person",
+  //   about: "P. Josef Kvapilík je kněz z �enerace Z, který doprovází mladé na Centru života mládeže v Rajnochovicích. Má rád hudbu, lyžování a dobré otázky. Offline i online jako Pater Pepa otevírá témata víry, vztahů a smyslu života tak, aby dávala smysl lidem dnešní �enerace.",
+  //   descritpion:
+  //     "Co dělat, když ve škole nebo na síti dostaneš otázku na svou víru a nevíš, co říct? A co když máš otázky sám? Na základě své zkušenosti z života, ale taky z YouTube nebo Insta�ramu, bych se s Tebou chtěl podělit o svou cestu hledání i praktické tipy, jak o víře přemýšlet a mluvit. Přijď načerpat odvahu, ar�umenty a naději.",
+  //   speaker: {
+  //     name: "P. Josef Kvapilík",
+  //     jpgPath: "/assets/images/speakers/pater_pepa.jpg",
+  //   },
+  //   social: {
+  //     ig: "https://www.instagram.com/paterpepa/",
+  //   },
+  //   capacity: 60,
+  //   place: "aula",
+  // },
   {
-    title:
-      "Víra pod tlakem: Jak si&nbsp;obhájit svou&nbsp;víru před&nbsp;sebou i&nbsp;před druhými",
+    title: "Liturgický oděv a jeho výroba",
     type: "person",
-    id: "prednaska-start",
-    about: "P. Josef Kvapilík je kněz z generace Z, který doprovází mladé na Centru života mládeže v Rajnochovicích. Má rád hudbu, lyžování a dobré otázky. Offline i online jako Pater Pepa otevírá témata víry, vztahů a smyslu života tak, aby dávala smysl lidem dnešní generace.",
+    about: `Michal Šramko - kněz, v současnosti kaplan ve farnosti Kutná Hora, zároveň spirituál Církevního gymnázia v Kutné Hoře a kaplan pro mládež ve vikariátu. Vystudoval konzervatoř a Vysokou školu muzických umění v Bratislavě v oboru hra na trubku. Poté vstoupil do kněžského semináře a vystudoval teologickou fakultu v Bratislavě. Studia ukončil v roce 2021 a byl vysvěcen na kněze. Od roku 2015 se věnuje výrobě liturgických oděvů a parament pro kněze.`,
     descritpion:
-      "Co dělat, když ve škole nebo na síti dostaneš otázku na svou víru a nevíš, co říct? A co když máš otázky sám? Na základě své zkušenosti z života, ale taky z YouTube nebo Instagramu, bych se s Tebou chtěl podělit o svou cestu hledání i praktické tipy, jak o víře přemýšlet a mluvit. Přijď načerpat odvahu, argumenty a naději.",
+      "Představení autorské práce, ukázka vyrobených liturgických oděvů",
     speaker: {
-      name: "P. Josef Kvapilík",
-      jpgPath: "/assets/images/speakers/pater_pepa.jpg",
-    },
-    social: {
-      ig: "https://www.instagram.com/paterpepa/",
+      name: "Michal Šramko",
+      jpgPath: "/assets/images/speakers/sramko.jpg",
     },
   },
   {
-    title: "Dobrovolnictví, které dává&nbsp;víc, než&nbsp;bere",
+    title: "Žít jako andělé",
     type: "person",
-    about: `Minulý rok jsem působila jako dobrovolnice na salesiánské škole v Albánii a díky této zkušenosti jsem se po návratu do České republiky rozhodla pracovat jako asistentka pedagoga v mateřské škole.`,
+    about: `Jsem kaplan pro mládež ve vikariátu Náchod. Stal jsem se knězem díky tomu, že mě povolal Pán Ježíš v eucharistii a přijmout moje povolání mí pomohla služba u oltáře. Záleží mi na tom, aby liturgie měla vznešenou jednoduchost, která otevírá naše srdce Bohu. Mám radost, když se nám s ministranty daří sloužit tak, aby to lidem pomohlo si uvědomit, kdo je mezi námi.`,
     descritpion:
-      "Chceš zažít něco, co tě vytáhne z komfortní zóny a změní ti pohled na svět? Láká tě vyrazit do světa jako dobrovolník, nebo tě jen zajímá, jak vypadá život v Albánii a jaké výzvy a překvapení mi tento rok služby přinesl? Přijď si poslechnout příběh o mém dobrovolnictví – a třeba inspiruje i tebe.",
+      "Program žít jako anděl bude spočívat v přemýšlení pomocí různých aktivit a výkladu a diskuze o tom, jaká je souvislost mezi nebeskou liturgií andělů u Božího trůnu, pozemskou liturgií pozemské církve a naším každodenním životem. Co se děje v nebi, děje se na oltáři v našem kostele a nakonec i v našem srdci. Aneb co všechno se mnou může udělat ministrování? Jak se může celý můj život stát andělskou liturgií?",
     speaker: {
-      name: "Majki Kašparová",
-      jpgPath: "/assets/images/speakers/majki_koko.jpg",
-    },
-  },
-  {
-    title: "Jak jsme se ocitli v semináři…",
-    type: "person",
-    about: `Kluci z různých koutů – od Krkonoš, z Polabí a od Svatého Hostýna –, leč toho času bytem v Thákurově 3 na Praze 6. Disponujeme věkovým průměrem zhruba 34 let a velmi různými zkušenostmi, ale jedno máme společné: jsme bohoslovci za královéhradeckou diecézi.`,
-    descritpion: `Asi každý z nás zná nějakého kněze, ale zeptali jsme se jich někdy, jak se kněžími stali? Jak se to vůbec stane, že jde někdo do kněžského semináře? Jestli vás to zajímá, můžete si o tom popovídat se třemi bohoslovci za naši diecézi, rádi vám povíme, co k tomu vedlo nás.`,
-    speaker: {
-      name: "Ondra Mařík, Tomáš Chlápek, Petr Hák",
-      jpgPath: "/assets/images/speakers/bohoslovci.jpg",
-    },
-  },
-  {
-    title: "Jak na hudbu při mši aneb od výběru písní po dirigování",
-    type: "workshop",
-    id: "workshop-start",
-    about: `Jmenuji se František Novák, učím hudební výchovu a varhany, vedu sbor Squadra Risonante při BIGY v Hradci Králové a vyučuji varhany na UHK. Liturgické hudbě se věnuji také jako vedoucí nově vznikajícího Centra pro liturgickou hudbu při Biskupství královéhradeckém.`,
-    descritpion: `Workshop je určen zejména pro vedoucí schol a aktivní hudebníky ve farnostech, kteří se chtějí potkat, sdílet zkušenosti a načerpat inspiraci. Společně se zaměříme na výběr vhodných písní ke konkrétním příležitostem, vyzkoušíme si základy dirigování, dotkneme se aranžování pro nástroje a zazní i praktické tipy z praxe. Chybět nebude prostor pro dotazy a diskuzi.`,
-    speaker: {
-      name: "František Novák",
-      jpgPath: "/assets/images/speakers/novak.jpg",
-    },
-  },
-  {
-    title: "Pubquiz",
-    type: "workshop",
-    about: `Salaš je živý studentský spolek v Hradci Králové, který propojuje víru, přátelství a akademický život. Nabízí prostor pro setkávání, debaty i zábavu – otevřeně a bez póz.`,
-    descritpion: `Troufneš si na výzvu? Přijď ukázat, co máš v hlavě, a staň se hvězdou našeho kvízu!`,
-    speaker: {
-      name: "KAK Salaš",
-      pngPath: "/assets/images/speakers/pub_quiz.png",
-    },
-  },
-  {
-    title: "Otčenáš jinak než slovy",
-    type: "workshop",
-    about: `Jsem lektorka osobnostně vzdělávácích programů a učitelka dramatického oboru na ZUŠ Střezina v Hradci Králové. Zároveň pracuji na Katechetickém a pedagogickém centru Biskupství královehradeckého.`,
-    descritpion: `V tomto workshopu si zažijeme Modlitbu Páně skrze divadelní metody a prvky dramatické výchovy, které otevírají prostor pro osobní prožitek, emoce a představivost. Metody mohou inspirovat k vlastní hlubší modlitbě i nabídnout konkrétní nástroje pro vedení skupin.`,
-    speaker: {
-      name: "Markéta Rumpíková",
-      pngPath: "/assets/images/speakers/rumpikova.jpg",
-    },
-  },
-  {
-    title: "Knižní ilustrace a jak na ní?",
-    type: "workshop",
-    about: `Mgr. Patricie Koubská (nar. 1973) se věnuje dětské ilustraci od r. 1997, kdy vyšla první knížka s jejími obrázky. Od té doby ilustrovala více než 60 knížek, několik jich také sama napsala. Mnoho let se také podílela na časopise Informatorium, pro který vytvořila řadu pracovních listů.`,
-    descritpion: `Co je to knižní ilustrace? Jaká jsou její specifika? Čím se odlišuje od jiných výtvarných disciplín? S prací ilustrátora se můžete seznámit na besedě s Patricií Koubskou, která se této činnosti věnuje již témeř 30 let. (Možná si to budete moci i vyzkoušet, zbyde-li trochu času)`,
-    speaker: {
-      name: "Patricie Koubská",
-      pngPath: "/assets/images/speakers/koubska.jpg",
-    },
-  },
-  {
-    title: "Sportovní workshop",
-    type: "sport",
-    id: "sport-start",
-    about: ``,
-    descritpion: `Sporty pro Vás připravujeme i letos. Více info již brzy tady.`, //Nechceš trávit odpoledne sezením a&nbsp;máš chuť se hýbat? Máš možnost přijít na workshop různých sportů. Pokud nejsi profi sportovec, tak nevadí! Přijít může každý, kdo má zájem, jen pamatuj na oblečení, ve kterém se ti bude dobře pohybovat a přezuvky do tělocvičny.`,
-    speaker: {
-      name: "Organizátor bude upřesněn",
-      // jpgPath: "/assets/images/speakers/TODO.jpg",
+      name: "Jan Pecháček",
+      jpgPath: "/assets/images/speakers/pechacek.jpg",
     },
   },
 ];

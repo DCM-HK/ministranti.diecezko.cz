@@ -62,7 +62,10 @@
       "time": "12:45",
       "id": 4,
       "duration": 90,
-      "description": "Odpoledne si můžete vybrat z nabídky několika workshopů. Info o nich zde bude dostupné později.",
+      "description": "Odpoledne si můžete vybrat z nabídky několika workshopů. Info o nich bude postupně přibývat.",
+      "link": {
+         "href": "/prednasky-workshopy"
+      },
       "icons": [
          "person",
          "workshop"
