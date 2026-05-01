@@ -26,12 +26,11 @@ export default async function PrednaskyWorhsopy() {
       <Header />
       <PageMain>
         <Container>
-          <ContainerTitle>Přednášky a workshopy</ContainerTitle>
+          <ContainerTitle>Workshopy</ContainerTitle>
           <ProgramDetail p={program[3]} className={``} />
           <ContainerDescription>
             V první části odpoledne si můžete vybrat z&nbsp;bohaté nabídky
-            přednášek, několika workshopů nebo sportu. Další workshopy budou přibývat
-            postupně.
+            workshopů. Další budou přibývat postupně.
           </ContainerDescription>
           {/* 
           <div className="flex flex-row items-center justify-center flex-wrap">
@@ -244,7 +243,7 @@ const workshops = [
   // },
   {
     title: "Liturgický oděv a jeho výroba",
-    type: "person",
+    type: "workshop",
     about: `Michal Šramko - kněz, v současnosti kaplan ve farnosti Kutná Hora, zároveň spirituál Církevního gymnázia v Kutné Hoře a kaplan pro mládež ve vikariátu. Vystudoval konzervatoř a Vysokou školu muzických umění v Bratislavě v oboru hra na trubku. Poté vstoupil do kněžského semináře a vystudoval teologickou fakultu v Bratislavě. Studia ukončil v roce 2021 a byl vysvěcen na kněze. Od roku 2015 se věnuje výrobě liturgických oděvů a parament pro kněze.`,
     descritpion:
       "Představení autorské práce, ukázka vyrobených liturgických oděvů",
@@ -255,7 +254,7 @@ const workshops = [
   },
   {
     title: "Žít jako andělé",
-    type: "person",
+    type: "workshop",
     about: `Jsem kaplan pro mládež ve vikariátu Náchod. Stal jsem se knězem díky tomu, že mě povolal Pán Ježíš v eucharistii a přijmout moje povolání mí pomohla služba u oltáře. Záleží mi na tom, aby liturgie měla vznešenou jednoduchost, která otevírá naše srdce Bohu. Mám radost, když se nám s ministranty daří sloužit tak, aby to lidem pomohlo si uvědomit, kdo je mezi námi.`,
     descritpion:
       "Program žít jako anděl bude spočívat v přemýšlení pomocí různých aktivit a výkladu a diskuze o tom, jaká je souvislost mezi nebeskou liturgií andělů u Božího trůnu, pozemskou liturgií pozemské církve a naším každodenním životem. Co se děje v nebi, děje se na oltáři v našem kostele a nakonec i v našem srdci. Aneb co všechno se mnou může udělat ministrování? Jak se může celý můj život stát andělskou liturgií?",
