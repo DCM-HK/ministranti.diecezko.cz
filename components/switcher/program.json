@@ -41,7 +41,8 @@
       "time": "12:00",
       "id": 3,
       "duration": 60,
-      "description": "Při odchodu z&nbsp;dopoledního programu si kromě výběru workshopu nebo přednášky nezapomeňte vyzvednout i&nbsp;bagetu s&nbsp;pitíčkem. Dobrou chuť!",
+      "description": "Při odchodu z&nbsp;dopoledního programu si kromě výběru workshopu nebo přednášky nezapomeňte vyzvednout i&nbsp;bagetu s&nbsp;pitíčkem. Bagety pro nás připravilo BISTRO u&nbsp;dvou přátel. Dobrou chuť!",
+      "link": "/bistro-u-dvou-pratel",
       "icons": [
          "food"
       ],
@@ -55,7 +56,7 @@
    },
    {
       "name": "Workshopy",
-      "time": "13:00",
+      "time": "12:45",
       "id": 4,
       "duration": 90,
       "description": "Odpoledne si můžete vybrat z nabídky několika workshopů. Info o nich zde bude dostupné později.",
