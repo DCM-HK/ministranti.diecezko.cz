@@ -96,7 +96,7 @@ export const jadro = [
     name: "Matyáš Mesi Meisner",
     description:
       "Ceremonář pomocného biskupa a&nbsp;koordinátor ministrantů v&nbsp;diecézi. Služba u&nbsp;oltáře je mu blízká už dlouho, a&nbsp;proto má radost, že se může podílet na setkání, které spojuje ministranty z&nbsp;celé diecéze. Zároveň aktivně hraje basketbal.",
-    jpgPath: "/assets/images/jadro/meisner.png",
+    jpgPath: "/assets/images/jadro/meisner.jpg",
     webpPath: "/assets/images/jadro/meisner.webp",
     altText: "Profilová fotka Matyáše Meisnera",
     className: "",
