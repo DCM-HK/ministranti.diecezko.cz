@@ -66,17 +66,17 @@ export default function GroupTransport() {
             </FaqBox>
             <FaqBox question={`Jičín`} icon={``}>
               <ContainerParagraph>
-                Ke společné dopravě využijeme vlak, a pokud chceš společně cestovat na Diecézko, zde
+                Ke společné dopravě využijeme vlak, a&nbsp;pokud chceš společně cestovat na Diecézko, zde
                 jsou časy odjezdů:
                 <ul className="list-disc list-inside">
-                  <li>Jičín: odjezd v 7.35 vlakem směr Hradec Králové (budeme v posledním voze)</li>
-                  <li>Hořice: odjezd 8.12 vlakem směr Hradec Králové (budeme v posledním voze)</li>
-                  <li>Nová Paka: odjezd 7.36 vlakem směr Kolín, v Ostroměři přestup na vlak do Hradce  Králové (budeme v posledním voze)</li>
-                  <li>Lázně Bělohrad: odjezd 7.47 vlakem směr Kolín, v Ostroměři přestup na vlak do Hradce  Králové (budeme v posledním voze)</li>
+                  <li>Jičín: odjezd v&nbsp;7.35 vlakem směr Hradec Králové (budeme v&nbsp;posledním voze)</li>
+                  <li>Hořice: odjezd 8.12 vlakem směr Hradec Králové (budeme v&nbsp;posledním voze)</li>
+                  <li>Nová Paka: odjezd 7.36 vlakem směr Kolín, v&nbsp;Ostroměři přestup na vlak do Hradce  Králové (budeme v&nbsp;posledním voze)</li>
+                  <li>Lázně Bělohrad: odjezd 7.47 vlakem směr Kolín, v&nbsp;Ostroměři přestup na vlak do Hradce  Králové (budeme v&nbsp;posledním voze)</li>
                 </ul>
               </ContainerParagraph>
               <ContainerParagraph>
-                Zpět se vydáme společně po mši svaté vlakem v 17.02, který nás odveze domů.
+                Zpět se vydáme společně po mši svaté vlakem v&nbsp;17.02, který nás odveze domů.
               </ContainerParagraph>
             </FaqBox>
             <FaqBox question={`Jilemnice`} icon={``}>
@@ -100,7 +100,7 @@ export default function GroupTransport() {
             </FaqBox>
             <FaqBox question={`Náchod`} icon={``}>
               <ContainerParagraph>
-                Společná cesta v sobotu ráno: 8:03 Odjezd vlaku z Náchoda, 8:10 Odjezd vlaku z Kostelce
+                Společná cesta v&nbsp;sobotu ráno: 8:03 Odjezd vlaku z&nbsp;Náchoda, 8:10 Odjezd vlaku z&nbsp;Kostelce
               </ContainerParagraph>
               <ContainerImageBase
                 pngPath="/assets/images/spolecna-doprava/nachod.png"
@@ -129,8 +129,8 @@ export default function GroupTransport() {
             </FaqBox>
             <FaqBox question={`Trutnov`} icon={``}>
               <ContainerParagraph>
-                Z našeho trutnovského vikariátu na Diecézko pojedeme vlakem z Trutnova v 7:43,
-                ze Rtyně v 8:03 (je to stejný vlak) a ze Dvora Králové v 8:02. Kontaktní osoba:
+                Z&nbsp;našeho trutnovského vikariátu na Diecézko pojedeme vlakem z&nbsp;Trutnova v&nbsp;7:43,
+                ze Rtyně v&nbsp;8:03 (je to stejný vlak) a&nbsp;ze Dvora Králové v&nbsp;8:02. Kontaktní osoba:
                 Prokop Bartoň tel: +420 721 981 837, ig:&nbsp;
                 <Link href="https://www.instagram.com/_proky._.barton_/" target="_blank" rel="external noopener nofollow" className="underline">
                   @_proky._.barton_
@@ -146,7 +146,7 @@ export default function GroupTransport() {
             <FaqBox question={`Ústí nad Orlicí`} icon={``}>
               <ContainerParagraph>
                 Vikariát Ústí nad Orlicí nepořádá společnou dopravu. Společný sraz je pro zájemce
-                v pátek 27. 3. 2026 v 18.00 na Biskupském gymnáziu v Hradci Králové. Pro více info sleduj&nbsp;
+                v&nbsp;pátek 27. 3. 2026 v&nbsp;18.00 na Biskupském gymnáziu v&nbsp;Hradci Králové. Pro více info sleduj&nbsp;
                 <Link
                   href="https://www.instagram.com/vikariat_uo/"
                   target="_blank"
@@ -171,8 +171,8 @@ export default function GroupTransport() {
             </FaqBox>
             <FaqBox question={`Žamberk`} icon={``}>
               <ContainerParagraph>
-                Společný odjezd pro zájemce z žambereckého vikariátu bude v sobotu 28.3. v 7:33
-                vlakem z Letohradu. Těšíme se na vikariátním setkání nebo na Diecézku!&nbsp;
+                Společný odjezd pro zájemce z&nbsp;žambereckého vikariátu bude v&nbsp;sobotu 28.3. v&nbsp;7:33
+                vlakem z&nbsp;Letohradu. Těšíme se na vikariátním setkání nebo na Diecézku!&nbsp;
                 <Link
                   href="https://docs.google.com/forms/d/e/1FAIpQLScsjUTi_KN9X9Z-399Ads99IY7ERx5GRcARQFWDkZGGOoA1hA/viewform?usp=send_form"
                   target="_blank" rel="external noopener nofollow" className="underline">

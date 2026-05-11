@@ -14,8 +14,8 @@ export default async function CKSchola() {
         <Container>
           <ContainerTitle>Červenokostelecká schola </ContainerTitle>
           <ContainerDescription>
-            Jsme parta mladých nadšenců pro Boha z Červeného Kostelce a okolí.
-            Svým hraním a zpěvem chceme sdílet s ostatními dary od Boha a dávat
+            Jsme parta mladých nadšenců pro Boha z&nbsp;Červeného Kostelce a&nbsp;okolí.
+            Svým hraním a&nbsp;zpěvem chceme sdílet s&nbsp;ostatními dary od Boha a&nbsp;dávat
             jimi hudební podobu toho, čemu věříme.
           </ContainerDescription>
           <ContainerImage
@@ -25,8 +25,8 @@ export default async function CKSchola() {
             className="w-full my-2"
           />
           <ContainerParagraph>
-            Schola z Červeného Kostelce nás minulý rok provedla závěrečnou mší 
-            v katedrále. Před dvěma lety doprovázeli chvály v kostele
+            Schola z&nbsp;Červeného Kostelce nás minulý rok provedla závěrečnou mší 
+            v&nbsp;katedrále. Před dvěma lety doprovázeli chvály v&nbsp;kostele
             Panny Marie na Velkém náměstí.
           </ContainerParagraph>
         </Container>

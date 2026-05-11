@@ -234,7 +234,7 @@ export default function Header() {
                 <li className="flex flex-row items-center">
                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   <IconPuzzle className="inline h-7 w-7 my-1 mr-2" />
-                  Vikiátní zástupci a kaplani
+                  Vikiátní zástupci a&nbsp;kaplani
                 </li>
               </Link>
             </ul>
@@ -330,6 +330,7 @@ export default function Header() {
           </Link>
           <Link
             href="/pozvani-biskupa-prokopa"
+            onClick={unlockScrolling}
             target="_self"
             className="border-b-[#3b3b3b] border-b w-full my-4"
           >

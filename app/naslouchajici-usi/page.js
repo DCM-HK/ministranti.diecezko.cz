@@ -30,13 +30,13 @@ export default async function PrednaskyWorhsopy() {
           <ProgramDetail p={program[3]} className={``} />
           <ContainerDescription>
             Během Diecézního setkání mládeže budou přítomny také tzv. naslouchající uši. Jsou to
-            lidé, kteří jsou během dne k dispozici pro osobní rozhovor s účastníky. Pokud bude
-            někdo chtít něco sdílet, na něco se zeptat, poradit se nebo si jen v klidu popovídat,
+            lidé, kteří jsou během dne k&nbsp;dispozici pro osobní rozhovor s&nbsp;účastníky. Pokud bude
+            někdo chtít něco sdílet, na něco se zeptat, poradit se nebo si jen v&nbsp;klidu popovídat,
             může se na ně obrátit.
           </ContainerDescription>
           <ContainerParagraph>
-            Úkolem naslouchajících uší je především naslouchat, být blízko a nabídnout podporu.
-            V případě zájmu se mohou s mladými také pomodlit nebo je nasměrovat na další pomoc.
+            Úkolem naslouchajících uší je především naslouchat, být blízko a&nbsp;nabídnout podporu.
+            V&nbsp;případě zájmu se mohou s&nbsp;mladými také pomodlit nebo je nasměrovat na další pomoc.
           </ContainerParagraph>
           <div>
             {ears.map((w) => {

@@ -13,18 +13,18 @@ export default async function ModlitbaZaMesto() {
         <Container>
           <ContainerTitle>Modlitba za město</ContainerTitle>
           <ContainerDescription>
-            V letošním Jubilejním roce 2025 slaví naše diecézní město Hradec
+            V&nbsp;letošním Jubilejním roce 2025 slaví naše diecézní město Hradec
             Králové 800 let od své první písemné zmínky. Proto jsme se rozhodli
-            do programu zapojit putování na hradecká místa a spojit jej s
-            modlitbou za město, do kterého přineseme světlo naděje z našich
+            do programu zapojit putování na hradecká místa a&nbsp;spojit jej s
+            modlitbou za město, do kterého přineseme světlo naděje z&nbsp;našich
             vikariátů.
           </ContainerDescription>
 
           <ContainerParagraph>
             Nejdříve se shromáždíme před Biskupským gymnáziem, odkud budeme po
-            menších vikariátních skupinkách putovat na vybraná místa v těsném
+            menších vikariátních skupinkách putovat na vybraná místa v&nbsp;těsném
             okolí. Společně strávený čas ve vikariátech můžeme využít tedy nejen
-            k modlitbě, ale i k seznámení se s někým novým či k setkání se
+            k&nbsp;modlitbě, ale i&nbsp;k seznámení se s&nbsp;někým novým či k&nbsp;setkání se
             starými známými.
           </ContainerParagraph>
         </Container>

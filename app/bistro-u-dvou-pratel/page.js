@@ -25,7 +25,7 @@ export default async function BistroUDvouPratel() {
       <Header />
       <PageMain>
         <Container>
-          <ContainerTitle>BISTRO u dvou přátel</ContainerTitle>
+          <ContainerTitle>BISTRO u&nbsp;dvou přátel</ContainerTitle>
           <ProgramDetail p={program[2]} className={``} />
           <ContainerDescription>
             Bagety pro vás připravilo BISTRO u<Nbsp />
@@ -40,7 +40,7 @@ export default async function BistroUDvouPratel() {
           <ContainerParagraph>
             Sociální podnik SKOK do života, o.p.s. provozuje na území Hradce
             Králové a&nbsp;okolí profesionální sociální služby, úklidové služby
-            a&nbsp;bistro. Zaměstnává dospělé lidi s intelektovým znevýhodněním,
+            a&nbsp;bistro. Zaměstnává dospělé lidi s&nbsp;intelektovým znevýhodněním,
             kterým zároveň poskytuje sociální služby. Od tréninku dovedností po
             podporované a&nbsp;chráněné bydlení tak, aby mohli dlouhodobě
             pracovat, bydlet a&nbsp;užívat si života, v&nbsp;místě a&nbsp;městě,
@@ -55,7 +55,7 @@ export default async function BistroUDvouPratel() {
           <ContainerH2>Kontakt</ContainerH2>
           <ContainerUl className={`!list-none !pl-0 mb-6`}>
             <ContainerLi>
-              BISTRO u dvou přátel,
+              BISTRO u&nbsp;dvou přátel,
               <br />
               Pivovarské náměstí,
               <br />

@@ -29,7 +29,7 @@ export default async function PrednaskyWorhsopy() {
           <ContainerTitle>Workshopy</ContainerTitle>
           <ProgramDetail p={program[3]} className={``} />
           <ContainerDescription>
-            V první části odpoledne si můžete vybrat z&nbsp;bohaté nabídky
+            V&nbsp;první části odpoledne si můžete vybrat z&nbsp;bohaté nabídky
             workshopů. Další budou přibývat postupně.
           </ContainerDescription>
           {/* 

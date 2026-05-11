@@ -23,37 +23,37 @@ export default async function Pehuma() {
         <Container>
           <ContainerTitle>Sekce pro mládež ČBK</ContainerTitle>
           <ContainerDescription>
-            Sekce pro mládež je tým, který v rámci&nbsp;
+            Sekce pro mládež je tým, který v&nbsp;rámci&nbsp;
             <Link href="https://cbk.cirkev.cz" target="_blank" rel="external noopener nofollow" className="underline">
               České biskupské konference
-            </Link> koordinuje pastoraci mládeže v celé České republice. Vznikla v roce 1990,
-            aby propojovala práci s mladými lidmi v jednotlivých diecézích a od začátku podporuje
+            </Link> koordinuje pastoraci mládeže v&nbsp;celé České republice. Vznikla v&nbsp;roce 1990,
+            aby propojovala práci s&nbsp;mladými lidmi v&nbsp;jednotlivých diecézích a&nbsp;od začátku podporuje
             jejich zapojení do života církve. 
           </ContainerDescription>
           <ContainerParagraph>
-            Sekci tvoří delegát biskupů pro mládež, ředitel se svým týmem a zástupci jednotlivých
+            Sekci tvoří delegát biskupů pro mládež, ředitel se svým týmem a&nbsp;zástupci jednotlivých
             diecézí – především pracovníci diecézních center pro mládež (
             <Link href="/dcm-hradec-kralove" target="_self" className="underline">
               DCM
             </Link>
-            ) a diecézních center života mládeže (
+            ) a&nbsp;diecézních center života mládeže (
             <Link href="/dczm-vesmir" target="_self" className="underline">
               DCŽM
             </Link>
-              ). Do služby jsou zapojeni také další spolupracovníci a mladí lidé z jednotlivých
+              ). Do služby jsou zapojeni také další spolupracovníci a&nbsp;mladí lidé z&nbsp;jednotlivých
               diecézí. Sekce pro mládež koordinuje spolupráci mezi diecézemi, organizuje celostátní
-              akce pro mladé, například Celostátní setkání mládeže, a podílí se na přípravě
+              akce pro mladé, například Celostátní setkání mládeže, a&nbsp;podílí se na přípravě
               Světových dnů mládeže. Jejím cílem je podporovat růst mladých lidí ve víře, pomáhat
-              jim nacházet své místo v církvi a vytvářet prostor pro jejich zapojení do života
+              jim nacházet své místo v&nbsp;církvi a&nbsp;vytvářet prostor pro jejich zapojení do života
               církve.
           </ContainerParagraph>
           <ContainerParagraph>
-            Sekce pro mládež organizuje a podporuje celostátní akce pro mladé, například&nbsp;
+            Sekce pro mládež organizuje a&nbsp;podporuje celostátní akce pro mladé, například&nbsp;
             <Link href="https://celostatnisetkanimladeze.cz/" target="_blank" rel="external noopener nofollow" className="underline">
               Celostátní setkání mládeže
             </Link>
-            , setkání animátorů nebo přípravu Světových dnů mládeže, a zároveň propojuje práci
-            s mládeží mezi jednotlivými diecézemi.
+            , setkání animátorů nebo přípravu Světových dnů mládeže, a&nbsp;zároveň propojuje práci
+            s&nbsp;mládeží mezi jednotlivými diecézemi.
           </ContainerParagraph>
           <ContainerParagraph>
             <div className="flex flex-col sm:grid sm:grid-cols-2 md:grid-cols-3 grid-flow-row gap-4 items-center my-6">

@@ -27,13 +27,13 @@ export default async function VeKa() {
           <ContainerTitle>Vesmírná kapela</ContainerTitle>
           <ContainerDescription>
             Jsme společenství mladých křesťanů pocházejících převážně z
-            královéhradecké diecéze. Svou víru a radost ze života chceme
+            královéhradecké diecéze. Svou víru a&nbsp;radost ze života chceme
             předávat pomocí hudby. Pořádáme koncerty, doprovázíme mše svaté a
             různá setkání mládeže. Naším domovem je{" "}
             <Link href="/dczm-vesmir" className="underline">
               DCŽM Vesmír
             </Link>{" "}
-            v Deštném v Orlických horách.
+            v&nbsp;Deštném v&nbsp;Orlických horách.
           </ContainerDescription>
           <ContainerImage
             jpgPath="/assets/images/spolecenstvi/veka_uvodka.jpg"
@@ -42,12 +42,12 @@ export default async function VeKa() {
             className="w-full my-2"
           />
           <ContainerParagraph>
-            VeKa vznikla v roce 2000 a navazuje na tradici diecézních kapel. Od
+            VeKa vznikla v&nbsp;roce 2000 a&nbsp;navazuje na tradici diecézních kapel. Od
             té doby kapelou prošly přes dvě stovky členů tvořících několik
             generací, které dohromady vydaly 7 alb. To nejnovější
             se&nbsp;jmenuje <strong>Buď vůle Tvá.</strong> Natočili jsme
-            tři videoklipy, doprovodili pět Diecézních setkání mládeže a nespočet
-            mší v různých farnostech. Letos se Vám představíme ve&nbsp;zbrusu
+            tři videoklipy, doprovodili pět Diecézních setkání mládeže a&nbsp;nespočet
+            mší v&nbsp;různých farnostech. Letos se Vám představíme ve&nbsp;zbrusu
             nové sestavě jako 6. generace VeKy.
           </ContainerParagraph>
           <ContainerParagraph>

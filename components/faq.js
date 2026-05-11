@@ -89,7 +89,7 @@ export default function FAQ() {
         <br />
         <ContainerUl>
           <ContainerLi>
-            Zastávka A – 16 <br />
+            Zastávka A&nbsp;– 16 <br />
           </ContainerLi>
           <ContainerLi>
             Zastávka C – 2, 6, 15, 17 <br />
@@ -101,7 +101,7 @@ export default function FAQ() {
         <br />
         <ContainerUl>
           <ContainerLi>
-            Zastávka A – 16 <br />
+            Zastávka A&nbsp;– 16 <br />
           </ContainerLi>
           <ContainerLi>
             Zastávka C – 2 <br />
@@ -177,8 +177,8 @@ export default function FAQ() {
             </strong>
             <br />
             Organizátor, zdravotník či odpovědná osoba jsou připraveni pomoci.
-            Neváhej je oslovit. V&nbsp;případě neakutních potíží požádej o pomoc
-            někoho z organizátorů.
+            Neváhej je oslovit. V&nbsp;případě neakutních potíží požádej o&nbsp;pomoc
+            někoho z&nbsp;organizátorů.
           </ContainerLi>
           <ContainerLi className={`my-4`}>
             <strong>

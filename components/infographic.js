@@ -24,12 +24,12 @@ export default function Infographic() {
           <ContainerH3 className="">Společenství</ContainerH3>
           <ContainerParagraph className="">
             To nejdůležitější, co na setkání společně zažijeme, je společenství
-            věřících vrstevníků ministrantů kluků i holek. Úžasný a&nbsp;rozhodně nezapomenutelný zážitek!
+            věřících vrstevníků ministrantů kluků i&nbsp;holek. Úžasný a&nbsp;rozhodně nezapomenutelný zážitek!
           </ContainerParagraph>
         </div>
         <div className="border-[#444] border rounded-xl p-4 sm:p-6 transition h-full backdrop-blur-md hover:scale-105">
           <IconCross size={50} className="inline w-full mt-4" />
-          <ContainerH3 className="">Mše svatá s našimi biskupy</ContainerH3>
+          <ContainerH3 className="">Mše svatá s&nbsp;našimi biskupy</ContainerH3>
           <ContainerParagraph className="">
             Setkání zakončíme mší svatou s&nbsp;našimi biskupy Janem
             a&nbsp;Prokopem v&nbsp;katedrále Svatého Ducha.
@@ -42,17 +42,17 @@ export default function Infographic() {
             Chystáme pro vás program, zveme zajímavé
             hosty na odpolední workshopy a&nbsp;připravujeme
             duchovní zážitek ze mše svaté, kterou odstartujeme
-            společným průvodem a všichni se mše zúčastníme v ministrantském oblečení.
+            společným průvodem a&nbsp;všichni se mše zúčastníme v&nbsp;ministrantském oblečení.
           </ContainerParagraph>
         </div>
         <div className="border-[#444] border rounded-xl p-4 sm:p-6 transition h-full backdrop-blur-md hover:scale-105">
           <IconZoomCheck size={50} className="inline w-full mt-4" />
           <ContainerH3 className="">Hledáme formátory</ContainerH3>
           <ContainerParagraph className="">
-            Každá zákristie, má kromě ministrantského oblečení a spousty dalších pokladů také
-            řadu zajímavých a sympatických lidí. A mezi nimi možná právě nyní vyrůstá, dozrává
-            nebo už dávno funguje generace formátorů. Rádi bychom je objevili, oslovili a spolu
-            s nimi pracovali na dalším rozvíjení ministrantské služby v našich farnostech.
+            Každá zákristie, má kromě ministrantského oblečení a&nbsp;spousty dalších pokladů také
+            řadu zajímavých a&nbsp;sympatických lidí. A&nbsp;mezi nimi možná právě nyní vyrůstá, dozrává
+            nebo už dávno funguje generace formátorů. Rádi bychom je objevili, oslovili a&nbsp;spolu
+            s&nbsp;nimi pracovali na dalším rozvíjení ministrantské služby v&nbsp;našich farnostech.
             Kdo je to{" "}
             <Link href="/formator" className="text-blue-500 hover:underline">
               formátor

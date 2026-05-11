@@ -30,10 +30,10 @@ export default function GroupTransport() {
           <FaqLayout>
             <FaqBox question={`Hradec Králové`} icon={``}>
               <ContainerParagraph>
-                V pátek 27. 3. se v našem vikariátu uskuteční před-diecézní setkání mládeže jako
-                příležitost společně se naladit na blížící se diecézní setkání. Začne v 15:30 ve
-                farní místnosti v Novém Adalbertinu. Program nabídne hry, krátké témátko, modlitbu
-                i prostor pro setkání a sdílení. Na závěr se zapojíme do přípravy křížové cesty na
+                V&nbsp;pátek 27. 3. se v&nbsp;našem vikariátu uskuteční před-diecézní setkání mládeže jako
+                příležitost společně se naladit na blížící se diecézní setkání. Začne v&nbsp;15:30 ve
+                farní místnosti v&nbsp;Novém Adalbertinu. Program nabídne hry, krátké témátko, modlitbu
+                i&nbsp;prostor pro setkání a&nbsp;sdílení. Na závěr se zapojíme do přípravy křížové cesty na
                 Novém Hradci Králové, kam se společně přesuneme MHD.
               </ContainerParagraph>
               <ContainerParagraph>
@@ -64,8 +64,8 @@ export default function GroupTransport() {
             </FaqBox>
             <FaqBox question={`Ústí nad Orlicí`} icon={``}>
               <ContainerParagraph>
-                Přijeď už dřív a poznej lépe mládež z tvého vikariátu! Večeři si&nbsp;každý
-                zajistí sám ale snídaně bude připravena pro&nbsp;všechny, a proto
+                Přijeď už dřív a&nbsp;poznej lépe mládež z&nbsp;tvého vikariátu! Večeři si&nbsp;každý
+                zajistí sám ale snídaně bude připravena pro&nbsp;všechny, a&nbsp;proto
                 se&nbsp;prosím přihlaš, abychom věděli kolik nás bude! Můžeš se&nbsp;těšit
                 na&nbsp;hry, kahoot a&nbsp;večerní hradec.<br />Pro více info sleduj&nbsp;
                 <Link
@@ -92,8 +92,8 @@ export default function GroupTransport() {
             </FaqBox>
             <FaqBox question={`Žamberk`} icon={``}>
               <ContainerParagraph>
-                Společný odjezd pro zájemce z žambereckého vikariátu bude v sobotu 28.3. v 7:33
-                vlakem z Letohradu. Těšíme se na vikariátním setkání nebo na Diecézku!&nbsp;
+                Společný odjezd pro zájemce z&nbsp;žambereckého vikariátu bude v&nbsp;sobotu 28.3. v&nbsp;7:33
+                vlakem z&nbsp;Letohradu. Těšíme se na vikariátním setkání nebo na Diecézku!&nbsp;
                 <Link
                   href="https://docs.google.com/forms/d/e/1FAIpQLScsjUTi_KN9X9Z-399Ads99IY7ERx5GRcARQFWDkZGGOoA1hA/viewform?usp=send_form"
                   target="_blank" rel="external noopener nofollow" className="underline">
