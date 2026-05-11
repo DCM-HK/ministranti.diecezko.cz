@@ -16,7 +16,7 @@ import {
   IconX,
 } from "@tabler/icons";
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import IconCustomSalas from "./images/salas";
 import IconCustomVesmir from "./images/vesmir";
 import IconCustomDCM from "./images/dcm-hk";
@@ -45,6 +45,10 @@ export default function Header() {
   function unlockScrolling() {
     document.getElementById("body").classList.remove("lock-scrolling");
   }
+
+  useEffect(() => {
+    return () => unlockScrolling();
+  }, []);
 
   const openMenu = () => {
     setBurgerControl("hidden");
@@ -328,9 +332,8 @@ export default function Header() {
               Partneři
             </li>
           </Link>
-          {/*}
           <Link
-            href="/pozvani-biskupa-jana"
+            href="/pozvani-biskupa-prokopa"
             onClick={unlockScrolling}
             target="_self"
             className="border-b-[#3b3b3b] border-b w-full my-4"
@@ -340,10 +343,9 @@ export default function Header() {
                 stroke={1.5}
                 className="inline h-7 w-7 my-1 mr-2"
               />
-              Pozvání biskupa Jana
+              Pozvání biskupa Prokopa
             </li>
           </Link>
-          */}
         </ul>
       </nav>
     </>

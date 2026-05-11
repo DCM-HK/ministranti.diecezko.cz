@@ -1,93 +1,68 @@
 export default function sitemap() {
   return [
     {
-      url: "https://diecezko.cz/",
+      url: "https://ministranti.diecezko.cz/",
       lastModified: new Date(),
       changeFrequency: "yearly",
       priority: 1,
     },
     {
-      url: "https://diecezko.cz/vikariaty",
+      url: "https://ministranti.diecezko.cz/vikariaty",
       lastModified: new Date(),
       changeFrequency: "yearly",
     },
     {
-      url: "https://diecezko.cz/dcm-hradec-kralove",
+      url: "https://ministranti.diecezko.cz/dcm-hradec-kralove",
       lastModified: new Date(),
       changeFrequency: "yearly",
     },
     {
-      url: "https://diecezko.cz/dczm-vesmir",
+      url: "https://ministranti.diecezko.cz/dczm-vesmir",
       lastModified: new Date(),
       changeFrequency: "yearly",
     },
     {
-      url: "https://diecezko.cz/kak-salas",
+      url: "https://ministranti.diecezko.cz/kak-salas",
       lastModified: new Date(),
       changeFrequency: "yearly",
     },
     {
-      url: "https://diecezko.cz/veka",
+      url: "https://ministranti.diecezko.cz/partneri",
       lastModified: new Date(),
       changeFrequency: "yearly",
     },
     {
-      url: "https://diecezko.cz/partneri",
+      url: "https://ministranti.diecezko.cz/bistro-u-dvou-pratel",
       lastModified: new Date(),
       changeFrequency: "yearly",
     },
     {
-      url: "https://diecezko.cz/bistro-u-dvou-pratel",
+      url: "https://ministranti.diecezko.cz/jadro",
       lastModified: new Date(),
       changeFrequency: "yearly",
     },
     {
-      url: "https://diecezko.cz/jadro-diecezka",
+      url: "https://ministranti.diecezko.cz/mapa",
       lastModified: new Date(),
       changeFrequency: "yearly",
     },
     {
-      url: "https://diecezko.cz/mapa",
+      url: "https://ministranti.diecezko.cz/pozvani-biskupa-prokopa",
       lastModified: new Date(),
       changeFrequency: "yearly",
     },
     {
-      url: "https://diecezko.cz/pozvani-biskupa-jana",
+      url: "https://ministranti.diecezko.cz/prednasky-workshopy",
       lastModified: new Date(),
       changeFrequency: "yearly",
     },
     {
-      url: "https://diecezko.cz/prednasky-workshopy",
+      url: "https://ministranti.diecezko.cz/galerie",
       lastModified: new Date(),
       changeFrequency: "yearly",
     },
     {
-      url: "https://diecezko.cz/spolecna-doprava",
-      lastModified: new Date(),
-      changeFrequency: "yearly",
-    },
-    {
-      url: "https://diecezko.cz/cervenokostelecka-schola",
-      lastModified: new Date(),
-      changeFrequency: "yearly",
-    },
-    {
-      url: "https://diecezko.cz/galerie",
-      lastModified: new Date(),
-      changeFrequency: "yearly",
-    },
-    {
-      url: "https://diecezko.cz/instalace",
-      lastModified: new Date(),
-      changeFrequency: "yearly",
-    },
-    {
-      url: "https://diecezko.cz/preddiecezka",
-      lastModified: new Date(),
-      changeFrequency: "yearly",
-    },
-    {
-      url: "https://diecezko.cz/modlitba-za-mesto",
+      url: "https://ministranti.diecezko.cz/instalace",
       lastModified: new Date(),
       changeFrequency: "yearly",
     },
