@@ -16,7 +16,7 @@ import {
   IconX,
 } from "@tabler/icons";
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import IconCustomSalas from "./images/salas";
 import IconCustomVesmir from "./images/vesmir";
 import IconCustomDCM from "./images/dcm-hk";
@@ -45,6 +45,10 @@ export default function Header() {
   function unlockScrolling() {
     document.getElementById("body").classList.remove("lock-scrolling");
   }
+
+  useEffect(() => {
+    return () => unlockScrolling();
+  }, []);
 
   const openMenu = () => {
     setBurgerControl("hidden");
@@ -330,6 +334,7 @@ export default function Header() {
           </Link>
           <Link
             href="/pozvani-biskupa-prokopa"
+            onClick={unlockScrolling}
             target="_self"
             className="border-b-[#3b3b3b] border-b w-full my-4"
           >
