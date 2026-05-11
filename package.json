@@ -7,9 +7,16 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "typography:check": "node scripts/fix-czech-typography.mjs --check",
+    "typography:fix": "node scripts/fix-czech-typography.mjs --write",
+    "typography:validate": "node scripts/fix-czech-typography.mjs --validate",
     "img2webp": "node image-optimalizer.js",
     "ios-screen": "yarn pwa-asset-generator ./public/assets/logo/logo-blue.svg public/assets/startup",
     "ical": "node ical-generator.js"
+  },
+  "devDependencies": {
+    "@babel/parser": "^7.23.4",
+    "fast-glob": "^3.3.1"
   },
   "dependencies": {
     "@ducanh2912/next-pwa": "^9.7.2",
