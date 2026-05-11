@@ -263,4 +263,15 @@ const workshops = [
       jpgPath: "/assets/images/speakers/pechacek.jpg",
     },
   },
+  {
+    title: "Kresba a Malování",
+    type: "workshop",
+    about: `František Zloch - kněz, v současné době kaplan v Hlinsku a ve Svratce a také kaplan pro mládež chrudimského vikariátu. Než nastoupil do kněžského semináře vystudoval Střední umělecko-průmyslovou školu hudebních nástrojů a nábytku v Hradci Králové. V té době se také začal systematicky věnovat kresbě a malování, čemuž se ve volných chvílích amatérsky věnuje stále - zvláště krajinomalbě.`,
+    descritpion:
+      "Vyváření umění v nějaké míře účast na Božím stvořitelském díle. Během tohoto workshopu bude možné jednak prohlédnout výsledky některých technik, a zároveň bude možnost zkusit si techniku akvarelu nebo kresbu olejovým pastelem (podle počasí buď krajinu nebo zátiší).",
+    speaker: {
+      name: "František Zloch",
+      jpgPath: "/assets/images/speakers/zloch.jpg",
+    },
+  },
 ];
