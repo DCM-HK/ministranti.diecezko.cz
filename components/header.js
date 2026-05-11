@@ -16,7 +16,7 @@ import {
   IconX,
 } from "@tabler/icons";
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import IconCustomSalas from "./images/salas";
 import IconCustomVesmir from "./images/vesmir";
 import IconCustomDCM from "./images/dcm-hk";
@@ -45,6 +45,10 @@ export default function Header() {
   function unlockScrolling() {
     document.getElementById("body").classList.remove("lock-scrolling");
   }
+
+  useEffect(() => {
+    return () => unlockScrolling();
+  }, []);
 
   const openMenu = () => {
     setBurgerControl("hidden");
