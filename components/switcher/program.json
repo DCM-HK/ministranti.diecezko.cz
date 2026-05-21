@@ -58,23 +58,39 @@
       }
    },
    {
-      "name": "Workshopy",
+      "name": "První blok workshopů",
       "time": "12:45",
       "id": 4,
-      "duration": 90,
-      "description": "Odpoledne si můžete vybrat z nabídky několika workshopů. Info o nich bude postupně přibývat.",
+      "duration": 60,
+      "description": "V prvním bloku workshopů mají ministranti starší 13 let na výběr ze vzdělávacích workshopů, mladší ministranti čekají hry a sporty.",
       "link": {
          "href": "/prednasky-workshopy"
       },
       "icons": [
          "person",
-         "workshop"
+         "workshop",
+         "sport"
       ]
    },
    {
-      "name": "Mše svatá",
-      "time": "15:00",
+      "name": "Druhý blok workshopů",
+      "time": "13:45",
       "id": 5,
+      "duration": 60,
+      "description": "V druhém bloku workshopů se skupiny vymění. Starší ministranty čekají hry a&nbsp;sporty, mladší ministranti se mohou těšit na vzdělávací workshopy.",
+      "link": {
+         "href": "/prednasky-workshopy"
+      },
+      "icons": [
+         "person",
+         "workshop",
+         "sport"
+      ]
+   },
+   {
+      "name": "Mše svatá v katedrále",
+      "time": "15:00",
+      "id": 6,
       "duration": 60,
       "description": "Celý den zakončíme mší svatou s&nbsp;biskupy Janem a&nbsp;Prokopem v&nbsp;katedrále Svatého Ducha.",
       "icons": [
