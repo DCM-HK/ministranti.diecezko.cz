@@ -34,12 +34,12 @@ export default async function PrednaskyWorhsopy() {
           </ContainerDescription>
           <ProgramDetail p={program[3]} className={``} />
           <ContainerParagraph>
-            V prvním bloku workshopů mají ministranti starší 13 let na výběr ze vzdělávacích
-            workshopů, mladší ministranti čekají hry a sporty.
+            V&nbsp;prvním bloku workshopů mají ministranti starší 13 let na výběr ze vzdělávacích
+            workshopů, mladší ministranti čekají hry a&nbsp;sporty.
           </ContainerParagraph>
           <ProgramDetail p={program[4]} className={``} />
           <ContainerParagraph>
-            V druhém bloku workshopů se skupiny vymění. Starší ministranty čekají hry a&nbsp;sporty,
+            V&nbsp;druhém bloku workshopů se skupiny vymění. Starší ministranty čekají hry a&nbsp;sporty,
             mladší ministranti se mohou těšit na vzdělávací workshopy.
           </ContainerParagraph>
           <div className="flex flex-row items-center justify-center flex-wrap">
