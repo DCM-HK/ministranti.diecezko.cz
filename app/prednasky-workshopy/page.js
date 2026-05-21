@@ -20,6 +20,7 @@ import {
 import ParmIcon from "../../components/layouts/parm-icon";
 import Button from "../../components/layouts/button";
 import IconCustomBrandX from "../../components/images/brand-x";
+import ContainerParagraph from "../../components/layouts/container-paragraph";
 export default async function PrednaskyWorhsopy() {
   return (
     <main className="ease-in-out duration-300 font-titilliumWeb">
@@ -27,18 +28,25 @@ export default async function PrednaskyWorhsopy() {
       <PageMain>
         <Container>
           <ContainerTitle>Workshopy</ContainerTitle>
-          <ProgramDetail p={program[3]} className={``} />
           <ContainerDescription>
-            V první části odpoledne si můžete vybrat z&nbsp;bohaté nabídky
-            workshopů. Další budou přibývat postupně.
+            Rozdělení na jednotlivé workshopy proběhne po skončního dopoledního programu pomocí kartiček, které budou mít barvu podle věkové kategorie.
           </ContainerDescription>
-          {/* 
+          <ProgramDetail p={program[3]} className={``} />
+          <ContainerParagraph>
+            V prvním bloku workshopů mají ministranti starší 13 let na výběr ze vzdělávacích workshopů, mladší ministranti čekají hry a sporty.
+          </ContainerParagraph>
+          <ProgramDetail p={program[4]} className={``} />
+          <ContainerParagraph>
+            V druhém bloku workshopů se skupiny vymění. Starší ministranty čekají hry a&nbsp;sporty, mladší ministranti se mohou těšit na vzdělávací workshopy.
+          </ContainerParagraph>
           <div className="flex flex-row items-center justify-center flex-wrap">
+            {/*
             <Link href={`#prednaska-start`}>
               <Button className={``}>
                 <ParmIcon iconName={`person`} /> Přednášky
               </Button>
             </Link>
+            */}
             <Link href={`#workshop-start`}>
               <Button>
                 <ParmIcon iconName={`workshop`} /> Workshopy
@@ -50,7 +58,6 @@ export default async function PrednaskyWorhsopy() {
               </Button>
             </Link>
           </div>
-          */}
           <div>
             {workshops.map((w) => {
               return (
@@ -242,8 +249,9 @@ const workshops = [
   //   place: "aula",
   // },
   {
-    title: "Liturgický oděv a jeho výroba",
+    title: "Liturgický oděv a jeho výroba (starší i mladší)",
     type: "workshop",
+    id: "workshop-start",
     about: `Michal Šramko - kněz, v současnosti kaplan ve farnosti Kutná Hora, zároveň spirituál Církevního gymnázia v Kutné Hoře a kaplan pro mládež ve vikariátu. Vystudoval konzervatoř a Vysokou školu muzických umění v Bratislavě v oboru hra na trubku. Poté vstoupil do kněžského semináře a vystudoval teologickou fakultu v Bratislavě. Studia ukončil v roce 2021 a byl vysvěcen na kněze. Od roku 2015 se věnuje výrobě liturgických oděvů a parament pro kněze.`,
     descritpion:
       "Představení autorské práce, ukázka vyrobených liturgických oděvů",
@@ -253,7 +261,7 @@ const workshops = [
     },
   },
   {
-    title: "Žít jako andělé",
+    title: "Žít jako andělé (starší i mladší)",
     type: "workshop",
     about: `Jsem kaplan pro mládež ve vikariátu Náchod. Stal jsem se knězem díky tomu, že mě povolal Pán Ježíš v eucharistii a přijmout moje povolání mí pomohla služba u oltáře. Záleží mi na tom, aby liturgie měla vznešenou jednoduchost, která otevírá naše srdce Bohu. Mám radost, když se nám s ministranty daří sloužit tak, aby to lidem pomohlo si uvědomit, kdo je mezi námi.`,
     descritpion:
@@ -264,7 +272,7 @@ const workshops = [
     },
   },
   {
-    title: "Kresba a Malování",
+    title: "Kresba a Malování (starší i mladší)",
     type: "workshop",
     about: `František Zloch - kněz, v současné době kaplan v Hlinsku a ve Svratce a také kaplan pro mládež chrudimského vikariátu. Než nastoupil do kněžského semináře vystudoval Střední umělecko-průmyslovou školu hudebních nástrojů a nábytku v Hradci Králové. V té době se také začal systematicky věnovat kresbě a malování, čemuž se ve volných chvílích amatérsky věnuje stále - zvláště krajinomalbě.`,
     descritpion:
@@ -272,6 +280,106 @@ const workshops = [
     speaker: {
       name: "František Zloch",
       jpgPath: "/assets/images/speakers/zloch.jpg",
+    },
+  },
+  {
+    title: "Liturgické prádlo a jeho historie (starší i mladší)",
+    type: "workshop",
+    about: `PhDr. Radek Martinek, Ph.D. je římskokatolický kněz působící v královéhradecké diecézi. Kromě katolické teologie též vystudoval dějiny umění, jimž se i nadále věnuje.`,
+    descritpion:
+      "Zajímá tě historie a současnost liturgického prádla? Co je to alba, ornát, štola a jakou mají symboliku? Přijď se dozvědět více od předního odborníka na tuto tématiku.",
+    speaker: {
+      name: "Radek Martínek",
+      jpgPath: "/assets/images/speakers/martinek.jpg",
+    },
+  },
+  {
+    title: "Služba vojenského kaplana (starší i mladší)",
+    type: "workshop",
+    about: `Vyučil se v oboru tesař, kovář a maturoval na SOU stavebním v Hradci Králové. Po maturitě studoval humanitní vědy zaměřené na pedagogiku a psychologii promoval v roce 1999 po té absolvoval ucelený výcvik Rogersovské psychterapie a supervizní výcvik. Od roku 2000 pracoval jako psycholog ve věznici v Pardubicích. Od roku 2005 vyučoval psychologii na Univerzitě Pardubice. V roce 2011 nastoupil do jáhenské formace a zahájil teologická studia a roku 2014 přijal jáhenské svěcení. Od roku 2000 je ženatý a má tři děti.`,
+    descritpion:
+      "Povídání o tom co vše obnáší služba vojenského kaplana",
+    speaker: {
+      name: "Milan Novotný",
+      jpgPath: "/assets/images/speakers/novotny.jpg",
+    },
+  },
+  {
+    title: "Zákulisí papežské liturgie (starší)",
+    type: "workshop",
+    about: `Kněz pražské arcidiecéze, autor Liturgie.cz, bývalý ceremoniář papežů Benedikta XVI. a Františka.`,
+    descritpion:
+      "Papežské bohoslužby pro několik tisíc lidí vyžadují velkou přípravu, mnoho služebníků a dobrou koordinaci. V přednášce si povíme, jak to na papežských mších funguje v zákulisí a co z toho může být inspirativní i pro naše bohoslužby v běžných farnostech.",
+    speaker: {
+      name: "Radek Tichý",
+      jpgPath: "/assets/images/speakers/tichy.jpg",
+    },
+  },
+  {
+    title: "Jak rozpoznat Boží povolání (mladší)",
+    type: "workshop",
+    about: `Kněz pražské arcidiecéze, autor Liturgie.cz, bývalý ceremoniář papežů Benedikta XVI. a Františka.`,
+    descritpion:
+      "Možná každého kluka, který bere víru vážně, napadlo, zda by neměl být také knězem. V přednášce budeme hledat odpověď na otázky, Jak poznat, jestli je tato myšlenka od Boha, nebo ne? Co to znamená, že nás Bůh volá? Co se vyžaduje po těch, kdo by chtěli být kněžími? Je lepší být v klášteře nebo v manželství?",
+    speaker: {
+      name: "Radek Tichý",
+      jpgPath: "/assets/images/speakers/tichy.jpg",
+    },
+  },
+  {
+    title: "Příprava na ministrování při společní mši svaté (pouze druhý blok)",
+    type: "workshop",
+    about: `Josi je část týmu DCM, který se stará o mládež v Diecézi`,
+    descritpion:
+      "Všichni budeme na závěrečné mši svaté v ministrantském, ale jen někteří z nás budou v presbytáři. Ti si projdou nácvik s Josi",
+    speaker: {
+      name: "Josi Pazderová",
+      jpgPath: "/assets/images/speakers/pazderova.jpg",
+    },
+  },
+  {
+    title: "Dreamgame",
+    type: "sport",
+    id: "sport-start",
+    about: `Vesmírný tým je skupinka lidí, kteří věnují svůj čas pro druhé tím, že vytvářejí zázemí na DCŽM Vesmír.`,
+    descritpion:
+      "Mezi všemi hrami legenda Vesmíru. Souhra, přesnost přihrávek a taktika, to vše využijete při této originální hře.",
+    speaker: {
+      name: "Vesmírný tým",
+      jpgPath: "/assets/images/speakers/vesmirny_tym.jpg",
+    },
+  },
+  {
+    title: "Frisbee",
+    type: "sport",
+    about: `Vesmírný tým je skupinka lidí, kteří věnují svůj čas pro druhé tím, že vytvářejí zázemí na DCŽM Vesmír.`,
+    descritpion:
+      "Hru frisbee asi není třeba představovat.",
+    speaker: {
+      name: "Vesmírný tým",
+      jpgPath: "/assets/images/speakers/vesmirny_tym.jpg",
+    },
+  },
+  {
+    title: "Šátkovaná",
+    type: "sport",
+    about: `Vesmírný tým je skupinka lidí, kteří věnují svůj čas pro druhé tím, že vytvářejí zázemí na DCŽM Vesmír.`,
+    descritpion:
+      "Dokážete sebrat šátek druhému družstvu? Bez spolupráce to nepůjde.",
+    speaker: {
+      name: "Vesmírný tým",
+      jpgPath: "/assets/images/speakers/vesmirny_tym.jpg",
+    },
+  },
+  {
+    title: "Fotbal",
+    type: "sport",
+    about: `Kluci z různých koutů – od Krkonoš, z Polabí a od Svatého Hostýna –, leč toho času bytem v Thákurově 3 na Praze 6. Disponujeme věkovým průměrem zhruba 34 let a velmi různými zkušenostmi, ale jedno máme společné: jsme bohoslovci za královéhradeckou diecézi.`,
+    descritpion:
+      "Existují ministranti bez fotbalu? To sotva.",
+    speaker: {
+      name: "bohoslovci",
+      jpgPath: "/assets/images/speakers/bohoslovci.jpg",
     },
   },
 ];
