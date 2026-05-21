@@ -29,15 +29,18 @@ export default async function PrednaskyWorhsopy() {
         <Container>
           <ContainerTitle>Workshopy</ContainerTitle>
           <ContainerDescription>
-            Rozdělení na jednotlivé workshopy proběhne po skončního dopoledního programu pomocí kartiček, které budou mít barvu podle věkové kategorie.
+            Rozdělení na jednotlivé workshopy proběhne po skončního dopoledního programu pomocí
+            kartiček, které budou mít barvu podle věkové kategorie.
           </ContainerDescription>
           <ProgramDetail p={program[3]} className={``} />
           <ContainerParagraph>
-            V prvním bloku workshopů mají ministranti starší 13 let na výběr ze vzdělávacích workshopů, mladší ministranti čekají hry a sporty.
+            V prvním bloku workshopů mají ministranti starší 13 let na výběr ze vzdělávacích
+            workshopů, mladší ministranti čekají hry a sporty.
           </ContainerParagraph>
           <ProgramDetail p={program[4]} className={``} />
           <ContainerParagraph>
-            V druhém bloku workshopů se skupiny vymění. Starší ministranty čekají hry a&nbsp;sporty, mladší ministranti se mohou těšit na vzdělávací workshopy.
+            V druhém bloku workshopů se skupiny vymění. Starší ministranty čekají hry a&nbsp;sporty,
+            mladší ministranti se mohou těšit na vzdělávací workshopy.
           </ContainerParagraph>
           <div className="flex flex-row items-center justify-center flex-wrap">
             {/*
