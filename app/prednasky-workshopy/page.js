@@ -90,10 +90,25 @@ export default async function PrednaskyWorhsopy() {
                     ) : null}
                   </div>
                   <div className="flex flex-col items-start justify-center w-full sm:w-[450px]">
-                    <h2
-                      dangerouslySetInnerHTML={{ __html: w.title }}
-                      className="text-xl font-semibold w-full"
-                    />
+                    <div className="flex w-full items-center gap-1">
+                      {w.times && w.times.length > 0 && (
+                        <div className="flex shrink-0 items-center">
+                          {w.times.map((time) => (
+                            <div key={time} className="inline-block">
+                              <ParmIcon
+                                iconName={`number${time}`}
+                                className={`inline`}
+                                size={25}
+                              />
+                            </div>
+                          ))}
+                        </div>
+                      )}
+                      <h2
+                        dangerouslySetInnerHTML={{ __html: w.title }}
+                        className="text-xl font-semibold w-full"
+                      />
+                    </div>
                     <span className="tracking-widest mt-1 font-semibold flex flex-row items-center justify-start">
                       <ParmIcon
                         iconName={w.type}
@@ -115,13 +130,15 @@ export default async function PrednaskyWorhsopy() {
                         href={
                           w.place.includes("Orlovna")
                             ? `/mapa?x=${50.2069553}&y=${15.8349681}` // Orlovna
-                            : w.place.includes("Nové Adalbertinum")
-                            ? `/mapa?x=${50.2090269}&y=${15.8334453}` // Nove Adalbertinum
                             : w.place.includes("Biskupská rezidence")
                             ? `/mapa?x=${50.208725}&y=${15.8323194}` // Biskupská rezidence
                             : w.place.includes("Katedrála")
                             ? `/mapa?x=${50.2087878}&y=${15.8310917}` // Katedrála
-                            : `/mapa?x=${50.2062919}&y=${15.8337133}` // BiGy
+                            : w.place.includes("BiGy")
+                            ? `/mapa?x=${50.2062919}&y=${15.8337133}` // BiGy
+                            : w.place.includes("Nové Adalbertinum")
+                            ? `/mapa?x=${50.2090269}&y=${15.8334453}` // Nove Adalbertinum
+                            : `/mapa?x=${50.2090269}&y=${15.8334453}` // Nove Adalbertinum
                         }
                         target="_self"
                         className="underline"
@@ -252,75 +269,9 @@ const workshops = [
   //   place: "aula",
   // },
   {
-    title: "Liturgický oděv a jeho výroba (starší i mladší)",
+    title: "Jak rozpoznat Boží povolání",
     type: "workshop",
     id: "workshop-start",
-    about: `Michal Šramko - kněz, v současnosti kaplan ve farnosti Kutná Hora, zároveň spirituál Církevního gymnázia v Kutné Hoře a kaplan pro mládež ve vikariátu. Vystudoval konzervatoř a Vysokou školu muzických umění v Bratislavě v oboru hra na trubku. Poté vstoupil do kněžského semináře a vystudoval teologickou fakultu v Bratislavě. Studia ukončil v roce 2021 a byl vysvěcen na kněze. Od roku 2015 se věnuje výrobě liturgických oděvů a parament pro kněze.`,
-    description:
-      "Představení autorské práce, ukázka vyrobených liturgických oděvů",
-    speaker: {
-      name: "Michal Šramko",
-      jpgPath: "/assets/images/speakers/sramko.jpg",
-    },
-  },
-  {
-    title: "Žít jako andělé (starší i mladší)",
-    type: "workshop",
-    about: `Jsem kaplan pro mládež ve vikariátu Náchod. Stal jsem se knězem díky tomu, že mě povolal Pán Ježíš v eucharistii a přijmout moje povolání mí pomohla služba u oltáře. Záleží mi na tom, aby liturgie měla vznešenou jednoduchost, která otevírá naše srdce Bohu. Mám radost, když se nám s ministranty daří sloužit tak, aby to lidem pomohlo si uvědomit, kdo je mezi námi.`,
-    description:
-      "Program žít jako anděl bude spočívat v přemýšlení pomocí různých aktivit a výkladu a diskuze o tom, jaká je souvislost mezi nebeskou liturgií andělů u Božího trůnu, pozemskou liturgií pozemské církve a naším každodenním životem. Co se děje v nebi, děje se na oltáři v našem kostele a nakonec i v našem srdci. Aneb co všechno se mnou může udělat ministrování? Jak se může celý můj život stát andělskou liturgií?",
-    speaker: {
-      name: "Jan Pecháček",
-      jpgPath: "/assets/images/speakers/pechacek.jpg",
-    },
-  },
-  {
-    title: "Kresba a Malování (starší i mladší)",
-    type: "workshop",
-    about: `František Zloch - kněz, v současné době kaplan v Hlinsku a ve Svratce a také kaplan pro mládež chrudimského vikariátu. Než nastoupil do kněžského semináře vystudoval Střední umělecko-průmyslovou školu hudebních nástrojů a nábytku v Hradci Králové. V té době se také začal systematicky věnovat kresbě a malování, čemuž se ve volných chvílích amatérsky věnuje stále - zvláště krajinomalbě.`,
-    description:
-      "Vyváření umění v nějaké míře účast na Božím stvořitelském díle. Během tohoto workshopu bude možné jednak prohlédnout výsledky některých technik, a zároveň bude možnost zkusit si techniku akvarelu nebo kresbu olejovým pastelem (podle počasí buď krajinu nebo zátiší).",
-    speaker: {
-      name: "František Zloch",
-      jpgPath: "/assets/images/speakers/zloch.jpg",
-    },
-  },
-  {
-    title: "Ministrování není žádná novinka. Ministranti včera a dnes. (starší i mladší)",
-    type: "workshop",
-    about: `Radek Martinek je knězem už skoro 19 let. Byl pokřtěn až v dospělosti a nikdy před vstupem do semináře neministroval. Působil v Hradci Králové a Pardubicích, kde doprovázel vysokoškoláky. Teď působí jako farář v Holicích. Má rád umění a hodně ho zajímá co v kostele k čemu slouží a jak to vypadalo dříve a k čemu to slouží nyní. A ví, že ke svým přednáškám pro velké i malé potřebuje obrázky.`,
-    description:
-      "Děti měli svoje místo u oltáře vždycky, zvlášť kluci ministranti měli knězi pomáhat. Jak vypadali ministranti třeba před 500 lety a jak docela nedávno ukáže na obrázcích. Abyste viděli, že se mění hlavně obleky, ale že kluci u oltáře jsou pořád stejní.",
-    speaker: {
-      name: "Radek Martínek",
-      jpgPath: "/assets/images/speakers/martinek.jpg",
-    },
-  },
-  {
-    title: "Služba vojenského kaplana (starší i mladší)",
-    type: "workshop",
-    about: `Vyučil se v oboru tesař, kovář a maturoval na SOU stavebním v Hradci Králové. Po maturitě studoval humanitní vědy zaměřené na pedagogiku a psychologii promoval v roce 1999 po té absolvoval ucelený výcvik Rogersovské psychterapie a supervizní výcvik. Od roku 2000 pracoval jako psycholog ve věznici v Pardubicích. Od roku 2005 vyučoval psychologii na Univerzitě Pardubice. V roce 2011 nastoupil do jáhenské formace a zahájil teologická studia a roku 2014 přijal jáhenské svěcení. Od roku 2000 je ženatý a má tři děti.`,
-    description:
-      "Povídání o tom co vše obnáší služba vojenského kaplana",
-    speaker: {
-      name: "Milan Novotný",
-      jpgPath: "/assets/images/speakers/novotny.jpg",
-    },
-  },
-  {
-    title: "Zákulisí papežské liturgie (mladší)",
-    type: "workshop",
-    about: `Kněz pražské arcidiecéze, autor Liturgie.cz, bývalý ceremoniář papežů Benedikta XVI. a Františka.`,
-    description:
-      "Papežské bohoslužby pro několik tisíc lidí vyžadují velkou přípravu, mnoho služebníků a dobrou koordinaci. V přednášce si povíme, jak to na papežských mších funguje v zákulisí a co z toho může být inspirativní i pro naše bohoslužby v běžných farnostech.",
-    speaker: {
-      name: "Radek Tichý",
-      jpgPath: "/assets/images/speakers/tichy.jpg",
-    },
-  },
-  {
-    title: "Jak rozpoznat Boží povolání (mladší)",
-    type: "workshop",
     about: `Kněz pražské arcidiecéze, autor Liturgie.cz, bývalý ceremoniář papežů Benedikta XVI. a Františka.`,
     description:
       "Možná každého kluka, který bere víru vážně, napadlo, zda by neměl být také knězem. V přednášce budeme hledat odpověď na otázky, Jak poznat, jestli je tato myšlenka od Boha, nebo ne? Co to znamená, že nás Bůh volá? Co se vyžaduje po těch, kdo by chtěli být kněžími? Je lepší být v klášteře nebo v manželství?",
@@ -328,9 +279,24 @@ const workshops = [
       name: "Radek Tichý",
       jpgPath: "/assets/images/speakers/tichy.jpg",
     },
+    times: [1],
+    capacity: 20,
   },
   {
-    title: "Příprava na ministrování při společní mši svaté (pouze druhý blok)",
+    title: "Zákulisí papežské liturgie",
+    type: "workshop",
+    about: `Kněz pražské arcidiecéze, autor Liturgie.cz, bývalý ceremoniář papežů Benedikta XVI. a Františka.`,
+    description:
+    "Papežské bohoslužby pro několik tisíc lidí vyžadují velkou přípravu, mnoho služebníků a dobrou koordinaci. V přednášce si povíme, jak to na papežských mších funguje v zákulisí a co z toho může být inspirativní i pro naše bohoslužby v běžných farnostech.",
+    speaker: {
+      name: "Radek Tichý",
+      jpgPath: "/assets/images/speakers/tichy.jpg",
+    },
+    times: [2],
+    capacity: 20,
+  },
+  {
+    title: "Příprava na ministrování při společní mši svaté",
     type: "workshop",
     about: `Josi je část týmu DCM, který se stará o mládež v Diecézi`,
     description:
@@ -339,6 +305,73 @@ const workshops = [
       name: "Josi Pazderová",
       jpgPath: "/assets/images/speakers/pazderova.jpg",
     },
+    times: [2],
+    capacity: 14,
+  },
+  {
+    title: "Liturgický oděv a jeho výroba",
+    type: "workshop",
+    about: `Michal Šramko - kněz, v současnosti kaplan ve farnosti Kutná Hora, zároveň spirituál Církevního gymnázia v Kutné Hoře a kaplan pro mládež ve vikariátu. Vystudoval konzervatoř a Vysokou školu muzických umění v Bratislavě v oboru hra na trubku. Poté vstoupil do kněžského semináře a vystudoval teologickou fakultu v Bratislavě. Studia ukončil v roce 2021 a byl vysvěcen na kněze. Od roku 2015 se věnuje výrobě liturgických oděvů a parament pro kněze.`,
+    description:
+      "Představení autorské práce, ukázka vyrobených liturgických oděvů",
+    speaker: {
+      name: "Michal Šramko",
+      jpgPath: "/assets/images/speakers/sramko.jpg",
+    },
+    times: [1, 2],
+    capacity: 15,
+  },
+  {
+    title: "Žít jako andělé",
+    type: "workshop",
+    about: `Jsem kaplan pro mládež ve vikariátu Náchod. Stal jsem se knězem díky tomu, že mě povolal Pán Ježíš v eucharistii a přijmout moje povolání mí pomohla služba u oltáře. Záleží mi na tom, aby liturgie měla vznešenou jednoduchost, která otevírá naše srdce Bohu. Mám radost, když se nám s ministranty daří sloužit tak, aby to lidem pomohlo si uvědomit, kdo je mezi námi.`,
+    description:
+      "Program žít jako anděl bude spočívat v přemýšlení pomocí různých aktivit a výkladu a diskuze o tom, jaká je souvislost mezi nebeskou liturgií andělů u Božího trůnu, pozemskou liturgií pozemské církve a naším každodenním životem. Co se děje v nebi, děje se na oltáři v našem kostele a nakonec i v našem srdci. Aneb co všechno se mnou může udělat ministrování? Jak se může celý můj život stát andělskou liturgií?",
+    speaker: {
+      name: "Jan Pecháček",
+      jpgPath: "/assets/images/speakers/pechacek.jpg",
+    },
+    times: [1, 2],
+    capacity: 10,
+  },
+  {
+    title: "Kresba a Malování",
+    type: "workshop",
+    about: `František Zloch - kněz, v současné době kaplan v Hlinsku a ve Svratce a také kaplan pro mládež chrudimského vikariátu. Než nastoupil do kněžského semináře vystudoval Střední umělecko-průmyslovou školu hudebních nástrojů a nábytku v Hradci Králové. V té době se také začal systematicky věnovat kresbě a malování, čemuž se ve volných chvílích amatérsky věnuje stále - zvláště krajinomalbě.`,
+    description:
+      "Vyváření umění v nějaké míře účast na Božím stvořitelském díle. Během tohoto workshopu bude možné jednak prohlédnout výsledky některých technik, a zároveň bude možnost zkusit si techniku akvarelu nebo kresbu olejovým pastelem (podle počasí buď krajinu nebo zátiší).",
+    speaker: {
+      name: "František Zloch",
+      jpgPath: "/assets/images/speakers/zloch.jpg",
+    },
+    times: [1, 2],
+    capacity: 10,
+  },
+  {
+    title: "Ministrování není žádná novinka. Ministranti včera a dnes",
+    type: "workshop",
+    about: `Radek Martinek je knězem už skoro 19 let. Byl pokřtěn až v dospělosti a nikdy před vstupem do semináře neministroval. Působil v Hradci Králové a Pardubicích, kde doprovázel vysokoškoláky. Teď působí jako farář v Holicích. Má rád umění a hodně ho zajímá co v kostele k čemu slouží a jak to vypadalo dříve a k čemu to slouží nyní. A ví, že ke svým přednáškám pro velké i malé potřebuje obrázky.`,
+    description:
+      "Děti měli svoje místo u oltáře vždycky, zvlášť kluci ministranti měli knězi pomáhat. Jak vypadali ministranti třeba před 500 lety a jak docela nedávno ukáže na obrázcích. Abyste viděli, že se mění hlavně obleky, ale že kluci u oltáře jsou pořád stejní.",
+    speaker: {
+      name: "Radek Martínek",
+      jpgPath: "/assets/images/speakers/martinek.jpg",
+    },
+    times: [1, 2],
+    capacity: 20,
+  },
+  {
+    title: "Služba vojenského kaplana",
+    type: "workshop",
+    about: `Vyučil se v oboru tesař, kovář a maturoval na SOU stavebním v Hradci Králové. Po maturitě studoval humanitní vědy zaměřené na pedagogiku a psychologii promoval v roce 1999 po té absolvoval ucelený výcvik Rogersovské psychterapie a supervizní výcvik. Od roku 2000 pracoval jako psycholog ve věznici v Pardubicích. Od roku 2005 vyučoval psychologii na Univerzitě Pardubice. V roce 2011 nastoupil do jáhenské formace a zahájil teologická studia a roku 2014 přijal jáhenské svěcení. Od roku 2000 je ženatý a má tři děti.`,
+    description:
+      "Povídání o tom co vše obnáší služba vojenského kaplana",
+    speaker: {
+      name: "Milan Novotný",
+      jpgPath: "/assets/images/speakers/novotny.jpg",
+    },
+    times: [1, 2],
+    capacity: 30,
   },
   {
     title: "Dreamgame",
@@ -351,6 +384,8 @@ const workshops = [
       name: "Vesmírný tým",
       jpgPath: "/assets/images/speakers/vesmirny_tym.jpg",
     },
+    times: [1, 2],
+    capacity: 30,
   },
   {
     title: "Frisbee",
@@ -362,6 +397,8 @@ const workshops = [
       name: "Vesmírný tým",
       jpgPath: "/assets/images/speakers/vesmirny_tym.jpg",
     },
+    times: [1, 2],
+    capacity: 30,
   },
   {
     title: "Šátkovaná",
@@ -373,6 +410,8 @@ const workshops = [
       name: "Vesmírný tým",
       jpgPath: "/assets/images/speakers/vesmirny_tym.jpg",
     },
+    times: [1, 2],
+    capacity: 30,
   },
   {
     title: "Fotbal",
@@ -384,5 +423,7 @@ const workshops = [
       name: "bohoslovci",
       jpgPath: "/assets/images/speakers/bohoslovci.jpg",
     },
+    times: [1, 2],
+    capacity: 16,
   },
 ];

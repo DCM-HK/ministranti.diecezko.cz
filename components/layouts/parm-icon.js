@@ -20,6 +20,8 @@ import {
   IconUser,
   IconUsers,
   IconEar,
+  IconSquareRoundedNumber1,
+  IconSquareRoundedNumber2,
 } from "@tabler/icons";
 
 export default function ParmIcon({ className, iconName, size }) {
@@ -171,6 +173,22 @@ export default function ParmIcon({ className, iconName, size }) {
   else if (iconName === "ear")
     return (
       <IconEar
+        className={`inline ${className} mr-1`}
+        stroke={1.5}
+        size={size}
+      />
+    );
+  else if (iconName === "number1")
+    return (
+      <IconSquareRoundedNumber1
+        className={`inline ${className} mr-1`}
+        stroke={1.5}
+        size={size}
+      />
+    );
+  else if (iconName === "number2")
+    return (
+      <IconSquareRoundedNumber2
         className={`inline ${className} mr-1`}
         stroke={1.5}
         size={size}
