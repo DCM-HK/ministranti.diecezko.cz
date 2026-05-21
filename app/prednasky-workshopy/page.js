@@ -90,23 +90,25 @@ export default async function PrednaskyWorhsopy() {
                     ) : null}
                   </div>
                   <div className="flex flex-col items-start justify-center w-full sm:w-[450px]">
-                    <h2
-                      dangerouslySetInnerHTML={{ __html: w.title }}
-                      className="text-xl font-semibold w-full"
-                    />
-                    {w.times && w.times.length > 0 && (
-                      <div className="">
-                        {w.times.map((time) => (
-                          <div key={time} className="inline-block">
-                            <ParmIcon
-                              iconName={`number${time}`}
-                              className={`inline`}
-                              size={25}
-                            />
-                          </div>
-                        ))}
-                      </div>
-                    )}
+                    <div className="flex w-full items-center gap-1">
+                      {w.times && w.times.length > 0 && (
+                        <div className="flex shrink-0 items-center">
+                          {w.times.map((time) => (
+                            <div key={time} className="inline-block">
+                              <ParmIcon
+                                iconName={`number${time}`}
+                                className={`inline`}
+                                size={25}
+                              />
+                            </div>
+                          ))}
+                        </div>
+                      )}
+                      <h2
+                        dangerouslySetInnerHTML={{ __html: w.title }}
+                        className="text-xl font-semibold w-full"
+                      />
+                    </div>
                     <span className="tracking-widest mt-1 font-semibold flex flex-row items-center justify-start">
                       <ParmIcon
                         iconName={w.type}
