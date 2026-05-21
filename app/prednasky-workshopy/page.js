@@ -128,13 +128,15 @@ export default async function PrednaskyWorhsopy() {
                         href={
                           w.place.includes("Orlovna")
                             ? `/mapa?x=${50.2069553}&y=${15.8349681}` // Orlovna
-                            : w.place.includes("Nové Adalbertinum")
-                            ? `/mapa?x=${50.2090269}&y=${15.8334453}` // Nove Adalbertinum
                             : w.place.includes("Biskupská rezidence")
                             ? `/mapa?x=${50.208725}&y=${15.8323194}` // Biskupská rezidence
                             : w.place.includes("Katedrála")
                             ? `/mapa?x=${50.2087878}&y=${15.8310917}` // Katedrála
-                            : `/mapa?x=${50.2062919}&y=${15.8337133}` // BiGy
+                            : w.place.includes("BiGy")
+                            ? `/mapa?x=${50.2062919}&y=${15.8337133}` // BiGy
+                            : w.place.includes("Nové Adalbertinum")
+                            ? `/mapa?x=${50.2090269}&y=${15.8334453}` // Nove Adalbertinum
+                            : `/mapa?x=${50.2090269}&y=${15.8334453}` // Nove Adalbertinum
                         }
                         target="_self"
                         className="underline"
@@ -264,9 +266,10 @@ const workshops = [
   //   capacity: 60,
   //   place: "aula",
   // },
-    {
+  {
     title: "Jak rozpoznat Boží povolání",
     type: "workshop",
+    id: "workshop-start",
     about: `Kněz pražské arcidiecéze, autor Liturgie.cz, bývalý ceremoniář papežů Benedikta XVI. a Františka.`,
     description:
       "Možná každého kluka, který bere víru vážně, napadlo, zda by neměl být také knězem. V přednášce budeme hledat odpověď na otázky, Jak poznat, jestli je tato myšlenka od Boha, nebo ne? Co to znamená, že nás Bůh volá? Co se vyžaduje po těch, kdo by chtěli být kněžími? Je lepší být v klášteře nebo v manželství?",
@@ -275,18 +278,20 @@ const workshops = [
       jpgPath: "/assets/images/speakers/tichy.jpg",
     },
     times: [1],
+    capacity: 20,
   },
   {
     title: "Zákulisí papežské liturgie",
     type: "workshop",
     about: `Kněz pražské arcidiecéze, autor Liturgie.cz, bývalý ceremoniář papežů Benedikta XVI. a Františka.`,
     description:
-      "Papežské bohoslužby pro několik tisíc lidí vyžadují velkou přípravu, mnoho služebníků a dobrou koordinaci. V přednášce si povíme, jak to na papežských mších funguje v zákulisí a co z toho může být inspirativní i pro naše bohoslužby v běžných farnostech.",
+    "Papežské bohoslužby pro několik tisíc lidí vyžadují velkou přípravu, mnoho služebníků a dobrou koordinaci. V přednášce si povíme, jak to na papežských mších funguje v zákulisí a co z toho může být inspirativní i pro naše bohoslužby v běžných farnostech.",
     speaker: {
       name: "Radek Tichý",
       jpgPath: "/assets/images/speakers/tichy.jpg",
     },
     times: [2],
+    capacity: 20,
   },
   {
     title: "Příprava na ministrování při společní mši svaté",
@@ -299,11 +304,11 @@ const workshops = [
       jpgPath: "/assets/images/speakers/pazderova.jpg",
     },
     times: [2],
+    capacity: 14,
   },
   {
     title: "Liturgický oděv a jeho výroba",
     type: "workshop",
-    id: "workshop-start",
     about: `Michal Šramko - kněz, v současnosti kaplan ve farnosti Kutná Hora, zároveň spirituál Církevního gymnázia v Kutné Hoře a kaplan pro mládež ve vikariátu. Vystudoval konzervatoř a Vysokou školu muzických umění v Bratislavě v oboru hra na trubku. Poté vstoupil do kněžského semináře a vystudoval teologickou fakultu v Bratislavě. Studia ukončil v roce 2021 a byl vysvěcen na kněze. Od roku 2015 se věnuje výrobě liturgických oděvů a parament pro kněze.`,
     description:
       "Představení autorské práce, ukázka vyrobených liturgických oděvů",
@@ -312,6 +317,7 @@ const workshops = [
       jpgPath: "/assets/images/speakers/sramko.jpg",
     },
     times: [1, 2],
+    capacity: 15,
   },
   {
     title: "Žít jako andělé",
@@ -324,6 +330,7 @@ const workshops = [
       jpgPath: "/assets/images/speakers/pechacek.jpg",
     },
     times: [1, 2],
+    capacity: 10,
   },
   {
     title: "Kresba a Malování",
@@ -336,6 +343,7 @@ const workshops = [
       jpgPath: "/assets/images/speakers/zloch.jpg",
     },
     times: [1, 2],
+    capacity: 10,
   },
   {
     title: "Ministrování není žádná novinka. Ministranti včera a dnes",
@@ -348,6 +356,7 @@ const workshops = [
       jpgPath: "/assets/images/speakers/martinek.jpg",
     },
     times: [1, 2],
+    capacity: 20,
   },
   {
     title: "Služba vojenského kaplana",
@@ -360,6 +369,7 @@ const workshops = [
       jpgPath: "/assets/images/speakers/novotny.jpg",
     },
     times: [1, 2],
+    capacity: 30,
   },
   {
     title: "Dreamgame",
@@ -373,6 +383,7 @@ const workshops = [
       jpgPath: "/assets/images/speakers/vesmirny_tym.jpg",
     },
     times: [1, 2],
+    capacity: 30,
   },
   {
     title: "Frisbee",
@@ -385,6 +396,7 @@ const workshops = [
       jpgPath: "/assets/images/speakers/vesmirny_tym.jpg",
     },
     times: [1, 2],
+    capacity: 30,
   },
   {
     title: "Šátkovaná",
@@ -397,6 +409,7 @@ const workshops = [
       jpgPath: "/assets/images/speakers/vesmirny_tym.jpg",
     },
     times: [1, 2],
+    capacity: 30,
   },
   {
     title: "Fotbal",
@@ -409,5 +422,6 @@ const workshops = [
       jpgPath: "/assets/images/speakers/bohoslovci.jpg",
     },
     times: [1, 2],
+    capacity: 16,
   },
 ];
