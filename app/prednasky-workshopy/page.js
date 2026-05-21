@@ -305,7 +305,7 @@ const workshops = [
     },
   },
   {
-    title: "Zákulisí papežské liturgie (starší)",
+    title: "Zákulisí papežské liturgie (mladší)",
     type: "workshop",
     about: `Kněz pražské arcidiecéze, autor Liturgie.cz, bývalý ceremoniář papežů Benedikta XVI. a Františka.`,
     descritpion:
@@ -316,7 +316,7 @@ const workshops = [
     },
   },
   {
-    title: "Jak rozpoznat Boží povolání (mladší)",
+    title: "Jak rozpoznat Boží povolání (starší)",
     type: "workshop",
     about: `Kněz pražské arcidiecéze, autor Liturgie.cz, bývalý ceremoniář papežů Benedikta XVI. a Františka.`,
     descritpion:
