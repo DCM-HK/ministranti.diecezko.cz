@@ -40,7 +40,7 @@ export default function Galerie() {
               rel="external noopener nofollow"
               className="underline"
             >
-              Člověk a Víra
+              Člověk a&nbsp;Víra
             </Link>).
             <p className="my-2 w-full"></p>
             <PhotoAlbum

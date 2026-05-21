@@ -32,26 +32,26 @@ export default function Invitation() {
             Hradec Králové, 7. května 2026
           </ContainerParagraph>
           <ContainerParagraph>
-            Milí mladí přátelé, ministranti a ministrantky!
+            Milí mladí přátelé, ministranti a&nbsp;ministrantky!
           </ContainerParagraph>
           <ContainerParagraph></ContainerParagraph>
           <ContainerParagraph>
-            Řádky tohoto dopisu se k vám dostávají v okamžiku, kdy připravujeme diecézní setkání
+            Řádky tohoto dopisu se k&nbsp;vám dostávají v&nbsp;okamžiku, kdy připravujeme diecézní setkání
             ministrantů. Po delší době jsme se rozhodli, že vás všechny pozveme do města, kde sídlí
-            náš diecézní biskup Jan, do Hradce Králové, v čase, který předchází slavnosti Seslání
-            Ducha Svatého, v sobotu 23. května 2026.
+            náš diecézní biskup Jan, do Hradce Králové, v&nbsp;čase, který předchází slavnosti Seslání
+            Ducha Svatého, v&nbsp;sobotu 23. května 2026.
           </ContainerParagraph>
           <ContainerParagraph>
-            Každý a každá z vás jste našli svou osobní cestu ke službě u oltáře. Někdo možná spolu se sourozenci, jiný byl pozván knězem, kostelníkem nebo starším ministrantem, někdo z vás si musel o účast u oltáře přímo říci. Cest je tolik, kolik je ministrantů, protože každé pozvání a povolání ke službě je také osobním povoláním Božím. 
+            Každý a&nbsp;každá z&nbsp;vás jste našli svou osobní cestu ke službě u&nbsp;oltáře. Někdo možná spolu se sourozenci, jiný byl pozván knězem, kostelníkem nebo starším ministrantem, někdo z&nbsp;vás si musel o&nbsp;účast u&nbsp;oltáře přímo říci. Cest je tolik, kolik je ministrantů, protože každé pozvání a&nbsp;povolání ke službě je také osobním povoláním Božím. 
           </ContainerParagraph>
           <ContainerParagraph>
-            Považuji ministrantskou službu za veliký dar pro farní společenství, protože se v něm rozvíjí a zraje i osobní povolání ke službě v církvi. Všichni víme, kolik legrace a radostných chvil se při ministrování zažije! A také víme, jak nás tato služba učí odpovědnosti, vnitřní disciplíně, spolupráci a souhře s druhými.
+            Považuji ministrantskou službu za veliký dar pro farní společenství, protože se v&nbsp;něm rozvíjí a&nbsp;zraje i&nbsp;osobní povolání ke službě v&nbsp;církvi. Všichni víme, kolik legrace a&nbsp;radostných chvil se při ministrování zažije! A&nbsp;také víme, jak nás tato služba učí odpovědnosti, vnitřní disciplíně, spolupráci a&nbsp;souhře s&nbsp;druhými.
           </ContainerParagraph>
           <ContainerParagraph>
-            Zveme vás všechny na diecézní setkání ministrantů také proto, že chceme ukázat, jak nás služba při liturgii otvírá hlubšímu poznávání Božího jednání mezi námi. Pěkně píše svatý Pavel věřícím do Filip, že se od Ježíše Krista učíme „zářit jako hvězdy ve vesmíru“ (Fil 2,15). Už se vám stalo, že jste přišli do zákristie a byli plni radosti, to, co jste zažili u oltáře, vám koukalo z očí? 
+            Zveme vás všechny na diecézní setkání ministrantů také proto, že chceme ukázat, jak nás služba při liturgii otvírá hlubšímu poznávání Božího jednání mezi námi. Pěkně píše svatý Pavel věřícím do Filip, že se od Ježíše Krista učíme „zářit jako hvězdy ve vesmíru“ (Fil 2,15). Už se vám stalo, že jste přišli do zákristie a&nbsp;byli plni radosti, to, co jste zažili u&nbsp;oltáře, vám koukalo z&nbsp;očí? 
           </ContainerParagraph>
           <ContainerParagraph>
-            Máme pro vás připravený hezký program, který začíná v kostele Panny Marie na Velkém náměstí v Hradci Králové. Odtamtud nás bude program vést až do závěrečné mše svaté, kterou budeme společně slavit v katedrále Svatého Ducha. Všechny důležité informace naleznete na{" "}
+            Máme pro vás připravený hezký program, který začíná v&nbsp;kostele Panny Marie na Velkém náměstí v&nbsp;Hradci Králové. Odtamtud nás bude program vést až do závěrečné mše svaté, kterou budeme společně slavit v&nbsp;katedrále Svatého Ducha. Všechny důležité informace naleznete na{" "}
             <Link
               href="https://ministranti.bihk.cz"
               target="self"
@@ -61,8 +61,8 @@ export default function Invitation() {
             </Link>
           </ContainerParagraph>
           <ContainerParagraph className={"italic text-right"}>
-            Na setkání s vámi se těší,<br />
-            V pokoji Kristově,<br />
+            Na setkání s&nbsp;vámi se těší,<br />
+            V&nbsp;pokoji Kristově,<br />
             + Prokop
           </ContainerParagraph>
           <SwappingGallery images={gallery} />

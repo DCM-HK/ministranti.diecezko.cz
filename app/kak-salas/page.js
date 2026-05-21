@@ -28,13 +28,13 @@ export default async function DCZM() {
             <strong className="font-bold">
               Křesťanský akademický klub Salaš
             </strong>{" "}
-            je společenství nejen věřících vysokoškolských studentů z Hradce Králové. Salaš
+            je společenství nejen věřících vysokoškolských studentů z&nbsp;Hradce Králové. Salaš
             je členem&nbsp;
             <Link href="https://www.vkhcr.cz/" target="_blank" rel="external" className="underline">
               VKH
             </Link>
-            , tedy Vysokoškolského katolického hnutí, a úzce spolupracuje
-            s Akademickou duchovní službou při Královehradecké diecézi. Jsme parta vysokoškolských
+            , tedy Vysokoškolského katolického hnutí, a&nbsp;úzce spolupracuje
+            s&nbsp;Akademickou duchovní službou při Královehradecké diecézi. Jsme parta vysokoškolských
             studentů, kteří mezi sebou rádi uvítají všechny, které zaujme náš program nebo si jen
             chtějí popovídat. Můžete nás potkat pravidelně každou středu od 19:00 na mši nebo
             po ní na různorodých aktivitách, které jsou pořádané námi pro jiné studenty.
@@ -43,7 +43,7 @@ export default async function DCZM() {
           <ContainerH2>Pravidelný středeční program</ContainerH2>
           <ContainerUl>
             <ContainerLi>18:00 Nácvik hudby se scholou</ContainerLi>
-            <ContainerLi>19:00 Mše svatá v kostele Nanebevzetí Panny Marie na Velkém náměstí</ContainerLi>
+            <ContainerLi>19:00 Mše svatá v&nbsp;kostele Nanebevzetí Panny Marie na Velkém náměstí</ContainerLi>
             <ContainerLi>20:00 Následující program</ContainerLi>
           </ContainerUl>
           <ContainerH2>Program po mši svaté</ContainerH2>
@@ -59,8 +59,8 @@ export default async function DCZM() {
           </ContainerParagraph>
           <ContainerH2>Sheeep Ples</ContainerH2>
           <ContainerParagraph>
-            Ten letošní se koná 10. dubna od 19:00 na Budově A Univerzity Hradec Králové a lístky
-            jsou v prodeji online na:&nbsp;
+            Ten letošní se koná 10. dubna od 19:00 na Budově A&nbsp;Univerzity Hradec Králové a&nbsp;lístky
+            jsou v&nbsp;prodeji online na:&nbsp;
             <Link href="https://www.salas.hk/ples/" target="_blank" rel="external" className="underline">
               www.salas.hk/ples
             </Link>

@@ -26,7 +26,7 @@ export default async function Pehuma() {
         <Container>
           <ContainerTitle>PEHUMA</ContainerTitle>
           <ContainerDescription>
-            Jsme schola PEHUMA z Dolní Čermné a letos doprovodíme závěrečnou mši svatou v katedrále.
+            Jsme schola PEHUMA z&nbsp;Dolní Čermné a&nbsp;letos doprovodíme závěrečnou mši svatou v&nbsp;katedrále.
           </ContainerDescription>
           <ContainerImage
             jpgPath="/assets/images/Pehuma_vlajka_bila.svg"
@@ -35,13 +35,13 @@ export default async function Pehuma() {
             className="w-full my-2"
           />
           <ContainerParagraph>
-            Jsme Dolnočermenské spolčo a schola PEHUMA a rádi spolu trávíme čas nejen zpěvem,
-            ale i sdílením duchovních zkušeností a hrami. Fungujeme už od roku 1986, takže máme
-            za&nbsp;sebou kus společné historie. Dnes se nás schází asi patnáct a setkáváme&nbsp;se
-            každých 14&nbsp;dní na&nbsp;faře. Začínáme zkouškou zpěvu na mši svatou, která je v 19:00.
-            Po&nbsp;mši pak pokračujeme naším spolčem. Vždy si někdo připraví krátké téma k zamyšlení
+            Jsme Dolnočermenské spolčo a&nbsp;schola PEHUMA a&nbsp;rádi spolu trávíme čas nejen zpěvem,
+            ale i&nbsp;sdílením duchovních zkušeností a&nbsp;hrami. Fungujeme už od roku 1986, takže máme
+            za&nbsp;sebou kus společné historie. Dnes se nás schází asi patnáct a&nbsp;setkáváme&nbsp;se
+            každých 14&nbsp;dní na&nbsp;faře. Začínáme zkouškou zpěvu na mši svatou, která je v&nbsp;19:00.
+            Po&nbsp;mši pak pokračujeme naším spolčem. Vždy si někdo připraví krátké téma k&nbsp;zamyšlení
             a&nbsp;někdo jiný zase hry nebo jinou&nbsp;zábavu. Máme rádi pohodu, smích a&nbsp;čas 
-            strávený spolu. Jsme moc rádi, že vám můžeme zazpívat, a těšíme se, že si to společně užijeme.
+            strávený spolu. Jsme moc rádi, že vám můžeme zazpívat, a&nbsp;těšíme se, že si to společně užijeme.
           </ContainerParagraph>
         </Container>
       </PageMain>

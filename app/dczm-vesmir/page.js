@@ -54,7 +54,7 @@ export default async function DCZM() {
           />
           <ContainerParagraph>
             Název Vesmír jsme „podědili po předcích“. Chata (zařízení) nese
-            jméno Vesmír již od 60. let minulého století. A když se zde člověk
+            jméno Vesmír již od 60. let minulého století. A&nbsp;když se zde člověk
             za jasné noci podívá na oblohu, tak si opravdu připadá jako uprostřed
             hvězdného prostoru. Hvězdy jsou vidět od obzoru k&nbsp;obzoru. Název
             Vesmír se nám prostě líbil a&nbsp;líbí.
@@ -63,9 +63,9 @@ export default async function DCZM() {
           <ContainerH2>Kontakt</ContainerH2>
           <ContainerUl className={`!list-none !pl-0 mb-6`}>
             <ContainerLi>
-              Deštné v Orlických horách 266
+              Deštné v&nbsp;Orlických horách 266
               <br />
-              517 91 Deštné v Orlických horách
+              517 91 Deštné v&nbsp;Orlických horách
             </ContainerLi>
             <ContainerLi>
               email:{" "}

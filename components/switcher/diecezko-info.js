@@ -53,7 +53,7 @@ export default function DiecezkoInfo({ id, className }) {
             </span>
           </h1>
           <p className="uppercase text-xl md:text-xl tracking-wide font-semibold font-poppins">
-            V hradci králové
+            V&nbsp;hradci králové
           </p>
         </div>
         <div className="w-[90vw] max-w-[500px] grid grid-cols-2 grid-flow-row gap-4 items-center auto-cols-max">

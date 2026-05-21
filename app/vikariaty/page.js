@@ -16,18 +16,18 @@ export default async function Vikariaty() {
       <Header />
       <PageMain>
         <Container>
-          <ContainerTitle>Vikariátní zástupci a kaplani pro mládež</ContainerTitle>
+          <ContainerTitle>Vikariátní zástupci a&nbsp;kaplani pro mládež</ContainerTitle>
           <ContainerDescription>
             Vikariátní zástupce
           </ContainerDescription>
           <ContainerParagraph>
-            Vikariátní zástupce pro mládež pomáhá propojovat práci s mládeží mezi jednotlivými farnostmi ve vikariátu a diecézí. Spolupracuje především s kaplanem pro mládež a podporuje organizaci společných aktivit pro mladé.
+            Vikariátní zástupce pro mládež pomáhá propojovat práci s&nbsp;mládeží mezi jednotlivými farnostmi ve vikariátu a&nbsp;diecézí. Spolupracuje především s&nbsp;kaplanem pro mládež a&nbsp;podporuje organizaci společných aktivit pro mladé.
             Jeho služba zahrnuje:
             <ul className="list-disc list-inside mt-2">
-              <li>spolupráci s kaplanem pro mládež při organizování aktivit pro mladé ve vikariátu (např. vikariátní setkání mládeže nebo večery mladých)</li>
-              <li>udržování kontaktu s mládeží v jednotlivých farnostech a spolupráci se zástupci farností</li>
-              <li>předávání informací pro mládež (např. z Diecézního centra pro mládež nebo z dění ve vikariátu)</li>
-              <li>zapojení do přípravy Diecézního setkání mládeže a dalších diecézních akcí</li>
+              <li>spolupráci s&nbsp;kaplanem pro mládež při organizování aktivit pro mladé ve vikariátu (např. vikariátní setkání mládeže nebo večery mladých)</li>
+              <li>udržování kontaktu s&nbsp;mládeží v&nbsp;jednotlivých farnostech a&nbsp;spolupráci se zástupci farností</li>
+              <li>předávání informací pro mládež (např. z&nbsp;Diecézního centra pro mládež nebo z&nbsp;dění ve vikariátu)</li>
+              <li>zapojení do přípravy Diecézního setkání mládeže a&nbsp;dalších diecézních akcí</li>
               <li>modlitbu za mládež</li>
               <li>osobní duchovní růst, aby mohl být příkladem pro ostatní</li>
             </ul>
@@ -36,7 +36,7 @@ export default async function Vikariaty() {
           <ContainerParagraph>
             Vikariát je územní jednotka v&nbsp;diecézi seskupující jednotlivé 
             farnosti, které spolupracují na různých aktivitách 
-            a&nbsp;projektech. Vytváří prostor pro setkávání a společné 
+            a&nbsp;projektech. Vytváří prostor pro setkávání a&nbsp;společné 
             prožívání víry. Pro mládež je to příležitost poznat
             nové lidi, zapojit se do dobrovolnictví, rozvíjet svůj duchovní
             život, bavit se a&nbsp;prožívat víru ve společenství. Vikariáty

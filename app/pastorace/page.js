@@ -20,28 +20,28 @@ export default async function Pehuma() {
           <ContainerTitle>Jak funguje pastorace mládeže</ContainerTitle>
           <ContainerDescription>
             Pastorace mládeže má několik úrovní. Díky tomu se mohou mladí setkávat nejen ve své
-            farnosti, ale také s dalšími mladými z širšího okolí. Pastorace mládeže přitom začíná
-            v malých společenstvích ve farnostech (spolča), pokračuje na úrovni vikariátů a vrcholí
-            setkáním mladých z celé diecéze právě při Diecézním setkání mládeže, kde se mladí
-            setkávají mezi sebou i se svým biskupem.
+            farnosti, ale také s&nbsp;dalšími mladými z&nbsp;širšího okolí. Pastorace mládeže přitom začíná
+            v&nbsp;malých společenstvích ve farnostech (spolča), pokračuje na úrovni vikariátů a&nbsp;vrcholí
+            setkáním mladých z&nbsp;celé diecéze právě při Diecézním setkání mládeže, kde se mladí
+            setkávají mezi sebou i&nbsp;se svým biskupem.
           </ContainerDescription>
           <ContainerH2>
             Farnost (spolča)
           </ContainerH2>
           <ContainerParagraph>
             Základem pastorace mládeže jsou malá společenství ve farnostech – „spolča“. Právě tady
-            se mladí pravidelně setkávají, modlí se, sdílejí svůj život a rostou ve víře.
+            se mladí pravidelně setkávají, modlí se, sdílejí svůj život a&nbsp;rostou ve víře.
             Společenství obvykle provází vedoucí nebo animátoři, kteří mladé doprovázejí.
           </ContainerParagraph>
           <ContainerH2>
             Vikariát
           </ContainerH2>
           <ContainerParagraph>
-            Více farností v jednom regionu tvoří vikariát. Na této úrovni se mohou konat společné
-            akce pro mladé z více farností, aby se mohli poznávat a vytvářet širší společenství.
+            Více farností v&nbsp;jednom regionu tvoří vikariát. Na této úrovni se mohou konat společné
+            akce pro mladé z&nbsp;více farností, aby se mohli poznávat a&nbsp;vytvářet širší společenství.
             Pastoraci mládeže zde pomáhají koordinovat&nbsp;
             <Link href="/vikariaty" target="_self" className="underline">
-              kaplani pro mládež a vikariátní zástupci
+              kaplani pro mládež a&nbsp;vikariátní zástupci
             </Link>.
           </ContainerParagraph>
           <ContainerH2>
@@ -53,16 +53,16 @@ export default async function Pehuma() {
             <Link href="/dcm-hradec-kralove" target="_self" className="underline">
               Diecézní centrum pro mládež (DCM)
             </Link>
-            , které podporuje společenství ve farnostech a připravuje různé akce a formaci pro mladé.
+            , které podporuje společenství ve farnostech a&nbsp;připravuje různé akce a&nbsp;formaci pro mladé.
             Součástí diecézní pastorace jsou také&nbsp;
             <Link href="/dczm-vesmir" target="_self" className="underline">
               Diecézní centra života mládeže (DCŽM)
             </Link>
-            , která vytvářejí prostor pro setkávání mladých, duchovní a víkendové programy.
-            V prostředí studentských pak působí Vysokoškolská katolická hnutí (VKH), která vytváří
-            společenství pro studenty vysokých škol – v naší diecézi funguje&nbsp;
+            , která vytvářejí prostor pro setkávání mladých, duchovní a&nbsp;víkendové programy.
+            V&nbsp;prostředí studentských pak působí Vysokoškolská katolická hnutí (VKH), která vytváří
+            společenství pro studenty vysokých škol – v&nbsp;naší diecézi funguje&nbsp;
             <Link href="/kak-salas" target="_self" className="underline">
-              KAK Salaš v Hradci Králové
+              KAK Salaš v&nbsp;Hradci Králové
             </Link>.
           </ContainerParagraph>
           <ContainerH2>
@@ -74,7 +74,7 @@ export default async function Pehuma() {
               Sekce pro mládež České biskupské konference
             </Link>
             . Její práci zajišťuje sekretariát Sekce pro mládež, který
-            koordinuje spolupráci mezi diecézemi a podílí se na organizaci celostátních akcí,
+            koordinuje spolupráci mezi diecézemi a&nbsp;podílí se na organizaci celostátních akcí,
             například&nbsp;
             <Link href="https://celostatnisetkanimladeze.cz/" target="_blank" rel="external noopener nofollow" className="underline">
               Celostátního setkání mládeže

@@ -238,7 +238,7 @@ export default function Header() {
                 <li className="flex flex-row items-center">
                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   <IconPuzzle className="inline h-7 w-7 my-1 mr-2" />
-                  Vikiátní zástupci a kaplani
+                  Vikiátní zástupci a&nbsp;kaplani
                 </li>
               </Link>
             </ul>

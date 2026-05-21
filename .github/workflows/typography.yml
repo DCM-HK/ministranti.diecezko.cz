@@ -1,0 +1,35 @@
+name: 📝 Czech typography
+
+on:
+  pull_request:
+
+concurrency:
+  group: typography-${{ github.event.pull_request.number }}
+  cancel-in-progress: false
+
+jobs:
+  typography:
+    if: github.event.pull_request.head.repo.full_name == github.repository
+    name: add Czech non-breaking spaces
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Install modules
+        run: yarn --frozen-lockfile
+
+      - name: Validate typography fixer coverage
+        run: yarn typography:validate
+
+      - name: Add Czech non-breaking spaces
+        run: yarn typography:fix
+
+      - name: Commit typography changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Add Czech non-breaking spaces

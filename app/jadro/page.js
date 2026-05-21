@@ -16,17 +16,17 @@ export default async function Vikariaty() {
           <ContainerTitle>Jádro setkání ministrantů</ContainerTitle>
           <ContainerDescription>
             Přípravný tým diecézního setkání ministrantů tvoří společenství lidí, které spojuje
-            služba církvi, zkušenost s liturgií i živý vztah k mladým. Společně usilují o to,
+            služba církvi, zkušenost s&nbsp;liturgií i&nbsp;živý vztah k&nbsp;mladým. Společně usilují o&nbsp;to,
             aby diecézní setkání ministrantů nebylo jen organizační událostí, ale především
-            prostorem pro setkání s Bohem, prohloubení služby u oltáře a budování společenství
+            prostorem pro setkání s&nbsp;Bohem, prohloubení služby u&nbsp;oltáře a&nbsp;budování společenství
             napříč diecézí.
           </ContainerDescription>
           <ContainerParagraph>
-            V čele stojí pomocný biskup jako garant duchovního rozměru celého setkání. Spolu s ním
-            se na přípravě podílí koordinátor ministrantů a ceremonář, kteří přinášejí praktickou
-            zkušenost s organizací i liturgickým vedením. Tým dále doplňují tři mladí a aktivní
-            kněží, kteří svou energií, blízkostí k mladé generaci a pastorační praxí přispívají
-            k tomu, aby setkání bylo nejen dobře připravené, ale také živé, srozumitelné a
+            V&nbsp;čele stojí pomocný biskup jako garant duchovního rozměru celého setkání. Spolu s&nbsp;ním
+            se na přípravě podílí koordinátor ministrantů a&nbsp;ceremonář, kteří přinášejí praktickou
+            zkušenost s&nbsp;organizací i&nbsp;liturgickým vedením. Tým dále doplňují tři mladí a&nbsp;aktivní
+            kněží, kteří svou energií, blízkostí k&nbsp;mladé generaci a&nbsp;pastorační praxí přispívají
+            k&nbsp;tomu, aby setkání bylo nejen dobře připravené, ale také živé, srozumitelné a
             inspirativní pro všechny účastníky.
           </ContainerParagraph>
           <ContainerDescription>

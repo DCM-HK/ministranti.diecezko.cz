@@ -30,239 +30,239 @@ export default function Playlist() {
           </Link>
           <ContainerH2>Vstup: Hospodine, prosím nademnou se smiluj</ContainerH2>
           <ContainerParagraph>
-            1. Hospodine, prosím, nade mnou se smiluj,
+            1.&nbsp;Hospodine,&nbsp;prosím, nade&nbsp;mnou se&nbsp;smiluj,
             <br />
-            zahlaď všechny moje viny a mé srdce bude čisté.
+            zahlaď všechny&nbsp;moje&nbsp;viny a&nbsp;mé srdce&nbsp;bude&nbsp;čisté.
             <br />
-            Svého Ducha zas mi daruj,
+            Svého Ducha&nbsp;zas mi&nbsp;daruj,
             <br />
-            ať je ve mně stále činný,
+            ať je&nbsp;ve mně&nbsp;stále&nbsp;činný,
             <br />
-            zas mé kroky budou jisté,
+            zas mé&nbsp;kroky budou&nbsp;jisté,
             <br />
-            zas mé kroky budou jisté,
+            zas mé&nbsp;kroky budou&nbsp;jisté,
             <br />
-            zas mé kroky budou jisté.
-            <br />
-          </ContainerParagraph>
-          <ContainerParagraph>
-            R: Oblečte člověka nového,
-            <br />
-            který podle vzoru Božího
-            <br />
-            je stvořený, spravedlivý a svatý.
+            zas mé&nbsp;kroky budou&nbsp;jisté.
             <br />
           </ContainerParagraph>
           <ContainerParagraph>
-            C: Hospodine, prosím, nade mnou se smiluj,
+            R:&nbsp;Oblečte člověka&nbsp;nového,
             <br />
-            zahlaď všechny moje viny a mé srdce bude čisté.
-            <br />A mé srdce bude čisté.
+            který podle&nbsp;vzoru&nbsp;Božího
+            <br />
+            je&nbsp;stvořený,&nbsp;spravedlivý a&nbsp;svatý.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            C:&nbsp;Hospodine,&nbsp;prosím, nade&nbsp;mnou se&nbsp;smiluj,
+            <br />
+            zahlaď všechny&nbsp;moje&nbsp;viny a&nbsp;mé srdce&nbsp;bude&nbsp;čisté.
+            <br />A&nbsp;mé&nbsp;srdce bude&nbsp;čisté.
           </ContainerParagraph>
           <ContainerH2>Evangelium: Nám, Pane, dal jsi slovo své</ContainerH2>
           <ContainerParagraph>
-            R: Nám, Pane, dal jsi Slovo své,
+            R:&nbsp;Nám,&nbsp;Pane,&nbsp;dal jsi&nbsp;Slovo&nbsp;své,
             <br />
-            Ducha svého dej nám též. 
+            Ducha svého&nbsp;dej nám&nbsp;též.&nbsp;
             <br />
-            Ať Tebe vždycky přijmeme,
+            Ať&nbsp;Tebe&nbsp;vždycky&nbsp;přijmeme,
             <br />
-            Ducha svého dej nám též.
+            Ducha svého&nbsp;dej nám&nbsp;též.
           </ContainerParagraph>
           <ContainerParagraph>
-            1. Zůstaň, Pane, s námi všechny dny až na věky,
+            1.&nbsp;Zůstaň,&nbsp;Pane, s&nbsp;námi&nbsp;všechny dny&nbsp;až&nbsp;na věky,
             <br />
-            Ducha svého dej nám též. 
+            Ducha svého&nbsp;dej nám&nbsp;též.&nbsp;
             <br />
-            Ty jsi cesta, Ty jsi život pro nás, pro bratry,
+            Ty jsi&nbsp;cesta, Ty&nbsp;jsi&nbsp;život pro&nbsp;nás,&nbsp;pro&nbsp;bratry,
             <br />
-            Ducha svého dej nám též.
+            Ducha svého&nbsp;dej nám&nbsp;též.
           </ContainerParagraph>
           <ContainerParagraph>
-            R: Nám, Pane, dal jsi Slovo své,
+            R:&nbsp;Nám,&nbsp;Pane,&nbsp;dal jsi&nbsp;Slovo&nbsp;své,
             <br />
-            Ducha svého dej nám též. 
+            Ducha svého&nbsp;dej nám&nbsp;též.&nbsp;
             <br />
-            Ať Tebe vždycky přijmeme,
+            Ať&nbsp;Tebe&nbsp;vždycky&nbsp;přijmeme,
             <br />
-            Ducha svého dej nám též.
+            Ducha svého&nbsp;dej nám&nbsp;též.
           </ContainerParagraph>
           <ContainerParagraph>
-            2. Všechny moci světa, když nás, Pane, týrají,
+            2.&nbsp;Všechny&nbsp;moci světa,&nbsp;když nás,&nbsp;Pane,&nbsp;týrají,
             <br />
-            Ducha svého dej nám též. 
+            Ducha svého&nbsp;dej nám&nbsp;též.&nbsp;
             <br />
-            Ve víře nás přece Boží síla provází,
+            Ve&nbsp;víře nás&nbsp;přece&nbsp;Boží síla&nbsp;provází,
             <br />
-            Ducha svého dej nám též.
+            Ducha svého&nbsp;dej nám&nbsp;též.
           </ContainerParagraph>
           <ContainerParagraph>
-            R: Nám, Pane, dal jsi Slovo své,
+            R:&nbsp;Nám,&nbsp;Pane,&nbsp;dal jsi&nbsp;Slovo&nbsp;své,
             <br />
-            Ducha svého dej nám též. 
+            Ducha svého&nbsp;dej nám&nbsp;též.&nbsp;
             <br />
-            Ať Tebe vždycky přijmeme,
+            Ať&nbsp;Tebe&nbsp;vždycky&nbsp;přijmeme,
             <br />
-            Ducha svého dej nám též.
+            Ducha svého&nbsp;dej nám&nbsp;též.
           </ContainerParagraph>
           <ContainerParagraph>
-            3. Stále znovu zpívám: Pane, dej nám Ducha též,
+            3.&nbsp;Stále&nbsp;znovu zpívám:&nbsp;Pane, dej&nbsp;nám&nbsp;Ducha&nbsp;též,
             <br />
-            Ducha svého dej nám též. 
+            Ducha svého&nbsp;dej nám&nbsp;též.&nbsp;
             <br />
-            Který srdce, mysl zarmoucenou pozdvihne,
+            Který&nbsp;srdce, mysl&nbsp;zarmoucenou&nbsp;pozdvihne,
             <br />
-            Ducha svého dej nám též.
+            Ducha svého&nbsp;dej nám&nbsp;též.
           </ContainerParagraph>
           <ContainerH2>Obětní průvod: Požehnaný jsi, Bože</ContainerH2>
           <ContainerParagraph>
-            Požehnaný jsi, Bože, na věky,
+            Požehnaný jsi,&nbsp;Bože,&nbsp;na věky,
             <br />
-            z Tvé ruky všechno máme.
+            z&nbsp;Tvé ruky všechno&nbsp;máme.
             <br />
-            Požehnaný jsi, Bože veliký,
+            Požehnaný jsi,&nbsp;Bože&nbsp;veliký,
             <br />
             ...
             <br />
-            1. ... chléb ti zde přinášíme.
+            1.&nbsp;...&nbsp;chléb ti&nbsp;zde přinášíme.
             <br />
-            2. ... víno ti přinášíme.
+            2.&nbsp;...&nbsp;víno&nbsp;ti přinášíme.
             <br />
-            3. ... dary ti přinášíme.
+            3.&nbsp;...&nbsp;dary&nbsp;ti přinášíme.
             <br />
           </ContainerParagraph>
           <ContainerH2>
             Přijímání I.: Ty jsi mi vším (Jsi silou mou, když umdlévám)
           </ContainerH2>
           <ContainerParagraph>
-            1. Jsi silou mou, když umdlévám, jsi poklad, který nalézám.
+            1.&nbsp;Jsi silou&nbsp;mou, když&nbsp;umdlévám, jsi poklad,&nbsp;který nalézám.
             <br />
-            Ty jsi mi vším, co mám.
+            Ty jsi&nbsp;mi&nbsp;vším,&nbsp;co&nbsp;mám.
           </ContainerParagraph>
           <ContainerParagraph>
-            2. Klenotem vzácným ses mi stal,
+            2.&nbsp;Klenotem&nbsp;vzácným ses&nbsp;mi&nbsp;stal,
             <br />
-            Tebe jen blázen by se vzdal.
+            Tebe jen&nbsp;blázen by&nbsp;se&nbsp;vzdal.
             <br />
-            Ty jsi mi vším, co mám.
+            Ty jsi&nbsp;mi&nbsp;vším,&nbsp;co&nbsp;mám.
           </ContainerParagraph>
           <ContainerParagraph>
-            R: Králi, Beránku,
+            R:&nbsp;Králi,&nbsp;Beránku,
             <br />
-            chválím jméno Tvé. 
+            chválím&nbsp;jméno&nbsp;Tvé.&nbsp;
             <br />
-            Králi, Beránku,
+            Králi,&nbsp;Beránku,
             <br />
-            chválím jméno Tvé.
+            chválím&nbsp;jméno&nbsp;Tvé.
           </ContainerParagraph>
           <ContainerParagraph>
-            3. Vzal jsi můj hřích, můj kříž, můj žal.
+            3.&nbsp;Vzal jsi&nbsp;můj&nbsp;hřích, můj&nbsp;kříž, můj&nbsp;žal.
             <br />
-            Tobě vzdám díky, že jsem vstal.
+            Tobě vzdám&nbsp;díky, že&nbsp;jsem&nbsp;vstal.
             <br />
-            Ty jsi mi vším co mám.
+            Ty jsi&nbsp;mi&nbsp;vším&nbsp;co&nbsp;mám.
           </ContainerParagraph>
           <ContainerParagraph>
-            4. Když padám, Ty mne pozvedáš,
+            4.&nbsp;Když padám,&nbsp;Ty mne&nbsp;pozvedáš,
             <br />
-            v poušti mi pohár doléváš.
+            v&nbsp;poušti&nbsp;mi&nbsp;pohár doléváš.
             <br />
-            Ty jsi mi vším, co mám.
+            Ty jsi&nbsp;mi&nbsp;vším,&nbsp;co&nbsp;mám.
           </ContainerParagraph>
           <ContainerH2>Přijímání II.: Všichni jsme jedno tělo</ContainerH2>
           <ContainerParagraph>
-            R: /: Všichni jsme jedno tělo,
+            R:&nbsp;/:&nbsp;Všichni jsme&nbsp;jedno&nbsp;tělo,
             <br />
-            spojil nás Ježíš, nikdo není sám. 
+            spojil nás&nbsp;Ježíš, nikdo&nbsp;není&nbsp;sám.&nbsp;
             <br />
-            Všichni jsme jedno tělo,
+            Všichni jsme&nbsp;jedno&nbsp;tělo,
             <br />
-            spojil nás Ježíš, On dal život nám. :/
+            spojil nás&nbsp;Ježíš, On&nbsp;dal život&nbsp;nám. :/
           </ContainerParagraph>
           <ContainerParagraph>
-            1. /: Když jíte tělo Mé a pijete Mou krev,
+            1.&nbsp;/:&nbsp;Když jíte&nbsp;tělo Mé&nbsp;a pijete&nbsp;Mou krev,
             <br />
-            budu žít ve vás, budete v lásce Mé. :/
+            budu žít&nbsp;ve vás,&nbsp;budete v&nbsp;lásce Mé.&nbsp;:/
           </ContainerParagraph>
           <ContainerParagraph>
-            2. /: Ve jménu Ježíše poklekne každý z nás
+            2.&nbsp;/:&nbsp;Ve jménu&nbsp;Ježíše poklekne&nbsp;každý z&nbsp;nás
             <br />
-            On je všech králů Král a brzy přijde zas. :/
+            On je&nbsp;všech králů&nbsp;Král a&nbsp;brzy přijde&nbsp;zas. :/
           </ContainerParagraph>
           <ContainerParagraph>
-            3. /: Cestou a Pravdou jsem, Beránek nejtišší,
+            3.&nbsp;/:&nbsp;Cestou a&nbsp;Pravdou jsem,&nbsp;Beránek nejtišší,
             <br />
-            jsem oběť jediná, jsem oběť nejvyšší. :/
+            jsem oběť&nbsp;jediná, jsem&nbsp;oběť nejvyšší.&nbsp;:/
             <br />
           </ContainerParagraph>
           <ContainerH2>Přijímání III.: Vzácný jsi</ContainerH2>
           <ContainerParagraph>
-            1. /: Vzácný jsi pro mě, Pane můj.:/
+            1.&nbsp;/:&nbsp;Vzácný&nbsp;jsi pro&nbsp;mě, Pane&nbsp;můj.:/
             <br />
-            R: /: Tebe mám, Tebe mám rád, Tebe mám rád,
+            R:&nbsp;/: Tebe&nbsp;mám, Tebe&nbsp;mám&nbsp;rád, Tebe&nbsp;mám&nbsp;rád,
             <br />
-            Ty sáms mě dřív měl rád.:/
+            Ty sáms&nbsp;mě&nbsp;dřív měl&nbsp;rád.:/
             <br />
-            2. /: Láska Tvá je vzácná, to vím.:/
+            2.&nbsp;/:&nbsp;Láska&nbsp;Tvá je&nbsp;vzácná, to&nbsp;vím.:/
             <br />
-            3. /: Vůle Tvá je správná, to vím!:/
+            3.&nbsp;/:&nbsp;Vůle&nbsp;Tvá je&nbsp;správná, to&nbsp;vím!:/
             <br />
-            4. /: Cestou Tvou, já navždy chci jít.:/
+            4.&nbsp;/:&nbsp;Cestou&nbsp;Tvou, já&nbsp;navždy chci&nbsp;jít.:/
           </ContainerParagraph>
           <ContainerH2>Závěr: Poutníci naděje</ContainerH2>
           <ContainerParagraph>
-            R: Plamen naděje v nás oživ,
+            R:&nbsp;Plamen naděje&nbsp;v nás&nbsp;oživ,
             <br />
-            v píseň chvály proměň jej.
+            v&nbsp;píseň&nbsp;chvály proměň&nbsp;jej.
             <br />
-            Poutníky, co naději nesou,
+            Poutníky, co&nbsp;naději nesou,
             <br />
-            Pane, chraň a provázej.
+            Pane, chraň&nbsp;a provázej.
           </ContainerParagraph>
           <ContainerParagraph>
-            1. Každý jazyk, lid i národ
+            1.&nbsp;Každý jazyk,&nbsp;lid i&nbsp;národ
             <br />
-            najde světlo v Slově tvém.
+            najde světlo&nbsp;v Slově&nbsp;tvém.
             <br />
-            Všechno, co je rozptýlené,
+            Všechno, co&nbsp;je rozptýlené,
             <br />
-            jednotu nalezne v Něm.
+            jednotu nalezne&nbsp;v Něm.
           </ContainerParagraph>
           <ContainerParagraph>
-            R: Plamen naděje v nás oživ,
+            R:&nbsp;Plamen naděje&nbsp;v nás&nbsp;oživ,
             <br />
-            v píseň chvály proměň jej.
+            v&nbsp;píseň&nbsp;chvály proměň&nbsp;jej.
             <br />
-            Poutníky, co naději nesou,
+            Poutníky, co&nbsp;naději nesou,
             <br />
-            Pane, chraň a provázej.
+            Pane, chraň&nbsp;a provázej.
           </ContainerParagraph>
           <ContainerParagraph>
-            2. Bože něžný, trpělivý,
+            2.&nbsp;Bože něžný,&nbsp;trpělivý,
             <br />
-            posiluj nás v naději.
+            posiluj nás&nbsp;v naději.
             <br />
-            Nové nebe, novou zemi,
+            Nové nebe,&nbsp;novou zemi,
             <br />
-            Boží Duch kéž obnoví.
+            Boží Duch&nbsp;kéž obnoví.
           </ContainerParagraph>
           <ContainerParagraph>
-            R: Plamen naděje v nás oživ,
+            R:&nbsp;Plamen naděje&nbsp;v nás&nbsp;oživ,
             <br />
-            v píseň chvály proměň jej.
+            v&nbsp;píseň&nbsp;chvály proměň&nbsp;jej.
             <br />
-            Poutníky, co naději nesou,
+            Poutníky, co&nbsp;naději nesou,
             <br />
-            Pane, chraň a provázej.
+            Pane, chraň&nbsp;a provázej.
           </ContainerParagraph>
           <ContainerParagraph>
-            3. Vstaň a jdi, Duch Svatý vane,
+            3.&nbsp;Vstaň a&nbsp;jdi, Duch&nbsp;Svatý vane,
             <br />
-            sám Bůh vstupuje v náš svět.
+            sám Bůh&nbsp;vstupuje v&nbsp;náš svět.
             <br />
-            Kdo jej dá poznat hledajícím?
+            Kdo jej&nbsp;dá poznat&nbsp;hledajícím?
             <br />
-            Pošli mne, zní má odpověď.
+            Pošli mne,&nbsp;zní má&nbsp;odpověď.
             <br />
           </ContainerParagraph>
         </Container>
