@@ -134,7 +134,9 @@ export default async function PrednaskyWorhsopy() {
                             ? `/mapa?x=${50.208725}&y=${15.8323194}` // Biskupská rezidence
                             : w.place.includes("Katedrála")
                             ? `/mapa?x=${50.2087878}&y=${15.8310917}` // Katedrála
-                            : w.place.includes("BiGy")
+                            : w.place.includes("Nanebevzetí")
+                            ? `/mapa?x=${50.2090772}&y=${15.8341294}` // Kostel Nanebevzetí Panny Marie
+                            : w.place.includes("Biskupské gymnázium")
                             ? `/mapa?x=${50.2062919}&y=${15.8337133}` // BiGy
                             : w.place.includes("Nové Adalbertinum")
                             ? `/mapa?x=${50.2090269}&y=${15.8334453}` // Nove Adalbertinum
@@ -251,23 +253,6 @@ export default async function PrednaskyWorhsopy() {
 }
 
 const workshops = [
-  // {
-  //   title:
-  //     "Víra pod tlakem: Jak si&nbsp;obhájit svou&nbsp;víru před&nbsp;sebou i&nbsp;před druhými",
-  //   type: "person",
-  //   about: "P. Josef Kvapilík je kněz z �enerace Z, který doprovází mladé na Centru života mládeže v Rajnochovicích. Má rád hudbu, lyžování a dobré otázky. Offline i online jako Pater Pepa otevírá témata víry, vztahů a smyslu života tak, aby dávala smysl lidem dnešní �enerace.",
-  //   description:
-  //     "Co dělat, když ve škole nebo na síti dostaneš otázku na svou víru a nevíš, co říct? A co když máš otázky sám? Na základě své zkušenosti z života, ale taky z YouTube nebo Insta�ramu, bych se s Tebou chtěl podělit o svou cestu hledání i praktické tipy, jak o víře přemýšlet a mluvit. Přijď načerpat odvahu, ar�umenty a naději.",
-  //   speaker: {
-  //     name: "P. Josef Kvapilík",
-  //     jpgPath: "/assets/images/speakers/pater_pepa.jpg",
-  //   },
-  //   social: {
-  //     ig: "https://www.instagram.com/paterpepa/",
-  //   },
-  //   capacity: 60,
-  //   place: "aula",
-  // },
   {
     title: "Jak rozpoznat Boží povolání",
     type: "workshop",
@@ -281,6 +266,7 @@ const workshops = [
     },
     times: [1],
     capacity: 20,
+    place: "Zasedací místnost DCM 1. patro",
   },
   {
     title: "Zákulisí papežské liturgie",
@@ -294,6 +280,7 @@ const workshops = [
     },
     times: [2],
     capacity: 20,
+    place: "Zasedací místnost DCM 1. patro",
   },
   {
     title: "Příprava na ministrování při společní mši svaté",
@@ -307,6 +294,7 @@ const workshops = [
     },
     times: [2],
     capacity: 14,
+    place: "Katedrála",
   },
   {
     title: "Liturgický oděv a jeho výroba",
@@ -320,6 +308,7 @@ const workshops = [
     },
     times: [1, 2],
     capacity: 15,
+    place: "Balbínka",
   },
   {
     title: "Žít jako andělé",
@@ -333,6 +322,7 @@ const workshops = [
     },
     times: [1, 2],
     capacity: 10,
+    place: "Kaple sv. Vojtěcha v druhém patře",
   },
   {
     title: "Kresba a Malování",
@@ -346,6 +336,7 @@ const workshops = [
     },
     times: [1, 2],
     capacity: 10,
+    place: "Rozhodne se na místě dle počasí"
   },
   {
     title: "Ministrování není žádná novinka. Ministranti včera a dnes",
@@ -359,6 +350,7 @@ const workshops = [
     },
     times: [1, 2],
     capacity: 20,
+    place: "Teologický institut",
   },
   {
     title: "Služba vojenského kaplana",
@@ -372,6 +364,7 @@ const workshops = [
     },
     times: [1, 2],
     capacity: 30,
+    place: "Kostel Nanebevzetí Panny Marie",
   },
   {
     title: "Dreamgame",
@@ -386,6 +379,7 @@ const workshops = [
     },
     times: [1, 2],
     capacity: 30,
+    place: "Biskupské gymnázium",
   },
   {
     title: "Frisbee",
@@ -399,6 +393,7 @@ const workshops = [
     },
     times: [1, 2],
     capacity: 30,
+    place: "Biskupské gymnázium",
   },
   {
     title: "Šátkovaná",
@@ -412,6 +407,7 @@ const workshops = [
     },
     times: [1, 2],
     capacity: 30,
+    place: "Biskupské gymnázium",
   },
   {
     title: "Fotbal",
@@ -425,5 +421,6 @@ const workshops = [
     },
     times: [1, 2],
     capacity: 16,
+    place: "Biskupské gymnázium",
   },
 ];

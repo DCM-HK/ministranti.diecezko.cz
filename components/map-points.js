@@ -185,18 +185,17 @@ const places = [
     <li>12:00 oběd</li>
     `,
   },
-  // {
-  //   coords: {
-  //     x: 50.2062919,
-  //     y: 15.8337133,
-  //   },
-  //   name: "BiGy (Biskupské gymnázium)",
-  //   content: ``,
-      // <li>12:30 přednášky, workshopy</li>
-      // <li>14:10 začátek programu po vikariátech</li>
-      // <li>13:30 nealkoholický bar</li>
-      // <li>14:10 modlitba za město</li>
-  // },
+  {
+    coords: {
+      x: 50.2062919,
+      y: 15.8337133,
+    },
+    name: "BiGy (Biskupské gymnázium)",
+    content: `
+      <li>12:45 1. blok sportů</li>
+      <li>13:45 2. blok sportů</li>
+      `,
+  },
   // {
   //   coords: {
   //     x: 50.2138117,
