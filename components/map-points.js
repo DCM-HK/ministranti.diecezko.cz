@@ -191,9 +191,10 @@ const places = [
       y: 15.8337133,
     },
     name: "BiGy (Biskupské gymnázium)",
-    content: ``,
+    content: `
       <li>12:45 1. blok sportů</li>
       <li>13:45 2. blok sportů</li>
+      `,
   },
   // {
   //   coords: {
