@@ -15,41 +15,18 @@ export default function Galerie() {
         <Container>
           <ContainerTitle>Galerie</ContainerTitle>
           <ContainerDescription>
-            Zavzpomínej na Diecézko 2025, které pro nás nafotil{" "}
-            <Link
-              href={`https://www.facebook.com/profile.php?id=100013329674785`}
-              target="_blank"
-              rel="external noopener nofollow"
-              className="underline"
-            >
-              Petr Hrabovský
-            </Link>{" "}
-            a&nbsp;
-            <Link
-              href={`https://www.facebook.com/jan.urban.1291`}
-              target="_blank"
-              rel="external noopener nofollow"
-              className="underline"
-            >
-              Honza Urban
-            </Link>
-            .
+            Zavzpomínej na setkání ministrantů 2026, které pro nás nafotil Pavel Voňka.
           </ContainerDescription>
           <div className="w-full grid md:grid-cols-2 gap-4">
             <Link
-              href="/galerie/hrabovsky"
-              className="hover:scale-105 duration-200 flex flex-col items-center justify-center w-full h-64 bg-[url('https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8931.webp')] bg-center rounded-xl bg-cover"
+              href="/galerie/vonka"
+              className="hover:scale-105 duration-200 flex flex-col items-center justify-center
+                w-full h-64
+                bg-[url('https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230849_PaV.webp')]
+                bg-center rounded-xl bg-cover"
             >
               <h2 className="text-2xl font-semibold backdrop-blur-sm p-12 rounded-xl backdrop-brightness-50">
-                Fotky od Petra
-              </h2>
-            </Link>
-            <Link
-              href="/galerie/urban"
-              className="hover:scale-105 duration-200 flex flex-col items-center justify-center w-full h-64 bg-[url('https://foto2025.diecezko.cz/foto/urban/IMG_8998.webp')] bg-center rounded-xl bg-cover"
-            >
-              <h2 className="text-2xl font-semibold backdrop-blur-sm p-8 rounded-xl">
-                Fotky od Honzy
+                Fotky od Pavla
               </h2>
             </Link>
           </div>
