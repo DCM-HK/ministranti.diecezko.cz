@@ -1,3500 +1,4274 @@
-export const photos_hrabovsky = [
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8773.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8773.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8786.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8786.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8793.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8793.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8795.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8795.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8799.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8799.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8769.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8769.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8767.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8767.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8804.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8804.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8775.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8775.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8807.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8807.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8808.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8808.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8811.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8811.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8817.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8817.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8816.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8816.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8844.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8844.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8834.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8834.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8874-Enhanced-NR.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8874-Enhanced-NR.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8883.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8883.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8870.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8870.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8851.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8851.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8904.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8904.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8909.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8909.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8898.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8898.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8907.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8907.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8924.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8924.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8927.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8927.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8931.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8931.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8943.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8943.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8945.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8945.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9016-Enhanced-NR.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9016-Enhanced-NR.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9023.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9023.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8992.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8992.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8954.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8954.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9037.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9037.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9087.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9087.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9068.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9068.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9123-Enhanced-NR.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9123-Enhanced-NR.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9139.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9139.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9130.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9130.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9156.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9156.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9126.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9126.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9194.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9194.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9201.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9201.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9218-Enhanced-NR.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9218-Enhanced-NR.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9209.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9209.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9246.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9246.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9272-Enhanced-NR.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9272-Enhanced-NR.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9283.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9283.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9248.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9248.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9306.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9306.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9288.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9288.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9339.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9339.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9300.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9300.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9347.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9347.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9346.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9346.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9354.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9354.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9349.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9349.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9359.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9359.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9362.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9362.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9374.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9374.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9384.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9384.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9387.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9387.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9391.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9391.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9393.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9393.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9395.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9395.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9400.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9400.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9426.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9426.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9434.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9434.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9437.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9437.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9441.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9441.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9451.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9451.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9468.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9468.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9462.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9462.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9471.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9471.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9486.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9486.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9485.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9485.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9483.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9483.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9502.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9502.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9498.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9498.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9493.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9493.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9519.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9519.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9529.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9529.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9540.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9540.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9522.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9522.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9534.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9534.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9546.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9546.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9549.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9549.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9554.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9554.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9552.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9552.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9559.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9559.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9588.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9588.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9576.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9576.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9574.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9574.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9567.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9567.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9594.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9594.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9623.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9623.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9590.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9590.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9596.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9596.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9625.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9625.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9631.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9631.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9637.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9637.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9635.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9635.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9664.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9664.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9667.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9667.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9670.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9670.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9672.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9672.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9675.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9675.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9679.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9679.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9691.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9691.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9684.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9684.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9696.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9696.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9708.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9708.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9714.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9714.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9725.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9725.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9716.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9716.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9727.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9727.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9748.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9748.webp",
-    width: 800,
-    height: 1200,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9741.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9741.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9745.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9745.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9736.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9736.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9752.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9752.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9756.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9756.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9758.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9758.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9760.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9760.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9768.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9768.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9764.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9764.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9773.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9773.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9777.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9777.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9784.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9784.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9787.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9787.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9790.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9790.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9795.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9795.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9801.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9801.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9823.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9823.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9833.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9833.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9838.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9838.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9842.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9842.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9850.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9850.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9865.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9865.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9880.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9880.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9898.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9898.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9885.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9885.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9905.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9905.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9901.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9901.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9917.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9917.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9935.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9935.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9949.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9949.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9953.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9953.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9932.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9932.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9962.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9962.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0039.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0039.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0053.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0053.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0189.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0189.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0074.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0074.webp",
-    width: 800,
-    height: 1200,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0174.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0174.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0190.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0190.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0196.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0196.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0198.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0198.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0213.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0213.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0216.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0216.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0223.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0223.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0242.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0242.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0249.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0249.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0257.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0257.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0274.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0274.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0283.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0283.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0279.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0279.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0286.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0286.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0299.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0299.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0324.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0324.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0318.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0318.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0331.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0331.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0336.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0336.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0343.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0343.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0348.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0348.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0359.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0359.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0369.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0369.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0389.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0389.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0384.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0384.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0402.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0402.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0395.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0395.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0428.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0428.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0426.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0426.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-];
-
-export const photos_urban = [
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8457.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8457.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8470.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8470.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8464.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8464.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8480.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8480.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8478.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8478.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8482.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8482.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8467.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8467.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8486.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8486.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8494.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8494.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8492.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8492.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8489.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8489.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8495.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8495.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8497.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8497.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8505.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8505.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8498.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8498.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8499.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8499.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8509.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8509.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8512.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8512.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8515.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8515.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8514.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8514.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8519.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8519.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8524.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8524.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8528.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8528.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8532.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8532.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8531.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8531.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8533.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8533.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8534.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8534.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8536.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8536.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8549.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8549.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8542.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8542.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8545.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8545.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8550.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8550.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8552.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8552.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8560.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8560.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8539.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8539.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8569.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8569.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8558.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8558.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8566.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8566.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8572.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8572.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8571.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8571.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8586.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8586.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8575.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8575.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8580.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8580.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8595.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8595.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8601.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8601.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8583.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8583.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8602.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8602.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8599.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8599.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8614.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8614.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8603.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8603.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8624.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8624.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8620.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8620.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8607.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8607.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8628.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8628.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8634.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8634.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8636.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8636.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8642.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8642.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8645.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8645.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8647.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8647.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8660.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8660.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8633.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8633.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8668.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8668.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8671.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8671.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8657.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8657.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8676.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8676.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8679.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8679.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8683.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8683.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8684.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8684.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8689.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8689.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8665.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8665.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8692.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8692.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8694.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8694.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8686.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8686.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8691.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8691.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8699.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8699.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8697.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8697.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8703.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8703.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8708.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8708.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8707.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8707.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8711.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8711.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8717.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8717.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8712.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8712.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8718.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8718.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8723.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8723.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8725.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8725.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8700.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8700.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8730.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8730.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8734.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8734.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8732.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8732.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8736.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8736.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8741.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8741.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8742.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8742.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8728.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8728.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8751.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8751.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8747.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8747.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8753.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8753.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8758.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8758.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8763.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8763.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8764.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8764.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8759.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8759.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8765.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8765.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8771.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8771.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8760.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8760.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8769.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8769.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8772.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8772.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8773.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8773.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8781.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8781.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8785.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8785.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8790.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8790.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8791.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8791.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8793.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8793.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8797.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8797.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8801.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8801.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8807.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8807.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8815.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8815.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8816.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8816.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8831.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8831.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8834.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8834.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8818.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8818.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8840.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8840.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8842.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8842.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8844.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8844.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8845.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8845.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8843.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8843.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8846.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8846.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8860.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8860.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8861.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8861.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8862.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8862.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8863.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8863.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8864.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8864.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8865.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8865.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8867.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8867.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8877.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8877.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8868.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8868.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8881.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8881.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8885.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8885.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8882.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8882.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8880.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8880.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8890.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8890.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8889.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8889.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8898.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8898.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8899.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8899.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8907.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8907.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8894.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8894.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8910.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8910.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8917.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8917.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8918.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8918.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8909.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8909.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8919.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8919.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8923.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8923.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8929.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8929.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8927.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8927.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8931.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8931.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8926.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8926.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8932.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8932.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8935.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8935.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8936.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8936.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8937.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8937.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8945.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8945.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8941.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8941.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8947.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8947.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8951.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8951.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8953.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8953.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8959.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8959.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8946.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8946.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8964.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8964.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8968.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8968.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8967.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8967.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8969.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8969.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8961.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8961.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8971.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8971.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8977.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8977.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8979.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8979.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8986.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8986.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8981.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8981.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8990.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8990.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8988.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8988.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9002.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9002.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8998.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8998.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8996.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8996.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9003.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9003.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9020.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9020.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9023.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9023.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9007.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9007.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9011.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9011.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9024.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9024.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9032.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9032.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9035.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9035.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9025.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9025.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9038.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9038.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9041.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9041.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9043.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9043.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9044.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9044.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9052.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9052.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9050.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9050.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9061.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9061.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9066.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9066.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9070.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9070.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9068.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9068.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9071.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9071.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9074.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9074.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9082.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9082.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9084.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9084.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9077.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9077.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9086.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9086.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9095.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9095.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9106.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9106.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9093.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9093.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9098.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9098.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9110.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9110.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9107.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9107.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9111.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9111.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9118.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9118.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9116.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9116.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9123.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9123.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9113.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9113.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9128.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9128.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9126.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9126.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9129.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9129.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9130.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9130.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9135.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9135.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9138.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9138.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9145.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9145.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9143.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9143.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9146.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9146.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9152.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9152.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9154.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9154.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9156.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9156.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9165.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9165.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9173.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9173.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9160.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9160.webp",
-    width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-];
+export const photos_vonka = [
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230739_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230739_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230742_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230742_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230745_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230745_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230746_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230746_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230747_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230747_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230748_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230748_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230749_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230749_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230750_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230750_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230751_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230751_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230752_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230752_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230753_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230753_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230754_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230754_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230755_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230755_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230756_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230756_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230757_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230757_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230758_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230758_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230759_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230759_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230761_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230761_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230762_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230762_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230763_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230763_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230764_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230764_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230766_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230766_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230767_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230767_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230768_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230768_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230769_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230769_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230770_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230770_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230771_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230771_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230772_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230772_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230773_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230773_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230774_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230774_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230775_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230775_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230776_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230776_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230777_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230777_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230778_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230778_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230779_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230779_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230780_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230780_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230783_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230783_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230784_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230784_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230785_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230785_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230786_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230786_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230787_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230787_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230788_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230788_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230789_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230789_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230790_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230790_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230791_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230791_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230792_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230792_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230795_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230795_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230797_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230797_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230798_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230798_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230799_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230799_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230800_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230800_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230801_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230801_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230802_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230802_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230804_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230804_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230805_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230805_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230806_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230806_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230807_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230807_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230808_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230808_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230809_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230809_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230810_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230810_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230811_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230811_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230813_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230813_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230814_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230814_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230815_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230815_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230816_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230816_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230817_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230817_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230818_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230818_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230819_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230819_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230820_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230820_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230821_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230821_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230822_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230822_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230823_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230823_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230824_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230824_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230825_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230825_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230826_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230826_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230827_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230827_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230828_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230828_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230829_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230829_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230830_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230830_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230831_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230831_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230832_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230832_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230833_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230833_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230834_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230834_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230835_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230835_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230836_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230836_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230837_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230837_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230838_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230838_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230839_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230839_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230840_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230840_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230841_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230841_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230842_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230842_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230843_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230843_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230844_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230844_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230845_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230845_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230846_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230846_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230847_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230847_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230848_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230848_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230849_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230849_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230850_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230850_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230851_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230851_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230852_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230852_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230853_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230853_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230854_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230854_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230855_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230855_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230856_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230856_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230859_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230859_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230860_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230860_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230861_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230861_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230862_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230862_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230863_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230863_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230864_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230864_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230865_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230865_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230867_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230867_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230868_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230868_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230869_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230869_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230870_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230870_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230871_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230871_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230872_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230872_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230873_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230873_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230874_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230874_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230875_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230875_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230876_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230876_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230877_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230877_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230878_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230878_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230879_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230879_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230880_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230880_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230881_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230881_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230882_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230882_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230883_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230883_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230884_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230884_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230885_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230885_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230886_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230886_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230888_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230888_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230889_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230889_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230890_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230890_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230891_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230891_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230892_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230892_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230893_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230893_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230894_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230894_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230896_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230896_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230898_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230898_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230900_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230900_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230901_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230901_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230902_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230902_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230903_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230903_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230904_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230904_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230905_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230905_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230906_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230906_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230907_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230907_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230908_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230908_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230909_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230909_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230910_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230910_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230911_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230911_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230912_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230912_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230913_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230913_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230914_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230914_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230915_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230915_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230916_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230916_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230917_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230917_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230918_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230918_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230919_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230919_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230920_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230920_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230922_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230922_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230923_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230923_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230924_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230924_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230925_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230925_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230926_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230926_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230927_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230927_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230928_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230928_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230929_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230929_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230930_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230930_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230931_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230931_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230932_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230932_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230933_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230933_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230934_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230934_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230935_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230935_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230936_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230936_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230937_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230937_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230938_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230938_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230939_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230939_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230940_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230940_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230941_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230941_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230942_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230942_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230944_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230944_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230945_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230945_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230946_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230946_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230947_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230947_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230948_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230948_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230949_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230949_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230950_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230950_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230951_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230951_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230952_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230952_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230953_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230953_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230955_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230955_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230956_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230956_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230957_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230957_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230958_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230958_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230960_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230960_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230961_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230961_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230962_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230962_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230963_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230963_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230966_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230966_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230967_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230967_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230968_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230968_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230969_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230969_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230970_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230970_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230971_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230971_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230972_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230972_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230973_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230973_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230974_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230974_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230975_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230975_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230976_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230976_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230977_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230977_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230978_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230978_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230979_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230979_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230980_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230980_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230981_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230981_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230982_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230982_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230983_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230983_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230984_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230984_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230985_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230985_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230986_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230986_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230987_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230987_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230988_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230988_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230989_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230989_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230990_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230990_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230991_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230991_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230992_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230992_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230993_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230993_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230994_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230994_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230995_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230995_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230996_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230996_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230997_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230997_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230998_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230998_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230999_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5230999_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231000_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231000_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231001_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231001_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231002_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231002_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231003_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231003_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231004_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231004_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231005_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231005_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231006_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231006_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231007_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231007_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231008_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231008_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231009_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231009_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231010_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231010_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231011_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231011_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231012_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231012_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231013_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231013_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231014_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231014_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231015_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231015_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231016_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231016_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231017_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231017_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231018_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231018_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231019_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231019_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231022_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231022_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231023_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231023_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231024_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231024_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231025_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231025_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231026_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231026_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231027_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231027_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231028_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231028_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231029_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231029_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231030_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231030_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231031_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231031_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231032_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231032_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231033_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231033_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231034_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231034_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231035_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231035_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231036_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231036_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231037_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231037_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231038_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231038_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231039_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231039_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231040_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231040_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231041_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231041_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231042_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231042_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231043_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231043_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231044_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231044_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231045_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231045_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231046_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231046_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231047_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231047_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231048_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231048_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231049_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231049_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231050_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231050_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231051_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231051_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231052_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231052_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231053_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231053_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231054_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231054_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231055_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231055_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231056_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231056_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231057_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231057_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231058_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231058_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231059_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231059_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231060_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231060_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231061_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231061_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231062_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231062_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231063_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231063_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231064_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231064_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231065_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231065_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231066_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231066_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231067_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231067_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231068_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231068_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231069_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231069_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231070_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231070_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231072_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231072_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231073_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231073_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231074_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231074_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231075_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231075_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231076_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231076_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231077_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231077_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231078_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231078_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231079_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231079_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231080_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231080_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231081_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231081_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231082_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231082_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231083_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231083_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231084_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231084_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231085_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231085_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231086_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231086_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231087_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231087_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231088_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231088_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231089_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231089_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231090_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231090_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231091_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231091_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231092_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231092_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231093_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231093_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231094_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231094_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231095_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231095_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231096_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231096_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231097_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231097_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231098_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231098_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231099_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231099_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231100_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231100_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231101_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231101_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231102_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231102_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231103_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231103_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231104_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231104_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231105_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231105_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231106_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231106_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231107_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231107_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231108_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231108_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231109_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231109_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231110_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231110_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231111_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231111_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231112_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231112_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231113_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231113_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231114_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231114_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231115_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231115_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231116_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231116_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231117_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231117_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231118_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231118_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231119_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231119_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231120_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231120_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231121_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231121_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231122_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231122_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231123_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231123_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231124_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231124_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231125_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231125_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231126_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231126_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231127_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231127_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231128_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231128_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231129_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231129_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231130_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231130_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231131_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231131_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231132_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231132_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231133_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231133_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231134_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231134_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231135_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231135_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231136_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231136_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231137_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231137_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231138_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231138_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231139_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231139_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231140_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231140_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231141_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231141_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231142_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231142_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231143_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231143_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231144_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231144_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231145_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231145_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231146_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231146_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231147_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231147_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231148_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231148_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231149_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231149_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231150_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231150_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231151_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231151_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231152_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231152_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231153_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231153_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231154_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231154_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231155_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231155_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231156_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231156_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231157_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231157_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231158_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231158_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231159_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231159_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231160_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231160_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231161_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231161_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231162_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231162_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231163_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231163_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231164_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231164_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231165_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231165_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231166_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231166_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231168_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231168_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231169_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231169_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231170_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231170_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231171_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231171_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231172_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231172_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231173_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231173_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231174_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231174_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231175_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231175_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231176_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231176_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231177_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231177_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231178_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231178_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231179_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231179_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231180_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231180_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231181_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231181_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231182_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231182_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231183_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231183_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231184_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231184_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231185_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231185_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231186_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231186_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231187_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231187_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231188_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231188_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231189_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231189_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231190_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231190_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231191_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231191_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231192_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231192_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231193_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231193_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231194_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231194_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231195_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231195_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231196_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231196_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231197_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231197_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231198_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231198_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231199_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231199_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231200_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231200_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231201_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231201_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231202_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231202_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231203_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231203_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231204_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231204_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231205_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231205_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231207_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231207_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231208_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231208_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231209_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231209_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231210_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231210_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231211_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231211_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231212_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231212_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231213_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231213_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231214_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231214_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231215_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231215_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231216_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231216_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231217_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231217_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231218_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231218_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231219_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231219_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231220_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231220_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231221_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231221_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231222_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231222_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231223_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231223_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231224_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231224_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231225_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231225_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231226_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231226_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231227_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231227_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231228_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231228_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231229_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231229_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231230_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231230_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231231_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231231_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231232_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231232_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231233_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231233_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231234_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231234_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231235_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231235_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231236_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231236_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231237_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231237_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231238_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231238_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231239_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231239_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231240_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231240_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231241_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231241_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231242_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231242_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231244_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231244_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231245_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231245_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231246_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231246_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231247_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231247_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231248_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231248_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231249_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231249_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231250_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231250_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231251_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231251_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231252_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231252_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231253_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231253_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231254_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231254_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231255_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231255_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231256_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231256_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231257_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231257_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231258_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231258_PaV.webp",
+    "width": 3,
+    "height": 4,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231259_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231259_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231261_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231261_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231262_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231262_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231263_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231263_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231265_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231265_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231266_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231266_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231267_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231267_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231268_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231268_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231269_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231269_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231270_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231270_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231271_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231271_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231272_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231272_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231273_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231273_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231274_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231274_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231275_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231275_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231276_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231276_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231277_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231277_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231278_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231278_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231279_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231279_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231280_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231280_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231281_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231281_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231282_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231282_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231283_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231283_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231284_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231284_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231285_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231285_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231286_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231286_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231287_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231287_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231288_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231288_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231289_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231289_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231290_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231290_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231291_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231291_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231292_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231292_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231293_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231293_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231294_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231294_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231295_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231295_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231296_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231296_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231297_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231297_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231298_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231298_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231299_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231299_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231300_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231300_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231301_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231301_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231302_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231302_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231303_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231303_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231304_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231304_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231305_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231305_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  },
+  {
+    "src": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231306_PaV.webp",
+    "original": "https://foto2026.ministranti.diecezko.cz/foto/vonka/P5231306_PaV.webp",
+    "width": 4,
+    "height": 3,
+    "alt": "Fotka z jarního Diecézka 2026",
+    "caption": "Fotka z jarního Diecézka 2026"
+  }
+]
